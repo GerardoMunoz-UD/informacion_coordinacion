@@ -1,4 +1,4 @@
-# Rubrica
+# Rúbrica
 
 * Febrero 6: Seleccione un resultado de aprendizaje de una materia que sea requisito (conceptualmente hablando) de una materia que esté impartiendo en este semestre. Si lo considera conveniente, puede proponer un nuevo resultado de aprendizaje. Al final se presenta como subir el resultado de aprendizaje seleccionado al repositorio.
 * Febrero 13: Realice una pregunta para sus estudiantes que permita evaluar el resultado de aprendizaje seleccionado.
