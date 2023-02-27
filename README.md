@@ -6,7 +6,7 @@
 * [Contenidos programáticos con resultados de aprendizaje](https://github.com/GerardoMunoz-UD/informacion_coordinacion/tree/main/sillabi)
 * [Foro de discusion](https://github.com/GerardoMunoz-UD/coordinador/issues)*
 
-*Si no funciona el enlace hay que enviar a gmunoz@udistrital.edu.co el nombre de su cuenta para adicionarlo como colaborador
+*Al adicionar como colaborador a `GerardoMunoz-UD` en su repositorio privado llamado `actividades`, se le envía un correo a gmunoz@udistrital.edu.co y él debe nombrarlo como colaborador del repositorio de los foros, antes de eso no se tiene acceso a esos foros.
 
 ## Guías y tutoriales
 ### Videos
@@ -23,4 +23,5 @@
 ### PDFs
 * [Crear el repositorio y subir un archivo](https://github.com/GerardoMunoz-UD/informacion_coordinacion/blob/main/crear_repo_subir_arch.pdf)
 * [Compartir el repositorio](https://github.com/GerardoMunoz-UD/informacion_coordinacion/blob/main/compartir_repo.pdf)
+
 
