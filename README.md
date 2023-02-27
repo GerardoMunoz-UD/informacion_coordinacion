@@ -1,9 +1,10 @@
 # Repositorio del coordinador para el desarrollo de las rúbricas
 
 ## Enlaces de interés
-* [Plan de estudios actual](http://ingelectronica.udistrital.edu.co:8080/documents/4239044/4282970/Pensum_ing_electronica+2015-3.pdf?version=1.0) 
-* [Plan de estudios con resultados de aprendizaje](https://github.com/GerardoMunoz-UD/informacion_coordinacion/tree/main/sillabi)
-* [Contenidos programáticos](http://ingelectronica.udistrital.edu.co:8080/contenidos-programaticos)
+* [Plan de estudios](http://ingelectronica.udistrital.edu.co:8080/documents/4239044/4282970/Pensum_ing_electronica+2015-3.pdf?version=1.0) 
+* [Contenidos programáticosactuales](http://ingelectronica.udistrital.edu.co:8080/contenidos-programaticos)
+* [Contenidos programáticos con resultados de aprendizaje](https://github.com/GerardoMunoz-UD/informacion_coordinacion/tree/main/sillabi)
+
 
 ## Guías y tutoriales
 ### Video
