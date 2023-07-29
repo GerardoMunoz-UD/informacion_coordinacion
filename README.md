@@ -2,7 +2,7 @@
 
 ## Enlaces de interés
 * [Plan de estudios](http://ingelectronica.udistrital.edu.co:8080/documents/4239044/4282970/Pensum_ing_electronica+2015-3.pdf?version=1.0) 
-* [Contenidos programáticos actuales](http://ingelectronica.udistrital.edu.co:8080/contenidos-programaticos)
+* [Contenidos programáticos actuales](https://github.com/GerardoMunoz-UD/informacion_coordinacion/edit/main/syllabi_word_2023_0725)
 * [Contenidos programáticos con resultados de aprendizaje](https://github.com/GerardoMunoz-UD/informacion_coordinacion/tree/main/sillabi)
 * [Foro de discusion](https://github.com/GerardoMunoz-UD/coordinador/issues)*
 
