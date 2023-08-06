@@ -1,7 +1,7 @@
 # Repositorio del coordinador 
 
 ## Información para estudiantes
-* [Presentación del Sistema de Gestión Académica Cóndor](https://github.com/GerardoMunoz-UD/informacion_coordinacion/blob/main/Primer_Semestre/Presentaci%C3%B3n%20Sistema%20de%20Gesti%C3%B3n%20Acad%C3%A9mica.pdf)
+* [Presentación del Sistema de Gestión Académica, Cóndor UD](https://github.com/GerardoMunoz-UD/informacion_coordinacion/blob/main/Primer_Semestre/Presentaci%C3%B3n%20Sistema%20de%20Gesti%C3%B3n%20Acad%C3%A9mica.pdf)
 * [Estatuto estudiantil](https://github.com/GerardoMunoz-UD/informacion_coordinacion/blob/main/Primer_Semestre/acu_1993-027_Estatuto_Estudiantil.pdf)
 * [Normativa relacionada con los trabajos de grado](https://github.com/GerardoMunoz-UD/informacion_coordinacion/tree/main/Documentos_Grados)
 
