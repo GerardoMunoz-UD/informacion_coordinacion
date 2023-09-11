@@ -1,24 +1,26 @@
-﻿Directivos consejo superior:
+Enlaces de interés:
+ 
+* Directivos consejo superior:
 https://sgral.udistrital.edu.co/sgral/index.php?option=com_content&task=view&id=16&Itemid=51
-Directivos Consejo Académicos:
+* Directivos Consejo Académicos:
 https://sgral.udistrital.edu.co/sgral/index.php?option=com_content&task=view&id=21&Itemid=55
 
-Historia de la U.D
+* Historia de la U.D
 https://www.udistrital.edu.co/historia 
-Simbolos:
+* Simbolos:
 https://www.udistrital.edu.co/simbolos
-Misión Visión Ud
+* Misión Visión Ud
  https://www.udistrital.edu.co/mision-vision 
-Facultades:
+* Facultades:
 https://www.udistrital.edu.co/facultades 
-Sedes:
+* Sedes:
 https://www.udistrital.edu.co/sedes
-Dependencias:
+* Dependencias:
  https://www.udistrital.edu.co/dependencias
 
-Normatividad (reglamentos):
+* Normatividad (reglamentos):
 https://www.udistrital.edu.co/normatividad
-Intitutos:
+* Institutos:
  http://pwi.udistrital.edu.co/institutos 
 
 
