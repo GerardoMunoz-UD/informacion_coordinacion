@@ -22,7 +22,7 @@ https://www.udistrital.edu.co/sedes
 https://www.udistrital.edu.co/normatividad
 * Institutos:
  http://pwi.udistrital.edu.co/institutos
-* Doctorado en Ingeniería:   http://docotradoingenieria.udistrital.edu.co
+* Doctorado en Ingeniería:   http://doctoradoingenieria.udistrital.edu.co
 
 
 
