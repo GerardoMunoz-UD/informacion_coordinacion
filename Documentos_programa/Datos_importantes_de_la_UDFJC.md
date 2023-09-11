@@ -7,9 +7,9 @@ https://sgral.udistrital.edu.co/sgral/index.php?option=com_content&task=view&id=
 
 * Historia de la U.D
 https://www.udistrital.edu.co/historia 
-* Simbolos:
+* Símbolos:
 https://www.udistrital.edu.co/simbolos
-* Misión Visión Ud
+* Misión y Visión UDFJC
  https://www.udistrital.edu.co/mision-vision 
 * Facultades:
 https://www.udistrital.edu.co/facultades 
