@@ -10,9 +10,9 @@ https://www.udistrital.edu.co/historia
 * Símbolos:
 https://www.udistrital.edu.co/simbolos
 * Misión y Visión UDFJC
- https://www.udistrital.edu.co/mision-vision 
+ https://www.udistrital.edu.co/mision-vision
 * Facultades:
-https://www.udistrital.edu.co/facultades 
+https://www.udistrital.edu.co/facultades
 * Sedes:
 https://www.udistrital.edu.co/sedes
 * Dependencias:
@@ -21,7 +21,7 @@ https://www.udistrital.edu.co/sedes
 * Normatividad (reglamentos):
 https://www.udistrital.edu.co/normatividad
 * Institutos:
- http://pwi.udistrital.edu.co/institutos 
+ http://pwi.udistrital.edu.co/institutos
 
 
 
