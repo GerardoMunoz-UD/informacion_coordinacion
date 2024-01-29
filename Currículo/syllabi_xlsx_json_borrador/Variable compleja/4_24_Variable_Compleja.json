@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El espacio académico de variable compleja comprende el estudio de las funciones analíticas, teoría del residuo, e introducción a las aplicaciones del residuo, mapeos conformes, y la transformada zeta entre otros. En este espacio, se extienden conceptos y analogías de los teoremas fundamentales del cálculo diferencial e integral de manera natural al plano complejo y en particular se resalta el teorema fundamental del algebra, teorema de Cauchy-Goursat, fórmula integral de Cauchy, teorema del residuo de Cauchy, entre otros.\nLa variable compleja permea espacios académicos pertenecientes a la categoría de ciencias básicas en ingeniería, y a la categoría de ingeniería aplicada. (Página 14 y 15 según publicación con Acreditación Institucional De Alta Calidad Proyecto Educativo del Programa Proyecto Curricular de Ingeniería Electrónica de septiembre de 2017). \n Este espacio académico es de gran importancia en ingeniería ya que no sólo proporciona herramientas o algoritmos para resolver problemas, sino que a la vez es un lenguaje útil para representar modelos teóricos de algunos fenómenos físicos propios de la ingeniería. La variable compleja como herramienta ha demostrado ser de gran valor en diversas áreas tales como: electromagnetismo, análisis de circuitos, flujo y transferencia de calor, flujo de fluidos, telecomunicaciones, procesamiento de señales de audio y la teoría cuántica de la estructura electrónica de los dispositivos de estado sólido, etc. Puntualmente, los mapeos conformes permiten al estudiante comprender, plantear, y transformar sistemas geométricos complicados en otros más simples, configuraciones de más fácil análisis mediante el uso del computador como una ayuda de razonamiento geométrico.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nComprender los fundamentos de la variable compleja que permitan al estudiante en su proceso de formación adquirir y manipular las herramientas básicas para su posterior aplicación en la resolución de problemas de ingeniería.\n\nOBJETIVOS ESPECIFICOS\n\n1. Aplicar las ideas fundamentales de la variable compleja tales como el teorema de Cauchy y el teorema del residuo a problemas matemáticos aplicados a la Ingeniería.\n2. Desarrollar y aplicar el concepto de función analítica en lo que respecta a mapeos o transformaciones, cálculo de residuos, integrales y series complejas.\n3. Aplicar los distintos criterios para determinar la analiticidad de una función de variable compleja a valor complejo, entre estos las ecuaciones de Cauchy- Riemann.\n4. Identificar la transformada Z como una aplicación de las series de Laurent y el teorema del residuo.\n5. Reconocer analogías y diferencias entre el cálculo Real conocido y la variable compleja.\n\n",
+    "Competencias":"Competencias que compromete la asignatura:\nBASICAS\nSe espera que a través del curso el estudiante domine e interprete el lenguaje matemático de la variable compleja, que le permita modelar, resolver y expresar situaciones que se presentan en su entorno profesional.\nDesarrolla habilidades y destrezas de la aritmética y algebra del campo de los complejos.\nArgumenta y justifica las funciones analíticas mediante problemas prácticos y teóricos específicos de las diferentes áreas de actividad de su profesión, usando lenguaje y simbología apropiada para las representaciones que requiera.\nReconoce y aplica modelos matemáticos con la computación a problemas asociados con la variable compleja.\nRelaciona el concepto de integración compleja con los teoremas importantes de la teoría de residuos y realiza el cálculo de residuos.",
+    "Metodologia":"La metodología del curso requiere que el estudiante realice la lectura previa de cada tema de clase ya que el conocimiento matemático no se adquiere pasivamente sino a través de una participación activa y continua del estudiante. El docente inicialmente evaluará la lectura previa por medio de quices al iniciar la semana de clases, estos tendrán preguntas referentes a los temas a tratar para después ser desarrollados y aclarados por el docente, utilizando como ayuda didáctica el tablero, el texto y las guías de clase. \nCada tema estará acompañado de una exposición teórica y ejemplos de aplicación suficientes de manera que aclaren el por qué de los conceptos teóricos dados. Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso, haciendo uso de la lectura previa y de la tecnología. De igual forma se propone la realización de discusiones grupales en torno a problemas específicos, realizando evaluaciones periódicas con el fin de llevar el seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante. Los estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.",
+  
+    "Semestre": "4",
+    "Malla Renglon": "3",
+    "Código del Espacio": "24",
+    "Espacio Académico": "Variable Compleja",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "2",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Unidad 1: Campo de los números complejos\nUnidad 2: Funciones Analíticas\nUnidad 3: Funciones Elementales.\nUnidad 4: Integrales\nUnidad 5: Series.\nUnidad 6: Residuos y Polos.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "ASPECTOS A EVALUAR DEL CURSO:\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n3. Autoevaluación.\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.\n\nTIPO DE EVALUACIÓN FECHA PORCENTAJE\n\nPRIMERA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 6 35%\nSEGUNDA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 13 35%\nEXAMEN FINAL\nParcial. Evaluación escrita y sustentación de trabajo final Semana 17 y 18 30%",
+
+    "Resultados de Aprendizaje1":"1. Representar un número complejo en su forma polar.",
+    "Resultados de Aprendizaje2":"2. Utilizar el teorema de Moivre para hallar raíces de números complejos.",
+    "Resultados de Aprendizaje3":"3. Identificar cuando una función es analítica.",
+    "Resultados de Aprendizaje4":"4. Aplicar correctamente el teorema de Green en la solución de problemas de integral de línea.",
+    "Resultados de Aprendizaje5":"5. Resolver y argumentar correctamente la solución de problemas rutinarios y no rutinarios en la aplicación de funciones analíticas.",
+    "Resultados de Aprendizaje6":"6. Aplica la tecnología adecuadamente en la solución de problemas de funciones analíticas.",
+    
+    "Materiales de Estudio": "TEXTOS BASICOS\nJames Ward Brown and Ruel V. Churchill; Complex Variables and applications; McGraw- Hill; 8a edición 2009.\nSaff, Edward B, and Arthur David Snider; Fundamentals of complex Analysis with applications to engineering, science, and Mathematics; Prentice Hall; 3a edición 2003.\n\nTEXTOS COMPLEMENTARIOS\nL. V. Ahlfors; Complex Analysis; McGraw-Hill- NY; 3a edición 1979.\nSerge Lang; Complex Analysis; Springer-Verlag; 4a edición 1999.\nA. David Wunsch; Variable Compleja con Aplicaciones; Addison–Wesley Iberoamericana; 2a edición 2005.\nWilliam R. Derrick; Variable Compleja con Aplicaciones; Grupo Editorial Iberoamérica\nA. I. Markushevich; Theory of Functions Parts I -II & III; Reprinted by AMS Chelsea Publishing; 2a edición 2005.\nJonh H. Mathews and Russell W. Howell; Complex Analysis for Mathematics and Engineering; Jones and Barltett Publishers; 5a edición 2006.\nWalter Rudin; Real and Complex Analysis; McGraw-Hill-NY; 3a edición 1987.\nJohn B. Conway; Functions of one Complex Variable I; Springer; 2a edición 1978.\nTristan Needham; Visual Complex Analysis; Oxford; 1a edición 2000.\nRichard A. Silverman; Introductory Complex Analysis; Dover Publications N.Y; 1a edición 1972.\nRalph P. Boas; Invitation to Complex Analysis; Reprinted by MAA; 2a edición 2010.\nArthur A. Hauser, Jr; Variable Compleja; Fondo Educativo Interamericano.\nFrancis J. Flanigan; Complex Variables Harmonic and Analytic Functions; Dover Publications N.Y; 1a edición 1983.\nElias M. Stein & Rami Shakarchi; Complex Analysis; Princeton University Press; 4a edición 2003.\nM. L. Krasnov, A. I. Kiseliov, G.I. Makarenko; Funciones de Variable Compleja, Cálculo Operacional y Teoría de la Estabilidad; Editorial Reverté; 1976.\nÉdouard Goursat; A Course in Mathematical Analysis Volume II; Dover Phoenix Editions; 1a edición 2005."
+}

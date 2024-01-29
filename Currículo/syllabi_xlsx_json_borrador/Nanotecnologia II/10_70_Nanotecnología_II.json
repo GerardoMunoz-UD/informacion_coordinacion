@@ -1,0 +1,108 @@
+{
+    "Semestre": "10",
+    "Malla Renglon": "13",
+    "Código del Espacio": "70",
+    "Espacio Académico": "Nanotecnología II",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "\n1. Nuevos nanodispositivos y materiales\n1.1.Cristales fotónicos y Nanofotónica\nFotones y electrones: similitudes y diferencias\nInteracciones ópticas a nanoescala\nConfinamiento a nanoescala de las interacciones electrónicas\nCristales Fotónicos\nPropiedades de los cristales fotónicos\nGeneración de Cristales Fotónicos\nAplicación de cristales fotónicos\n1.2.Dispositivos electrónicos de baja dimensionalidad: Puntos, hilos y pozos cuánticos.\nConfinamiento cuántico\nEstructura\nHistoria\nPropiedades\nSíntesis\nPropiedades ópticas\nPropiedades de transporte eléctrico de los pozos, hilos y puntos cuánticos\nExcitones en dispositivos de baja dimensionalidad\nPQ Bioconjugados \nToxicidad de los puntos cuánticos\n1.3.Moléculas magnéticas\nFerromagnetismo y Antiferromagnetismo\nEjemplos de moléculas magnéticas\nTúneles de magnetización y relajación magnética\nPropiedades de las moléculas magnéticas\nPosibilidades de aplicación de moléculas magnéticas\n1.4. Corrales Cuánticos\nPropiedades\nEfecto Kondo\nEspejismo cuántico\n1.5.Nanoarcillas\nEstructura\nPropiedades\nGeneración\nAplicación\n1.6.Monocapas Autoensambladas\nEstructura\nPreparación de Monocapas Autoensambladas\nTipos de Monocapas Autoensambladas\nPropiedades de las Monocapas Autoensambladas\nAplicación de las Monocapas Autoensambladas\n2. Fenómenos cuánticos emergentes y aplicaciones\nEfecto Hall cuántico\nEfecto Josephson\nBloqueo de Coulomb y transistor de un solo electrón \nMetrología cuántica y triángulo metrológico\nOtras aplicaciones",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La nanotecnología (NT) es una disciplina bastante joven, que surgió en los años noventa. Sin embargo, la nanotecnología ha ganado tanta importancia en los últimos años que las universidades de todos los rankings han introducido o van a introducir programas de enseñanza de la nanotecnología. Las predicciones dicen que la nanotecnología cambiará nuestras vidas y la sociedad más de lo que la tecnología informática y la electricidad han hecho juntas. El curso proporcionará una visión general sobre la nanotecnología. Mostrará que el nano régimen es tan diferente de otros regímenes porque tanto los efectos clásicos como los cuánticos pueden estar activos, lo que lleva a propiedades únicas de los nano dispositivos. La nanotecnología es una ciencia altamente interdisciplinaria, lo que se reflejará en el curso al hacer referencia a la química, la física, la biología, la farmacia y la ingeniería. Se discutirán las aplicaciones de la nanotecnología, ya que están en uso hoy o como están planificadas para el futuro. Establecer los prerrequisitos para cursar el espacio académico. Física de Semiconductores, Nanotecnología I.",
+    "Objetivos":"OBJETIVOS GENERAL\n\n Proporcionar una introducción y una descripción general de la nanotecnología (NT).\n\n OBJETIVOS ESPECIFICOS\n\n1. Ilustrar al estudiante sobre la amplitud de la definición de nanotecnología, dando énfasis a su carácter multidisciplinario, y a la necesidad de establecer una comunidad de jóvenes científicos e ingenieros dedicados a la apropiación de tecnologías, mediante la creación y fortalecimiento de grupos de investigación básica y aplicada.\n2. Proporcionar herramientas teóricas basadas en la física del estado sólido para la comprensión de propiedades, técnicas de fabricación y caracterización de nanoestructuras y dispositivos basados en materiales nanoestructurados.\n3. Aplicar el conocimiento de leyes y fenómenos físicos para comprender los métodos modernos usados para la exploración de las propiedades de la materia.\n4. Comprender la forma en que se fabrican las nanoestructuras y las novedosas propiedades  exhibidas por materiales nanoestructurados.\n5. Estudiar fenómenos emergentes de la mecánica cuántica y sus aplicaciones.\n6. Estudiar los nuevos patrones de medida con el triángulo metrológico.\n7. Demostrará cómo las aplicaciones de la Nanotecnología influirán en la ciencia del mañana y cambiarán muchos aspectos de nuestra vida. Se discutirá el impacto de la Nanotecnología en nuestra sociedad",
+    "Competencias":"",
+    "Metodologia":"Clases magistrales para proporcionar fundamentos teóricos\nSeminario para estimular la investigación sobre aplicaciones y tópicos de interés del estudiante relacionados con el uso de nanotecnologías.",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":"Explicar el funcionamiento de nuevos nanodispositivos y materiales como: cristales fotónicos, dispositivos electrónicos de baja dimensionalidad, moléculas magnéticas, corrales cuánticos, nanoarcillas y monocapasautoensambladas ",
+    "Resultados de Aprendizaje2":"Argumentar sobre las aplicaciones de nuevos nanodispositivos y materiales. ",
+    "Resultados de Aprendizaje3":"Explicar fenómenos cuánticos emergentes sobre los cuales se conciben nuevas aplicaciones como los patrones cuánticos metrológicos: Efecto Hall cuántico, efecto Josephson, bloqueo de Coulomb, etc. ",
+    "Resultados de Aprendizaje4":" ",
+    "Resultados de Aprendizaje5":" ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "[1] Nanophysics and nanotechnology. Edward L. Wolf. Wiley-VCH Verlag GmbH. Weinheim (Germany) 2006.\n [2]Introducción a la Nanotecnología. Charles P. Poole y Frank J. Owens. Editorial Reverté. Barcelona (España) 2007. ISBN: 978-84-291-7971-2. "
+}

@@ -1,0 +1,108 @@
+{
+    "Semestre": "9",
+    "Malla Renglon": "16",
+    "Código del Espacio": "62",
+    "Espacio Académico": "Telecomunicaciones II",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "x",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "Telecomunicaciones I",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Introducción, consideraciones generales y tipos de antenas.\n2. Parámetros fundamentales de las antenas.\n3. Fundamentos de radiación.\n4. Antenas elementales, antenas de conductor simple.\n5. Agrupaciones de antenas.\n6. Antenas de banda ancha, agrupaciones de dipolos.\n7. Antenas de microcinta, de apertura, antenas de bocina.\n8. Reflectores y lentes.\n9. Caracterización de antenas ",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "Ingenieria electronica ",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La asignatura electiva de Telecomunicaciones II pertenece al área de Telecomunicaciones y forma parte del núcleo de Ingeniería Aplicada. En esta asignatura, en primera instancia, se fundamentan las bases conceptuales para el estudio, análisis y diseño de elementos radiantes en diversas tecnologías. \nPor otra parte, como elemento fundamental en sistemas de comunicaciones inalámbricos, se analiza su papel en temas como: propagación de ondas, sistemas de comunicaciones inalámbricos, cálculos de enlaces terrenos y satelitales, sistemas de comunicaciones celulares, análisis de la propagación en sistemas celulares.\nPara realizar el curso con éxito se debe tener conocimientos en cálculo diferencial e integral, análisis vectorial, ecuaciones diferenciales, variable compleja, campos y ondas, líneas de trasmisión.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nFundamentar en los estudiantes las diversas competencias requeridas para el análisis, diseño y evaluación de antenas en diversas tecnologías\n\n OBJETIVOS ESPECIFICOS\n\n● Interpretar los conceptos básicos de la radiación electromagnética y de la interferencia de ondas. \n●Interpretar los diferentes parámetros que permiten estudiar, seleccionar o caracterizar una antena.\n● Diseñar y caracterizar en el laboratorio antenas de parche sobre sustratos y agrupaciones de los mismos, haciendo uso de sus respectivos modelos y de las herramientas numéricas disponibles.\n● Seleccionar el tipo de antena adecuado para una aplicación particular en diversos sistemas de comunicaciones fijos o móviles.",
+    "Competencias":"Transversales:\n Capacidad de organización y planificación / Razonamiento crítico / Trabajo en equipo / Aprendizaje autónomo / Comunicación oral y escrita / Motivación por la calidad y mejoramiento continuo.\n\n Contexto:\n Reflexión sobre la necesidad del modelado de problemáticas cotidianas y su relación con tecnologías de las telecomunicaciones en un contexto social y el papel del ingeniero electrónico en esta área de conocimiento.\nInvitación al trabajo autónomo y compromiso social del ejercicio de la ingeniería, en especial en el área de telecomunicaciones.\n\n Básicas:\n    Interpreta los diferentes parámetros que permiten estudiar, seleccionar o caracterizar una antena. Selecciona el tipo de antena adecuado para una aplicación particular en diversos sistemas de comunicaciones fijos o móviles. Diseña y caracteriza antenas del tipo dipolo, monopolo, microcinta, de apertura. \n\nLaborales.\nSelecciona el tipo de antena adecuado para una aplicación determinada en diversos sistemas de comunicaciones fijos o móviles. Conoce los instrumentos comerciales existentes para medidas en telecomunicaciones y sabe utilizarlos para evaluar el desempeño de un sistema de telecomunicaciones. Conoce herramientas numéricas comerciales y los instrumentos de medida adecuados para diseñar y construir antenas de conductor simple, microcinta y agrupaciones de antenas. Identifica los parámetros técnicos que permites evaluar la calidad de un sistema de Telecomunicaciones.",
+    "Metodologia":"● Cátedra Magistral: El profesor hará exposiciones magistrales sobre los temas propuestos en la asignatura, igualmente solucionará problemas que refuercen el aprendizaje de la misma, elaborará o utilizará software comercial para simulaciones que recreen conceptos físicos o que permitan modelar y/o analizar una antena. Al inicio de cada tema el estudiante contará con la documentación respectiva, así como con material complementario, al igual que una bibliografía que le permita afianzar la temática desarrollada en cada capítulo. \n\n● Tareas: El estudiante complementará la información vista en clase mediante la solución de problemas, tareas de investigación, uso de software comercial para diseño y optimización, todo esto encaminado a generar un ejercicio de investigación, análisis y propuesta de soluciones. De igual manera realizará investigaciones complementarias sobre temas no vistos en clase o vistos muy generalmente mediante la lectura de artículos o material generado por el docente o por investigadores expertos en el tema.\n\n● Diseño y optimización de antenas: Partiendo del modelo matemático y del software de análisis electromagnético disponible, el estudiante diseñará y optimizará antenas de conductor simple o agrupaciones de dipolos, con base en las especificaciones deseadas.\n\n● Sesiones de laboratorio: El estudiante aprenderá el uso y cuidado de la instrumentación, realizará prácticas guiadas sobre los kits de laboratorio disponibles y construirá y caracterizará los dispositivos (previamente diseñados y optimizados) propuestos como problema de estudio, cerrando de esta manera el ciclo de aprendizaje: Modelo matemático, solución de problemas, simulación, prototipaje y medida. \n\n● Lecturas: El docente dejará temas para que sean indagados por los estudiantes, de tal manera que al llegar a clase puedan ser discutidos",
+      
+  
+    "Recursos":"Para el desarrollo del programa, se requiere el uso de un computador y programas especializados como Matlab®, CST, así como de instrumentación especializada como analizador vectorial de redes, analizador de espectro, generador de señales de RF, antenas de prueba. El laboratorio de la Universidad cuenta con todos estos recursos. Adicionalmente, en las sesiones en el aula se requiere del uso de un computador, programas como Matlab®, CST y un proyector de video ( video beam), con los cuales también se cuenta en la Universidad.",
+  
+    "Resultados de Aprendizaje1":"Conocer los parámetros fundamentales de las antenas que le permiten estudiar, seleccionar o diseñar una antena para un sistema de comunicaciones particular. ",
+    "Resultados de Aprendizaje2":"Obtener las expresiones del potencial vectorial magnético de dipolos y antenas de microcinta, mediante las cuales determina las ecuaciones de campo radiado, densidad de potencia y potencia radiada para este tipo de antenas.",
+    "Resultados de Aprendizaje3":"Analizar antenas dipolo y de apertura mediante la determinación de sus parámetros asociados como: diagrama de radiación, resistencia de radiación, impedancia de entrada, directividad, ganancia.  ",
+    "Resultados de Aprendizaje4":"Diseñar antenas dipolo y de microcinta atendiendo a necesidades planteadas en un sistema de comunicaciones particular, partiendo de los modelos disponibles, para luego optimizarlos mediante programas de análisis electromagnéticos disponibles.  ",
+    "Resultados de Aprendizaje5":"Realizar el proceso completo de caracterización en el laboratorio de una antena diseñada y fabricada por grupos de estudiantes, tanto en impedancia con el VNA, como en diagrama en la cámara anecoica ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "1. Balanis, C. A., Antenna Theory Analysis and Design, John Wiley And Sons. 3ª Ed. 2005.\n1. Cardama Ángel, Jofre Lluis, et al, Antenas, Alfa Omega. 3ª Ed. 2002.\n1. Antenna Theory and Design, R. S. Elliot. Prentice- Hall, 2º Ed. 1981.2. Antenna Theory and Design, W. L. Stutzman,G. A. Thiele, John Wiley And Sons. 1981.3. Antennas. J. D. Kraus, McGraw- Hill, 2º Ed. 1988."
+}

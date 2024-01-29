@@ -1,0 +1,108 @@
+{
+    "Semestre": "8",
+    "Malla Renglon": "2",
+    "Código del Espacio": "49",
+    "Espacio Académico": "Telemática I",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "3",
+    "Horas Trabajo Colaborativo": "1",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Modelos de capas para redes.\n    2. Conceptos básicos de TCP/IP en redes de área local.\n    3. Medios de transmisión.\n    4. Interfaces para comunicaciones de datos.\n    5. Funciones y protocolos de la capa de enlace. \n    6. LANs inalámbricas (estándar 802.11).\n    ",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El fácil acceso a la información es uno de los componentes esenciales para el desarrollo de una sociedad. Las redes telemáticas son parte de la infraestructura que soporta la divergencia de servicios que actualmente esta sociedad requiere y que abren paso al progreso, desarrollo y mejora de sus ciudadanos.\n Este espacio académico que hace parte de la ingeniería aplicada, le permite al estudiante adquirir conocimientos fundamentales y generales de los protocolos y procedimientos implementados a nivel de la subred de comunicación, utilizada para el envío e intercambio de información. ",
+    "Objetivos":"OBJETIVOS GENERAL\n\n  Adquirir conocimientos generales, claros y fundamentales de los modelos  arquitectónicos utilizados en la interconexión de redes de transmisión de información OBJETIVOS ESPECIFICOS\n\n● Entender la necesidad y la operatividad de protocolos de intercambio de información de la subred de comunicación, en especial en la capa física y de enlace.\n● Adquirir la capacidad de comprender nuevas tecnologías con base en los modelos  aprendidos en este curso. ",
+    "Competencias":"",
+    "Metodologia":"El curso es desarrollado por el estudiante y orientado por el profesor. El estudiante debe conocer las temáticas a tratar con anterioridad y posteriormente ser desarrolladas en conjunto con el docente. ",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":"dentificar funciones de elementos constitutivos de sistemas telemáticos. ",
+    "Resultados de Aprendizaje2":" Interpretar y comprender protocolos, procedimientos y normas en sistemas de  intercambio de información.",
+    "Resultados de Aprendizaje3":"Aplicar conceptos de modelos para transferencia y apropiación tecnológica ",
+    "Resultados de Aprendizaje4":" Diseñar y proponer soluciones telemáticas.",
+    "Resultados de Aprendizaje5":"Desarrolla competencias específicas tanto profesionales como laborales, ya que el área de la  telemática abarca un buen sector del campo de aplicación y laboral de los egresados. Las  temáticas desarrolladas son argumentadas, brindando la posibilidad de aplicarlas de manera  práctica o como soporte para implementar productos novedosos. ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "● Computer Networking and the Internet. Halsall Fred, Addison Wesley.\n● Redes de Computadoras. Andrew Tanenbaum, PEARSON Prentice Hall.\n● Comunicaciones y Redes de Computadores. Stalling William, Prentice Hall.\n● TCP/IP Protocol Suite. Behrouz A. Forouzan, McGraw-Hill."
+}

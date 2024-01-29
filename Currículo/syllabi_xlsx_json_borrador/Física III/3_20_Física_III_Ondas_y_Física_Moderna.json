@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La asignatura se encuentra inscrita en el componente de formación de las ciencias básicas definidas para las ingenierías, según decreto 792 de 2001. Los futuros ingenieros deben tener un profundo conocimiento del comportamiento de los diferentes tipos de osciladores, ondas y fenómenos de la física moderna. Los fenómenos ondulatorios y de la física moderna se encuentran en la naturaleza en muchísimos casos y a partir del estudio de ellos el ser humano ha logrado aplicarlos en la ciencia y la tecnología para la solución de diversas necesidades, especialmente en los campos de las comunicaciones y la informática. La formación científica no significa simplemente hacer un inventario de leyes y fenómenos, más bien debe capacitar al estudiante para buscar las profundas interrelaciones entre fenómenos y objetos. El reconocimiento de estas leyes y sus interrelaciones le permitirán al ingeniero dar soluciones a los problemas de su profesión con criterio racional y científico y en el marco del respeto por lo local y lo natural.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nConocer, explicar y aplicar fenómenos ondulatorios \nConocer, explicar y aplicar las leyes de la Física Moderna\n\nOBJETIVOS ESPECIFICOS\n\nConocer las leyes del movimiento oscilatorio y sus aplicaciones\nConocer los conceptos fundamentales de la propagación de ondas\nDeterminar las condiciones en las cuales se produce los fenómenos de superposición de ondas: ondas estacionarias, pulsaciones e interferencia de ondas\nConocer y aplicar fenómenos con ondas acústicas\nConocer el concepto ondas y espectro electromagnéticos y sus aplicaciones\nConocer algunos fenómenos relevantes de la física moderna\nEstudiar la ecuación de Schrödinger y sus aplicaciones\n\n",
+    "Competencias":"",
+    "Metodologia":"Metodología Pedagógica y Didáctica:\nCada tema expone los fundamentos teóricos estará y suficientes ejemplos de aplicación de manera que aclaren el porqué de los conceptos teóricos explicados. Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso. De igual forma se realizan discusiones grupales en torno a problemas específicos realizando evaluaciones periódicas donde se sustentan grupalmente las soluciones con el fin de llevar el seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante. Los estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran. Las actividades del aula se fundamentan en una metodología de interacción y participación entre el profesor y los estudiantes, y de los estudiantes entre sí; las explicaciones por parte del profesor y el trabajo guiado en la solución de problemas son algunas de las acciones que nos permitan ir alcanzando los logros de manera gradual. La Física es una asignatura que exige una gran capacidad de trabajo y dedicación por parte del estudiante. Para obtener los objetivos propuestos cada estudiante debe comprometerse a desarrollar una parte del trabajo individual en casa, este componente deberá complementar el trabajo del aula.",
+    
+    "Semestre": "3",
+    "Malla Renglon": "1",
+    "Código del Espacio": "20",
+    "Espacio Académico": "Física III Ondas y Física Moderna",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "PROGRAMA SINTÉTICO\n1. ONDAS\n1.1. Introducción\n1.2. Movimiento oscilatorio\n1.3. Movimiento ondulatorio\n1.4. Superposición de ondas: ondas estacionarias, pulsaciones e interferencia de ondas\n1.5. Ondas acústicas\n1.6. Ondas y espectro electromagnéticos\n2. FÍSICA MODERNA\n2.1. Fundamentos y fenómenos de la Física Moderna\n2.2. Mecánica Cuántica",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "VI. EVALUACIÓN (¿Qué, Cuándo, ¿Cómo?)\nEs importante tener en cuenta las diferencias entre evaluar y calificar. El primero es un proceso cualitativo y el segundo un estado terminal cuantitativo que se obtiene producto de la evaluación. Para la obtención de la información necesaria para los procesos de evaluación se requiere diseñar distintos formatos específicos.\n\nPRIMERA NOTA\nTIPO DE EVALUACIÓN FECHA PORCENTAJE\nTalleres, Trabajos, Quiz, Parcial Hasta sexta semana 25%\n\nSEGUNDA NOTA\nTalleres, Trabajos, Quiz, Parcial Hasta decimotercera semana 25%\n\nNOTA FINAL\nLaboratorio 20%\nExamen final 30%\n\nASPECTOS PARA EVALUAR DEL CURSO\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n3. Autoevaluación:\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.",
+
+    "Resultados de Aprendizaje1":"Demostrar una comprensión de los conocimientos básicos sobre las oscilaciones.",
+    "Resultados de Aprendizaje2":"Demostrar una comprensión de los conocimientos básicos sobre las ondas armónicas.",
+    "Resultados de Aprendizaje3":"Demostrar una comprensión de los conocimientos básicos de algunos fenómenos de la Física Moderna.",
+    "Resultados de Aprendizaje4":"Demostrar una comprensión de los conocimientos básicos de la Física Cuántica.",
+    "Resultados de Aprendizaje5":"Comprender y analizar la fenomenología básica del movimiento oscilatorio, incluyendo la superposición de movimientos armónicos, el movimiento armónico amortiguado y los fenómenos de resonancia en osciladores forzados.",
+    "Resultados de Aprendizaje6":"Interpretar desde el punto de vista físico el significado de la ecuación de ondas. Comprender la importancia de los fenómenos ondulatorios en el transporte de energía a través medios materiales.",
+    
+    "Materiales de Estudio": "TEXTOS GUÍA\nR. Serway & J. Jewett, Física II. Editorial Thomson, 6a edición.\nTipler, P., Física para la Ciencia y la Tecnología. Editorial Reverté. 5a edición.\nR. Serway & R. Beichner, Physics for Scientists & Engineers, Fifth Edition.\nR. Serway, Física (3° y 4° edición). Editorial Mc Graw Hill\nTEXTOS COMPLEMENTARIOS\nFishbane, Gasiorowicz & Thortnton, Physics for Scientists & Engineers, Second Edition\nFeynman, R., Lecturas de Física\nSears, F., Física\nHalliday, Resnick, Walter, Fundamentos de Física. Volumen 2. Sexta edición. Ed. Cecsa\nDouglas C. Giancoli, Physics: Principles with applications. 5th ed.\nJohn D. Cutnell & Kenneth W. Johnson, Physics, 4th ed.\nAULA VIRTUAL EN MOODLE:\nhttp://ingenieria.udistrital.edu.co/moodle/course/"
+}

@@ -1,0 +1,109 @@
+{
+"Semestre": "10",
+"Malla Renglon": "19",
+"Código del Espacio": "78",
+"Espacio Académico": "Robótica móvil",
+"Teórico": "",
+"Teórico-práctico": "X",
+"Práctico": "",
+"Número de Créditos": "3",
+"Horas Trabajo Directo": "4",
+"Horas Trabajo Colaborativo": "2",
+"Horas Trabajo Autónomo": "3",
+"Obligatorio": "",
+"Básico": "",
+"Complementario": "",
+"Electivo": "X",
+"Intríseco": "X",
+"Extrínseco": "",
+"Clase magistral": "",
+"Seminario": "",
+"Seminario-Taller": "",
+"Taller": "",
+"Prácticas": "",
+"Proyectos con tutoría": "",
+"Conocimientos previos del curso": "",
+"Prerrequisitos": "",
+"Es prerrequisito de": "",
+"Habilidades y Resultados de Aprendizaje": {
+    "Col_1a": {
+        "col2a": {
+            "col3a": [
+                "col4a",
+                "col4b"
+            ],
+            "col3c": [
+                "col4c",
+                "col4d",
+                "col4e"
+            ],
+            "col3f": [
+                "col4f"
+            ]
+        },
+        "col2g": {
+            "col3g": [
+                "col4g",
+                "col4h"
+            ],
+            "col3i": [
+                "col4i",
+                "col4j"
+            ]
+        }
+    },
+    "Col_1k": {
+        "col2k": {
+            "col3k": [
+                "col4k",
+                "col4l"
+            ],
+            "col3m": [
+                "col4m",
+                "col4n",
+                "col4o"
+            ]
+        },
+        "col2p": {
+            "col3p": [
+                "col4p",
+                "col4q"
+            ],
+            "col3r": [
+                "col4r",
+                "col4s",
+                "col4t"
+            ]
+        }
+    }
+},
+"Contenidos y Unidades Temáticas": "CAP. 1. INTRODUCCIÓN A LA ROBÓTICA\n1.1. Qué es un agente robótico?\n1.2. Clasificación de los agentes robóticos\n1.3. Clasificación de los robots móviles\n1.4. Importancia y aplicaciones de la robótica móvil\nCAP. 2. LOCOMOCIÓN BÁSICA\n2.1. El papel de la locomoción en el robot móvil\n2.2. Robots móviles con articulaciones\n2.3. Robots móviles con ruedas\nCAP. 3. CINEMÁTICA DE MANIPULADORES\n3.1. Anatomía del robot manipulador\n3.2. Representación de la posición del robot\n3.3. Definición de los problemas cinemáticos directo e inverso\n3.4. Aproximación geométrica\n3.5. Transformaciones homogéneas\n3.6. Método de Denavit - Hartenberg\n3.7. Espacio de trabajo del robot\nCAP. 4. CRITERIOS DE DISEÑO DE ROBOTS MOVILES TERRESTRES\n4.1. Actuadores\n4.2. Sensores (para localización)\n4.3. Alimentación\n4.4. Sistema de control\n4.5. Chasis y demás\nCAP. 5. CINEMATICA Y DINAMICA DE ROBOTS MOVILES TERRESTES\n5.1. Configuraciones cinemáticas de robots móviles terrestres\n5.2. Definición de los problemas cinemático directo e inverso\n5.3. Robots terrestres con cinemática diferencial\n5.4. Dinámica de robots terrestres\nCAP. 6. LOCALIZACIÓN DEL ROBOT MÓVIL\n6.1. El reto de la localización\n6.2. Localización basada en navegación desde diferentes sensores\n6.3. Estimación de la localización\n6.4. Filtro Kalman y fusión de sensores\n6.5. Otros sistemas de localización\nCAP. 7. NAVEGACIÓN DEL ROBOT MÓVIL\n7.1. Planeación de trayectorias\n7.2. Evasión de obstáculos\n7.3. Controladores tipo trajectory tracking\n7.4. Controladores tipo path following\nCAP. 8. ROBOTS MÓVILES EN EL ESPACIO TRIDIMENSIONAL\n8.1.Robots aéreos: con rotores y con superficies de control\n8.2.Robots acuáticos: de superficie y submarinos\n8.3.Nociones de movimiento en satélites",
+"Enfoque de Aprendizaje y Enseñanza": "",
+"Plan de Evaluaciones": "",
+"Resultados de Aprendizaje": [
+    "Resultado 1",
+    "Resultado 2",
+    "...",
+    "Resultado n"
+],
+"Materiales de Estudio": "[1] Elements of Robotics. RM. Ben-Ari y F. Mondada. Springer. 2018.\n[2] Mobile Robots: Navigation, Control and Remote Sensing. G, Cook. Willey 2011.\n[3] Introduction to Autonomous Mobile Robots. R. Seigwart y I. Nourbaksh. MIT Press.2004.\n[4] Autonomous Robot Vehicles. Cox and Wilfong. Springer-Verlag. \n[5] Probabilistic Robotics. S. Thrun, W. Burgard, D. Fox. MIT Press, 2006. \n[6] Fundamentals of robotic mechanical systems: theory, methods, and algorithms. Jorge Angeles. New York, Springer, 2003. \n[7] Robot Modeling and Control. Mark W. Spong, Seth Hutchinson and M. Vidyasagar. John Wiley and Sons, 2006.",
+"Proyecto curricular": " ",
+"Plan de Estudios": "Se recomienda trabajar cada unidad de acuerdo a la programación, utilización de Internet\npara comunicación con los estudiantes. Se dedicará tiempo a la atención presencial en los\nhorarios de tutorías del profesor.\nCap. 1. Introducción a la robótica móvil. Semana 1\nCap. 2. Locomoción básica. Semana 2\nCap. 3. Cinemática de manipuladores. Semanas 3 - 5 \nCap. 4. Criterios de diseño de robots móviles terrestres. Semana 6 - 7\nCap. 5. Cinemática y dinámica de robots móviles terrestres. Semanas 8 - 10\nCap. 6. Localización. Semanas 11 - 12\nCap. 7. Navegación. Semanas 13 - 14\nCap. 8. Robots móviles en el espacio tridimensional. Semanas 15 - 16",
+"Nombre del docente": "",
+"Justificacion Del Espacio": "\nLa robótica móvil es un área en la que convergen un número importante de las áreas de\nformación de los ingenieros electrónicos, desde circuitos, pasando por electrónica, potencia,\ninstrumentación, procesamiento de señales, procesamiento de imágenes, teoría de control,\ninteligencia computacional, sistemas embebidos e incluso comunicaciones. Esta es un área\ntransversal, cuyas aplicaciones se encuentran en una amplísima diversidad de campos, lo\nque motivará y posibilitará al estudiante a incursionar en variedad de campos aún no\nexplorados.\nEl curso de robótica móvil, aunque le permitirá a los estudiantes integrar soluciones\nexistentes, también demandará de ellos capacidad de diseño, fundamentalmente en las\noperaciones de navegación e, incluso, de cooperación con otros agentes robóticos. Es\ntambién importante considerar que si no se encuentra una plataforma robótica adecuada a\nla aplicación que se desee implementar, el estudiante deberá considerar la asesoría de un\ningeniero mecánico para el diseño (mecánico) de una plataforma de propósito específico y,\nadicionalmente, deberá llevar a cabo todo el proceso de diseño electrónico para hacer\nposible el movimiento del robot",
+
+"Objetivos":"OBJETIVO GENERAL\nAplicar los conceptos básicos de la robótica móvil, partiendo del movimiento en 2D para\nlograr una generalización al movimiento 3D.\nOBJETIVOS ESPECÍFICOS\n1. Diferenciar las formas de locomoción que se pueden implementar en un robot terrestre.\n2. Seleccionar los sensores adecuados a la implementación robótica que se desee abordar.\n3. Simular las cinemáticas de robots con diversos métodos de locomoción.\n4. Manejar las estrategias de control adecuadas para los robots de propósito específico.\n5. Simular e implementar algoritmos básicos para la localización del robot.\n6. Simular e implementar algoritmos básicos para la navegación autónoma del robot.\n7. Modelizar la dinámica de robots que se puedan mover en el espacio tridimensional. ",
+"Competencias":"",
+"Metodologia":"Se presentan los elementos conceptuales y de ingeniería asociados a cada temática. Cada\nunidad es complementada con ejemplos industriales, casos de estudio, lectura y ejercicios\nde análisis y diseño. Se incentiva el trabajo en grupo mediante varios mini – proyectos\naplicados al desarrollo de robots de propósito específico.",
+    
+
+
+"Resultados de Aprendizaje1":"Reconocer sistemas robóticos de acuerdo a su mecanismo de locomoción, tamaño, aplicación, alcance y método de control.",
+"Resultados de Aprendizaje2":"  Definir adecuadamente los marcos de referencia en sistemas robóticos para su posterior análisis.",
+"Resultados de Aprendizaje3":"Plantear la solución a los problemas de cinemática directa e inversa de robots móviles.    ",
+"Resultados de Aprendizaje4":"Seleccionar de forma adecuada componentes para el diseño e implementación de plataformas robóticas móviles",
+"Resultados de Aprendizaje5":"Estimar la posición del robot a partir de la información de sensores y su fusión ",
+"Resultados de Aprendizaje6":" Implementar los algoritmos básicos de navegación en robots móviles a partir de los resultados obtenidos en simulaciones."
+
+
+}

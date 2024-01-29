@@ -1,0 +1,103 @@
+{
+    "Proyecto curricular": "Ingenieria Electronica",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Esta asignatura contribuye al desarrollo de la competencia “Resuelve problemas computacionales algorítmicamente”, que se encuentra en el dominio de “programación” del área “básicas de ingeniería” del proyecto curricular de ingeniería Electrónica. \n En esta asignatura se establecen las bases del pensamiento algorítmico formal, que constituye uno de los pilares de la disciplina y contribuye a los dominios de desempeño profesional definidos en el perfil. A través de esta, se pretende mostrar al estudiante, de manera práctica, la evolución de los lenguajes y paradigmas que han surgido alrededor de la programación, la adquisición de los conceptos básicos acerca de la estructura y funcionamiento del computador, así como el desarrollo del pensamiento algorítmico formal, fortaleciendo sus habilidades en el desarrollo de programas computacionales. Estas habilidades se reconocen como claves dentro del dominio del perfil de Programación",
+    
+    "Objetivos":" OBJETIVO GENERAL \n Presentar al estudiante elementos fundamentales que le permitan tener claridad acerca de la evolución de la programación, de tal manera que pueda obtener soluciones a problemas sencillos apoyados en un computador, un lenguaje de programación y un paradigma. En este proceso, el alumno debe ser capaz de enfrentarse a situaciones o problemas más complejos en los que debe identificar los elementos y estados involucrados, generar modelos para su representación y manipulación algorítmica.\n El estudiante debe ser capaz de diseñar soluciones para los problemas, validar su corrección e implementar prototipos para ellas utilizando un lenguaje de programación de tipo estructurado.\n\nOBJETIVOS ESPECIFICOS \n1. Conocer la evolución de los lenguajes, los paradigmas y de la computación.\n2. Evidenciar de manera clara y concreta la evolución de la programación con relación a la evolución del computador.\n3. Identificar la estructura de un computador.\n4. Desarrollar el concepto de algoritmo y aplicarlo en la solución de programas sencillos\n5. Solucionar problemas elementales utilizando la lógica computacional\n6. Resolver problemas sobre el sistema computacional con la ayuda de un lenguaje de programación.\n7. Reconocer la sintaxis básica del lenguaje de programación escogido (preferiblemente C# o Java).",
+    
+    "Competencias":"Competencias que compromete la asignatura:\n\n El estudiante está en capacidad de pensar ordenadamente para modelar una solución a un problema haciendo uso de la algoritmia, expresando esta solución en un lenguaje computacional.\n\nCompetencias específicas de la asignatura:\nCompetencias Nucleares:\n1.Utiliza adecuadamente el concepto y la abstracción de los sistemas numéricos en la solución de problemas computacionales.\n2.Localiza históricamente los diferentes momentos en la evolución de los sistemas computacionales.\n3.Identifica los diversos componentes de un sistema computacional.\n4.Representa soluciones de problemas aplicando el concepto de Algoritmo.\n5.Modela, implementa y evalúa problemas cuya solución algorítmica requiere el uso de las diferentes estructuras de control.\n6.Modela, implementa y evalúa problemas descomponiéndolos en subproblemas que permitan una solución más simple o la reutilización de soluciones.\n7.Resuelve problemas que requieren aplicar el concepto de recursividad.\n8.Define e implementa tipos de datos abstractos.\n9.Modela, implementa y evalúa mecanismos para el manejo dinámico de memoria y persistencia.\n\nCompetencias Transversales a las que contribuye la asignatura:\n1.Es capaz de discernir qué tecnología debe utilizar para la resolución de problemas particulares.\n2.Comunica ideas de forma clara oralmente o mediante la presentación de informes, utilizando un lenguaje técnico adecuado.\n3.Trabaja colaborativamente en equipos multidisciplinarios, aportando sus conocimientos en programación para la solución de problemas integrales.\nActúa estratégicamente dentro de un grupo de trabajo para el desarrollo de proyectos.",
+    "Metodologia":"Asistencia a clases expositivas y de discusión\n- Elaboración y lectura de paper (documentación)\n- Se debe procurar incentivar el trabajo de grupo más que el trabajo individual (se recomienda trabajar en grupos de dos o tres estudiantes)\n- Implementación y prueba de prototipos (programas) en laboratorio de computación.",
+    "Semestre": "1",
+    "Malla Renglon": "7",
+    "Código del Espacio": "2",
+    "Espacio Académico": "Programación Básica",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "2",
+    "Horas Trabajo Colaborativo": "4",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "Lógica",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Contenidos y Unidades Temáticas:\n1. Reconocer la estructura y funcionamiento del computador.\n1.1. Sistemas numéricos: Sistema binario, hexadecimal y octal.\n1.2. Conversiones entre sistemas. Números de precisión finita.\n1.3. Representación de números negativos en base 2.\n1.4. Representación de número punto flotante en base 2.\n1.5. Operaciones.\n1.6. Desarrollo histórico del “Hardware”: El ábaco, Máquinas de Pascal, Leibniz, Babbage, Turing.\n1.7. Primeros computadores: Mark1, ENAC, EDSAC, UNIVAC 1, Von Neumann.\n1.8. El computador hasta hoy: Generaciones.\n1.9. Evolución de los lenguajes de programación.\n1.10. Estructura del computador: Procesador, memoria principal, memoria secundaria, E/S, buses\n2. Conceptualizar y abstraer problemas. Desarrollo de algoritmos.\n2.1. Concepto de algoritmo\n2.2. Los diagramas de flujo como herramienta de modelación de algoritmos.\n2.3. Pseudocódigo: Una herramienta de palabras útil.\n2.4. Modelar un problema de solución secuencial\n2.5. Diseñar una solución algorítmica secuencial\n2.6. Analizar una solución algorítmica secuencial\n2.7. Modelar un problema cuya solución involucra condiciones\n2.8. Diseñar una solución algorítmica que involucra condiciones\n2.9. Analizar una solución algorítmica que involucra condiciones\n2.10. Modelar problema cuya solución involucra iteraciones\n2.11. Diseñar solución algorítmica que involucra iteraciones\n2.12. Analizar una solución algorítmica que involucra iteraciones\n2.13. Modelar problema complejo cuya solución amerita el uso de descomposición\n2.14. Diseñar una solución algorítmica basada en descomposición\n2.15. Analizar una solución algorítmica basada en descomposición\n3. Diseñar soluciones algorítmicas para problemas computacionales (Basado en el lenguaje de programación escogido. En este caso se hace referencia al lenguaje de programación C# o Java.)\n3.1. Estructura de un programa en C#, restricciones, comentarios\n3.2. Tipos de datos, variables y constantes: Caracteres, Booleanos, Reales, Enteros.\n3.3. Operadores\n3.3.1. Aritméticos: asignación suma, resta, multiplicación, división, módulo, incremento, decremento, y todos asociados con una variable en una cantidad determinada.\n3.3.2. Bitwise: And, Or, Or exclusivo, complemento, desplazamiento a izquierda y derecha, combinaciones con el operador de asignación.\n3.3.3. Relacionales: menor que, mayor que, menor o igual que mayor o igual que, igual, diferente.\n3.3.4. Booleanos: para la estructuración de expresiones: Not, And, Or. Jerarquías de los operadores.\n3.3.5. Proposiciones. And, or, xor, tablas de verdad.\n3.4. Implementar prototipo de solución algorítmica secuencial\n3.5. Conversión entre tipos de datos\n3.6. Funciones de lectura y escritura.\n3.7. Arreglos y matrices. Definición, inicialización.\n3.8. Implementar prototipo de solución algorítmica que involucra condiciones: if, if else, switch.\n3.9. Implementar prototipo de solución algorítmica que involucra iteraciones: for, while, do while.\n3.10. Estructuras de salto: break, continue.\n3.11. Implementar prototipo de solución algorítmica basada en descomposición\n3.12. Funciones: Parámetros por valor, retorno de valores, variables locales, globales y estáticas.\n3.13. Librerías de funciones.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje1":"1.Entender el significado global de la Informática.",
+    "Resultados de Aprendizaje2":"2. Comprender cómo se representa la información en el interior de un computador.",
+    "Resultados de Aprendizaje3":"3. Conocer la estructura funcional de un computador.",
+    "Resultados de Aprendizaje4":"4. Comprender el concepto de programación y enumerar sus principales características.",
+    "Resultados de Aprendizaje5":"5.Conocer los fundamentos de los traductores: compiladores e intérpretes.",
+    "Resultados de Aprendizaje6":"6.Manejar adecuadamente los sistemas operativos más comunes en la actualidad.",
+        
+
+    "Materiales de Estudio": " \n· Cairó, Oswaldo. Metodología de la Programación. Editorial Alfa Omega. \n· Harvey M. Deitel y Paul J. Deitel, C# Como Programar, segunda edición. \n· Tanenbaum, Andrew. Structured Computer Organization. Prentice Hall. \n· Levine, Guillermo. Computación y Programación Moderna. Addison Wesley. \n· Rodriguez C., Llana L.F, Martinez, R.,Palao P., Pareja, C. Ejercicios de Programación Creativos y Recreativos en C ++. Prentice Hall. \n· Harvey M. Deitel y Paul J. Deitel, C# Como Programar, segunda edición. \n· Alfredo Weitzenfeld, Ingenieria de Software orientada a Objetos con UM. Java e Internet. \n"
+
+
+}

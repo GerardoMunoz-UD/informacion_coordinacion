@@ -1,0 +1,100 @@
+{
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Dentro de las diferentes alternativas que se ofrecen al estudiante, en los programas de formación profesional, algunos de ellos optan por las carreras de ingeniería sin tener conocimientos generales del alcance y entorno de los planes de estudio. El seminario de Ingeniería, es un espacio académico en el cual, los estudiantes podrán contextualizar, el quehacer de la Ingeniería, perspectivas y aplicaciones en los aspectos: académicos, sociales, culturales, técnicos y tecnológicos, comprendiendo las relaciones y necesidades actuales e históricas de la sociedad con los conocimientos y destrezas propios de ésta, generando un desarrollo motivacional que permita al estudiante comprometerse con el seguimiento de su propósito formativo y con el país.",
+    "Objetivos":" OBJETIVO GENERAL \n Contextualizar al estudiante respecto a la disciplina que ha elegido como formación académica y profesional, con el fin de que el estudiante se motive y adquiera interés en esta área.\n\nOBJETIVOS ESPECIFICOS \nExaminar el origen y la evolución de la ingeniería en su aporte a las fuerzas productivas, tecnológicas y comerciales en el mundo y en el país.\nProporcionar al estudiante conocimiento sobre la evolución, áreas de trabajo, aplicaciones, tendencias y oportunidades investigativas y ocupacionales de la ingeniería en Colombia.\nFacilitar procesos de formación integral para el desarrollo humano (proyecto de vida, sentido de pertenencia y capacidad de adaptación a nuevos estilos de vida) para promover la formación en valores del estudiante no sólo como individuo, miembro de la sociedad, sino también como profesional de la ingeniería.\nComprender cómo la ingeniería aborda los problemas planteados por la sociedad, y reflexionar cómo la ingeniería se agrupa o se subdivide para solucionarlos, con especial énfasis en los problemas del país, así como la necesidad del Ingeniero en el mercado y sociedad.\nDar al estudiante un conocimiento general sobre lo que constituye los diferentes proyectos curriculares en la Facultad de Ingeniería en la Universidad Distrital Francisco José de Caldas y contribuir a su adecuada integración en la vida universitaria.",
+    "Competencias":"Al finalizar el curso se espera que el estudiante haya desarrollado las siguientes competencias:\nTransversales:\nCapacidad de organización de la información, razonamiento crítico, trabajo en equipo, aprendizaje autónomo, comunicación oral y escrita.\nContexto \nIdentifica el alcance de las diferentes ingenierías y el alto sentido ético que conlleva la toma de decisiones a la hora de aportar en el desarrollo de un proyecto, teniendo en cuenta un contexto investigativo, académico, social, económico, ambiental y de su propio ser. Básicas \nDesarrollar una visión general de las diferentes ingenierías, que le permita determinar cuál(es) sería la apropiada para desarrollar un proyecto específico.\nLaborales \nDesarrollo de capacidades de análisis, distribución de funciones y trabajo en equipo para la organización de actividades.",
+    "Metodologia":"El curso asume la modalidad de seminario-taller y en este se propone integrar lo cognoscitivo y lo afectivo en un tipo de vínculo diferente al tradicional. La metodología de ésta asignatura se fundamentará en la participación, exigiéndole al estudiante ser el protagonista activo y responsable de su aprendizaje y su formación, bajo la filosofía de que el aprendizaje adquiere mayor significación y resonancia en el estudiante, si éste vive su propio proceso de construcción, es decir, la aplicación del método constructivista, donde se concibe la enseñanza como una actividad crítica en el que los estudiantes interactúan y exploran, aprenden a arriesgarse y a errar; tomándose este último como un proceso de aprendizaje en el que los errores cometidos son situaciones didácticas que deben considerarse como momentos creativos. \n En tal sentido, el docente estará en el rol de aprendiz, pues él se nutrirá de las preguntas de los estudiantes y servirá como guía en la búsqueda de las repuestas, caracterizándose por una actitud de escucha que lleven al estudiante a reflexionar y construir su propio saber, exigiéndole a éste ser el protagonista activo y el responsable de su aprendizaje y su formación, en un proceso personal continuo e indelegable, que se construye entre los otros y con los otros, en medio de la diversidad y la diferencia. Tales acciones enriquecerán el tejido social que, poco a poco, estructura la construcción grupal del curso, promoviendo el aprender a aprender, a través de la promoción del deseo por el conocimiento. Por lo tanto, el papel del profesor será el de explicar aspectos que requieran aclaración, y orientar, evaluar y criticar constructivamente la producción de los estudiantes. \nLos contenidos temáticos y formales se trabajarán de manera integrada y no lineal, en torno a textos de diversa índole, como unidades totalizadoras\nLas actividades a desarrollar son:\nBreves exposiciones orales por parte de los estudiantes\nLectura, análisis y discusión colectiva, en el aula de textos producidos por otros autores\nAsesoría grupal sobre problemas de escritura y expresión oral\nEjercicios de producción articulados con los objetivos y demandas de los textos en los que los estudiantes están trabajando\nEscritura, reescritura, corrección y autocorrección de textos (proyectos personal y colectivo)",
+    
+    
+    "Semestre": "1",
+    "Malla Renglon": "8",
+    "Código del Espacio": "6",
+    "Espacio Académico": "Seminario de Ingeniería",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "1",
+    "Horas Trabajo Directo": "2",
+    "Horas Trabajo Colaborativo": "0",
+    "Horas Trabajo Autónomo": "1",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas":"I. LA UNIVERSIDAD DISTRITAL\na. ¿Qué es la universidad? ¿Qué busca la universidad?\nb. ¿Cuál es la misión y visión de la Universidad Distrital?\nc. ¿Cómo está organizada?\nd. ¿Cuáles son los derechos y deberes del estudiante distritalino?\ne. ¿Cuál es la misión y visión de la Facultad de Ingeniería de la Universidad Distrital?\nII. LA INGENIERÍA EN LA UNIVERSIDAD.\na. ¿Qué es la Ingeniería?\nb. Desarrollo histórico y contextual de la Ingeniería. Investigadores, científicos y\n    desarrolladores\nc. Las Ciencias Básicas en la Ingeniería\nd. La ingeniería en Colombia y su influencia en el desarrollo nacional\nIII. EL PAPEL DEL INGENIERO\na. Ciencia, Tecnología e ingeniería\nb. Aprendizaje y pensamiento creativo\nc. La responsabilidad social y su entendimiento desde los enfoques ético, social, económico\n    y político\nd. El concepto de impacto social en la Ingeniería\ne. Profesionalismo y códigos de conducta profesional\nf. El carácter evolutivo de los proyectos\ng. El trabajo en equipo\nIV. LOS PROGRAMAS DE INGENIERÍA QUE SE OFRECEN EN LA FACULTAD DE INGENIERÍA\na. Ingeniería catastral y geodesia:\ni. Historia del proyecto Curricular\nii. La Misión, Visión y Plan de Estudios\niii. Perfil de Egresado\niv. Los problemas académicos de Catastro.\nv. Mercado Laboral, Desempeño Profesional y proyección en las diferentes áreas de formación\nb. Ingeniería de sistemas:\ni. Historia del proyecto Curricular\nii. La Misión, Visión y Plan de Estudios\niii. Perfil de Egresado\niv. Mercado Laboral, Desempeño Profesional y proyección en las diferentes áreas de formación\nc. Ingeniería eléctrica:\ni. Historia del proyecto Curricular\nii. La Misión, Visión y Plan de Estudios\niii. Perfil de Egresado\niv. Mercado Laboral, Desempeño Profesional y proyección en las diferentes áreas de formación\nd. Ingeniería electrónica:\ni. Historia del proyecto Curricular\nii. La Misión, Visión y Plan de Estudios\niii. Perfil de Egresado\niv. Mercado Laboral, Desempeño Profesional y proyección en las diferentes áreas de formación",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "Las evaluaciones a los estudiantes son diseñadas de manera que permitan evidenciar el\nnivel de abstracción y conceptualización de cada uno de los temas del curso.\nTipo de Evaluación Fecha Porcentaje\nNota 1 Presentación de los informes. Talleres en\nclase.\nDe la 3 a 6\nsemana\n35 %\nNota 2 Presentación de los informes. Talleres en\nclase.\nDe la 7 a\n11semana\n35 %\nExamen\nfinal\nPresentación de los informes. Talleres en\nclase.\nDe la 12 a 16\nsemana\n30 %",
+
+    "Resultados de Aprendizaje1":"Establecer e identificar cómo la evolución de la ingeniería ha permitido el desarrollo del mundo y el país a nivel productivo, tecnológico y comercial.",
+    "Resultados de Aprendizaje2":"Determinar la importancia de la ingeniería para la evolución del mundo y el país a nivel áreas de trabajo, aplicaciones, tendencias, áreas de investigación y ocupación de los ingenieros.",
+    "Resultados de Aprendizaje3":"Identificar la importancia de los ingenieros dentro de la sociedad, no solo como profesional sino como ser humano al interior de la sociedad con un alto sentido ético.",
+    "Resultados de Aprendizaje4":"Identificar como la ingeniería aborda los problemas de la sociedad para dar una solución, además de la posibilidad de asociarse con otras profesiones para el desarrollo del mismo objetivo.",
+    "Resultados de Aprendizaje5":"Identificar y conoce los propósitos de las diferentes ingenierías que ofrece la Universidad Distrital y cómo pueden llegar a integrarse para el desarrollo de proyectos.",
+    
+    "Materiales de Estudio": "Beteman D. Alfredo. Páginas para la historia de la Ingeniería colombiana. Kelly.\nBogotá 1972\nDe Aguinaga Joaquín María. Aspectos Sistémicos del proyecto de Ingeniería.\nUniversidad Politécnica de Madrid. 2002\nDesarrollo de la pequeña y mediana empresa en Colombia. Lito Camargo Ltda. 1999\nGALLEGO BADILLO, Rómulo Discurso sobre Ciencia, Tecnología y Desarrollo.\nBogotá D. C. 13(1-4): Enero - Diciembre 1989.\nGRECH, Pablo. Introducción a la Ingeniería. Editorial Prentice Hall Bogotá D. C.\n2001.\nKrick Philip E. Introducción a la ingeniería y al diseño en la ingeniería. Limusa,\nMéxico. 1998\nKuhn, Thomas. La estructura de las revoluciones científicas. Fondo de Cultura\neconómica, Madrid. 1992\nLozano, Luís Antonio; Galo Adán Clavijo; Mora William, Coy Uriel. Universidad\nCurrículo y Acreditación. Universidad Distrital 2003\nResendiz, Daniel. El rompecabezas de la ingeniería. CFE. 2000.\nTextos Complementarios\nRodríguez de Rivera José. Historia de las formas de organización (social y de la\nproducción) hasta la Revolución Industrial. Dpto. de Ciencias Empresariales,\nUniversidad de Alcalá 1995-1999\nUniversidad Distrital Francisco José de caldas. Documento Institucional: Condiciones\niniciales para Acreditación de calidad de los Proyectos curriculares. Comité\nInstitucional de Acreditación. 2003\nWRIGHT, Paul H. (2002) Introduction to Engineering. 3rd. ed. Willey, Hoboken NJ.,\npp. 111- 138 DNP, Acopi"
+}

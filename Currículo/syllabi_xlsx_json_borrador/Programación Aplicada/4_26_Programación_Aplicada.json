@@ -1,0 +1,102 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El Contenido de programación aplicada, tiene por objeto dar a los estudiantes algunas metodologías sobre diseño y construcción de aplicaciones en software propias de la Ingeniería Electrónica. Cómo sistemas embebidos o aplicaciones IoT.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEl objetivo principal de la asignatura e desarrollar capacidades en el estudiante para la creación de aplicaciones en software, de manera cooperativa, relacionadas con la Ingeniería electrónica.\n\nOBJETIVOS ESPECIFICOS\n\n1. Conocer la sintaxis del lenguaje seleccionado por el profesor\n2. Evaluar los recursos y retardos de una aplicación.\n3. Determinar las pruebas que requiere un sistema para validar su funcionalidad.\n4. Desarrollar herramientas aplicadas a los temas vistos en las otras asignaturas.\n5. Colaborar en la creación de aplicaciones utilizando repositorios con Git\n\n",
+    "Competencias":"Competencias que compromete la asignatura:\n\nBASICAS\nHabilidad comunicativa (interpretativa, comunicativa y propositiva).\nComprensión de textos en una segunda lengua.\nPensamiento crítico y analítico.\nPensamiento lógico-espacial.\nCapacidad para modelar fenómenos y procesos\n\nCONTEXTUALES\nComprensión del contexto social, cultural y económico.\nValoración del trabajo productivo.\n\nLABORALES\nCapacidad para el trabajo en equipo.\nResolución de problemas prácticos con criterios de ingeniería.\nCreatividad para el análisis, el diseño y desarrollo de sitios web.",
+    "Metodologia":"1. El facilitador solicita a los estudiantes lectura previa a cada clase del material de referencia.\n2. Presentación de los temas de fundamentación por parte del facilitador utilizando recursos del aula, material impreso y electrónico y consultas en el World Wide Web (Internet).\n3. Realización de talleres y laboratorios de análisis y diseños prácticos.\n4. Desarrollo de talleres trabajo autónomo.\n5. Promover el trabajo en equipo de aprendizaje\n6. Promover y apoyo a la creatividad.",
+   
+
+    "Semestre": "4",
+    "Malla Renglon": "7",
+    "Código del Espacio": "26",
+    "Espacio Académico": "Programación Aplicada",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Unidad 1: Repaso sobre metodologías y modelado de software.\nUnidad 2: Sintaxis del lenguaje de programación usado (seleccionado por el profesor)\nUnidad 3: Tipos de pruebas\nUnidad 4: Git y trabajo colaborativo\nUnidad 5: Desarrollo de aplicaciones",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "ASPECTOS A EVALUAR DEL CURSO:\n1. Evaluación del desempeño docente.\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n\nTIPO DE EVALUACIÓN FECHA PORCENTAJE\n\nPRIMERA NOTA\nPrimera evaluación parcial, talleres, laboratorios y quices acumulados al corte. Semana 6 35%\n\nSEGUNDA NOTA\nSegunda evaluación parcial, talleres, laboratorios y quices acumulados al corte. Semana 11 35%\n\nEXAMEN FINAL\nPrueba teórica practica y proyecto final de integración. Semana 16 30%",
+
+    "Resultados de Aprendizaje1":"Utilizar adecuadamente la sintaxis del lenguaje de programación usado.",
+    "Resultados de Aprendizaje2":"Evaluar los recursos y retardos de una aplicación.",
+    "Resultados de Aprendizaje3":"Determinar las pruebas que requiere un sistema para validar su funcionalidad.",
+    "Resultados de Aprendizaje4":"Desarrollar herramientas aplicadas a los temas vistos en las otras asignaturas.",
+    "Resultados de Aprendizaje5":"Colaborar en la creación de aplicaciones utilizando repositorios con Git",
+    "Resultados de Aprendizaje6":"",
+    
+    "Materiales de Estudio": "TEXTOS BÁSICOS\nManuales de las Herramientas de Desarrollo utilizadas ese semestre.\nTutoriales del lenguaje utilizado ese semestre. \nPro Git, Scott Chacon, Ben Straub, Version 2.1, 2022-10-03, Apress\nPatrones de Diseño, Gamma et al, Addison Wesley, Pearson Education, Madrid 2003.\nBuddha in Testing: Finding Peace in Chaos, Pradeep Soundararajan, Notion Press, 1st edition, Enero de 2020,\n\nTEXTOS COMPLEMENTARIOS\nRational Software. Manuales y ayudas de Rational Rose 2002.\nEl Lenguaje Unificado de Modelado. Grady Booch, James Rambaugh, Ivar Jacobson. Pearson Education. 2002.\nManuales y ayudas de Racional Rose y Microsoft Visio 2003.\nTutoriales de XML, HTML.\n\nREVISTAS\nTransactions on Education. IEEE Education Society. 1996 - presente.\n\nDIRECCIONES DE INTERNET\nhttps://doc.rust-lang.org/book/\nhttps://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html\nhttps://git-scm.com/book/en/v2"
+}

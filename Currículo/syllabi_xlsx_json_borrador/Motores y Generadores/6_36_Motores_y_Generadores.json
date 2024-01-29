@@ -1,0 +1,101 @@
+{
+    
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Este espacio académico contribuye al entendimiento de la operación, dimensionamiento y cálculo de máquinas eléctricas rotatorias utilizadas en sistemas de potencia como cargas o generadores. Es espacio académico es requisito y base conceptual para aplicaciones de electrónica de potencia y control.\nEl curso de motores y generadores pertenece al área de circuitos y potencia.\nPara llevar a cabo este curso satisfactoriamente se requieren conocimientos de de operaciones con números complejos, análisis de circuitos polifásicos, teoría de campos magnéticos, calculo integral y diferencial, análisis de redes de más de dos puertos, análisis y diseño de transformadores y análisis de circuitos.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nPreparar al estudiante en el manejo de las máquinas AC y DC, fortaleciendo el análisis y modelado matemático de la operación de máquinas rotativas, paralelo a un laboratorio que permita evidenciar los conceptos teóricos.\n\nOBJETIVOS ESPECIFICOS\n\nIdentificar las diferentes topologías de máquinas eléctricas rotativas.\nConocer los principios generales y condiciones de funcionamiento de máquinas eléctricas rotativas.\nDiferenciar los diferentes tipos de máquinas eléctricas rotativas.\nAdquirir conocimientos para el modelado eléctrico de las diferentes máquinas eléctricas rotativas.\n\n",
+    "Competencias":"Al finalizar el curso se espera que el estudiante haya desarrollado las siguientes\ncompetencias:\n\nTransversales: \nCapacidad de organización y planificación, razonamiento crítico, trabajo en equipo, aprendizaje autónomo, comunicación oral y escrita, motivación por la calidad y mejoramiento continuo.\n\nContexto\nAnalizar el desarrollo de los sistemas de potencia eléctrica, identificando las fuentes de energía, su aprovechamiento y eficiencia, contrastando con las necesidades de energía, su transformación y utilización de manera óptima, dentro del marco de desarrollo social sustentable y sostenible.\n\nBásicas\nInterpretar las relaciones de campos magnéticos con la generación y transformación de la energía eléctrica. Analizar el comportamiento de campos magnéticos en la producción de energía eléctrica, y su relación con las magnitudes de corriente, tensión y potencia. \n\nDeterminar las relaciones físicas de los materiales para construir bobinas y transformadores, requerimientos de materiales, dimensiones, cantidades, formas de construcción y características.\n\nLaborales\nDiseñar, analizar e implementar sistemas de transformación de energía eléctrica, por medios electromagnéticos. Así como proponer soluciones a problemas de generación, transmisión, distribución y utilización de energía con tecnologías recientes.",
+    "Metodologia":"Dado que la secuencia del curso se desarrolla a través de las clases magistrales, los temas cubiertos en cada sesión se hacen de manera general. Es necesario que el estudiante, en forma individual o en grupo, lea y estudie los detalles de cada tema en los textos escogidos. Los textos principales son suficientes para todo el curso.\nPara los temas especiales, se escogen textos complementarios que permiten estudiar más detalladamente los temas que corresponden al modelado y análisis de las máquinas eléctricas rotativas.\nComo una ayuda al estudio autónomo del estudiante, se asignarán actividades en cada sesión como Talleres aplicando herramientas computacionales y artículos técnicos de los temas afines, que permitirán profundizar en los conceptos planteados en las sesiones de clase y que servirán para afianzar los conceptos presentados y visitas técnicas a plantas (sujeto a disponibilidad de atención por parte de las empresas del sector). \nAdicionalmente, para ayudar a resolver las tareas o las dudas surgidas, el estudiante cuenta con la asesoría del profesor en los horarios definidos para tal fin. \nPor otro lado, tanto en las sesiones de clase como en las tareas, el estudiante tendrá la posibilidad de incorporar el uso del computador y de programas matemáticos especializados para el análisis y la resolución de problemas. En las clases magistrales se mostrará el uso del programa Matlab® como ayuda didáctica y como herramienta de cálculo.",
+    
+    "Semestre": "6",
+    "Malla Renglon": "4",
+    "Código del Espacio": "36",
+    "Espacio Académico": "Motores y Generadores",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Motores de corriente directa.\n2. Motores y generadores síncronos.\n3. Motores asíncronos.\n4. Motores especiales.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "Las evaluaciones a los estudiantes son diseñadas de manera que permitan evidenciar el nivel de abstracción y conceptualización de cada uno de los temas del curso.\nExamen 1. Octubre 05 15%\nExamen 2. Noviembre 16 15%\nTalleres (varios) En el desarrollo del semestre 20 %\nInformes de laboratorio. Diciembre 06 20 %\nExamen Final programado por la coordinación del proyecto curricular 30%",
+    
+    "Resultados de Aprendizaje1":"Establecer las diferencias operativas de las máquinas DC y AC.",
+    "Resultados de Aprendizaje2":"Contextualizar los fundamentos y principios de operación de las máquinas eléctricas rotativas.",
+    "Resultados de Aprendizaje3":"Contextualizar y dimensionar las condiciones para energizar y proteger las máquinas DC y AC.",
+    "Resultados de Aprendizaje4":"Identificar los elementos de puesta en marcha de las máquinas eléctricas rotativas.",
+    "Resultados de Aprendizaje5":"Presentar las variables y/o condiciones de arranque, control de sentido de giro y control de velocidad de las máquinas eléctricas rotativas.",
+    "Resultados de Aprendizaje6":"Interpretar la normatividad vigente y la simbología en la aplicación y uso de las máquinas eléctricas rotativas.",
+    
+    "Materiales de Estudio": "Textos Principales\n1. Anderson Leonard. Electric Machines & Transformers\n2. Chapman Stephen. Electric Machinery Fundamentals. Mc Graw Hill\n3. Fitzgerald. Electric Machinery\n4. Paresh c. Sen, Principles of Electric Machines and Power Electronics\n5. Guru Bhag, Electric Machinery and Transformers.\n6. Langsdorf Alexander, Theory of AC Machinery\n7. Adolfo Jaramillo-Matta y Luis Guasch. Estimación de Parámetros para la Máquina de Inducción Trifásica: Modelos de jaula sencilla y doble jaula sin pérdidas en el entrehierro.\n\nTextos Complementarios\n1. Chee-mun Ong. Dynamic Simulation of Electric Machinery.\n2. Bimal k. Bose, Modern Power Electronics and AC Drives.\n3. John A. Gubner. Probability and Random Processes for Electrical and Computer Engineers.\n4. Slobodan N. Vukosavic. Handbook of Electrical Machines.\n5. Sathyajith Mathew and Geeta Susan Philip. Advances in Wind Energy Conversion Technology.\n6. Turan Gönen. Electrical Machines with Matlab."
+}

@@ -1,0 +1,108 @@
+{
+    "Semestre": "8",
+    "Malla Renglon": "10",
+    "Código del Espacio": "53",
+    "Espacio Académico": "Ingeniería Económica",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "2",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "● Unidad 1: Interés Simple\n    ● Unidad 2: Interés Compuesto\n    ● Unidad 3: Anualidades\n    ● Unidad 4: Gradientes\n    ● Unidad 5: Amortización y Capitalización.\n    ● Unidad 6: Índices de evaluación.\n    ",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Las competencias del perfil a las que contribuye la asignatura son: Comprender las variables del entorno micro y macro ambientales así desarrollar con capacidad soluciones lógicas y estructuradas acerca de problemas administrativos. Reconocer el significado e importancia de los conceptos administrativos que inciden sobre su formación como ingenieros electrónicos. Fortalecer su valor como persona y comprender la importancia de la interrelación en dinámicas de trabajo en equipo, liderazgo, comunicación asertiva entre otras. \nEl estudiante conocerá los diferentes, procesos y técnicas que integran los procesos administrativos. Desarrollar destrezas lógicas y abstractas comprendiendo la complejidad total de la organización y la adaptación del comportamiento del talento humano dentro de las instituciones u organizaciones. Tendrá capacidad para identificar y analizar los problemas que plantea la materia y podrá relacionarlos con su contexto técnico y social.\n Desarrollar habilidades técnicas para dirigir y controlar actividades administrativas y de gestión aplicadas a la Ingeniería electrónica. Desarrollar competencias como Trabajo en equipo,  comunicación, liderazgo. Generar procesos de Emprendimiento e innovación.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nComprender y aplicar las principales herramientas para el análisis de Alternativas de inversión a través del tiempo.\n\n OBJETIVOS ESPECIFICOS\n\n1. Comprender la importancia del uso del dinero como factor de la producción y capital\n2. Comprender los lineamientos básicos para realizar alternativas de inversión. \n3. Conocer los diferentes tipos de anualidades y su aplicación a casos colombianos.\n4. Conocer los tipos de gradientes y su aplicación al sistema UVR.\n5. Conocer las diferentes alternativas para evaluar proyectos",
+"Competencias":"Competencias que compromete la asignatura:\n\nBASICAS\n Articular conceptos de sistemas operativos y de Gestión.\n Desarrollar destrezas lógicas y abstractas para la resolución de problemas en industrias tradicionales y nuevas diseñando y desarrollando procesos productivos o de información.\n Desarrollar el espíritu innovador y empresarial. \n Lograr una visión integradora de conocimientos que le permitirá en su vida profesional interactuar con otras disciplinas con análisis y soluciones serias",
+    "Metodologia":"Exposición oral ilustrada con participación activa del estudiante en la disertación de los temas tratados para lo cual este debe desarrollar un componente de lectura dirigida por el docente. Desarrollo de talleres y casos. Lecturas de actualidad sobre economía y finanzas de los diferentes medios escritos (prensa, revistas especializadas etc.).",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":" Conocer el valor del dinero en el tiempo. ",
+    "Resultados de Aprendizaje2":" Conocer los índices de evaluación financiera de proyectos y su aplicación. ",
+    "Resultados de Aprendizaje3":"Aplicar el interés simple y el interés compuesto según la operación financiera. ",
+    "Resultados de Aprendizaje4":"Tomar decisiones financieras con base en los conocimientos adquiridos en la teoría del interés simple e interés compuesto ",
+    "Resultados de Aprendizaje5":" ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "● Ingeniería Económica – Guillermo Baca - Editorial Educativa\n● Matemática Financiera – José Luis Villalobos – Grupo Editorial Iberoamericana\n● Matemática Financiera Aplicada- Johnny de Jesús Meza Orozco – Eco Ediciones "
+}

@@ -1,0 +1,108 @@
+{
+    "Semestre": "7",
+    "Malla Renglon": "4",
+    "Código del Espacio": "44",
+    "Espacio Académico": "Sistemas Dinámicos",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "3",
+    "Horas Trabajo Colaborativo": "1",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Introducción al modelado y análisis de sistemas\n    2. Descripción de entrada – salida de sistemas dinámicos lineales\n    3. Descripción interna de sistemas dinámicos lineales\n    4. Representaciones gráficas de sistemas dinámicos lineales\n    5. Solución de modelos de sistemas dinámicos lineales\n    6. Realización de sistemas y simulación analógica\n    7. Análisis de sistemas lineales en el dominio del tiempo\n    8. Análisis de sistemas lineales en el dominio de la frecuencia\n    9. Estabilidad de sistemas lineales",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El curso de sistemas dinámicos pertenece al área de control y automática, es el primer curso de esta área. Forma parte del núcleo conceptual básico de la Ingeniería Electrónica, puesto que muchas de las aplicaciones de la disciplina se pueden modelar como interacciones entre señales y sistemas. El análisis de sistemas dinámicos lineales es básico para el diseño de sistemas de control. \n Nombre pretende que en este curso el estudiante aprenda a utilizar el modelado y análisis de sistemas dinámicos para el planteamiento y resolución de problemas de ingeniería.\n El curso pertenece al conjunto de asignaturas Básicas de Ingeniería. Para llevar a cabo este curso satisfactoriamente se requieren conocimientos de circuitos eléctricos, ecuaciones diferenciales, mecánica clásica y algebra lineal.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nProporcionar las herramientas que permitan al estudiante efectuar el modelado y análisis de sistemas dinámicos lineales de tiempo continuo.\n\n OBJETIVOS ESPECIFICOS\n\n Comprender las principales características de los sistemas utilizados en ingeniería y sus modelos.\n Modelar sistemas dinámicos continuos mediante una representación de entrada-salida.\n Modelar sistemas dinámicos continuos mediante una representación interna.\n Diseñar sistemas electrónicos que permitan implementar la realización de modelos de sistemas dinámicos continuos.\n Analizar sistemas dinámicos en el dominio del tiempo.\n Analizar sistemas dinámicos en el dominio de la frecuencia.\n Analizar la estabilidad de los sistemas dinámicos lineales continuos.",
+    "Competencias":"Transversales:\nCapacidad de organización y planificación / Razonamiento crítico / Trabajo en equipo / Aprendizaje autónomo / Comunicación oral y escrita / Motivación por la calidad y mejoramiento continuo.\n\n Contexto\nReflexión sobre la necesidad del modelado de problemáticas cotidianas y su relación con tecnologías de control automático en un contexto social y el papel del ingeniero electrónico en esta área de conocimiento.\nInvitación al trabajo autónomo y compromiso social del ejercicio de la ingeniería, en especial en el área de automática. \n\nBásicas\nDefinición de conceptos de modelado y clasificación de los sistemas dinámicos. Análisis matemático de sistemas de dinámicos lineales continuos en el dominio del tiempo y en el dominio de la frecuencia.\nAnálisis de estabilidad de sistemas dinámicos lineales.\n\nLaborales\nFamiliarización con terminología básica y conceptos fundamentales del modelado y análisis de sistemas dinámicos básicos. Simulación del comportamiento de sistemas dinámicos lineales continuos en los dominios del tiempo y de la frecuencia.",
+    "Metodologia":"Dado que la secuencia del curso se desarrolla a través de las clases magistrales, los temas cubiertos en cada sesión se hacen de manera general. Es necesario que el estudiante, en forma individual o en grupo, lea y estudie los detalles de cada tema en los textos escogidos. Los textos principales son suficientes para todo el curso. Para los temas novedosos, se escogen textos complementarios que permiten estudiar más detalladamente los temas que corresponden al modelado y análisis de sistemas dinámicos continuos.\n Como una ayuda al estudio autónomo del estudiante, se asignarán tareas en cada sesión que permitirán profundizar en los conceptos planteados en las sesiones de clase y que servirán para afianzar los conceptos presentados. Adicionalmente, para ayudar a resolver las tareas o las dudas surgidas, el estudiante cuenta con la asesoría del profesor en los horarios definidos para tal fin.\n Por otro lado, tanto en las sesiones de clase como en las tareas, el estudiante tendrá la posibilidad de incorporar el uso del computador y de programas matemáticos especializados para el análisis y la resolución de problemas. En las clases magistrales se mostrará el uso del programa Matlab® como ayuda didáctica y como herramienta de cálculo.",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":"ntender las diferentes clases de sistemas dinámicos continuos y sus modelos matemáticos. ",
+    "Resultados de Aprendizaje2":" Obtener las ecuaciones diferenciales ordinarias y las representaciones de estado que describen el comportamiento dinámico de sistemas físicos básicos. ",
+    "Resultados de Aprendizaje3":" Hacer uso de las representaciones gráficas de los modelos de los sistemas dinámicos continuos. ",
+    "Resultados de Aprendizaje4":" Diseñar circuitos electrónicos y programas de computación que permitan simular modelos de sistemas dinámicos de tiempo continuo. ",
+    "Resultados de Aprendizaje5":"Analizar cualitativamente la respuesta transitoria y la respuesta en estado estacionario de sistemas dinámicos de tiempo continuo. ",
+    "Resultados de Aprendizaje6":" Analizar el comportamiento de los sistemas dinámicos en el dominio del tiempo y de la frecuencia ",
+    
+    "Materiales de Estudio": "1. Charles M. Close, Dean Frederick and Jonathan Newell, Modeling and Analysis of Dynamic Systems, John Wiley & Sons. Third Edition. 2002.\n 2. Chi-Tsong Chen, Analog and Digital Control System Design: Transfer-Function, StateSpace, and Algebraic Methods, Saunders College Publishing. 1993.\n 3. Katsuhiko Ogata, Dinámica de Sistemas, Prentice Hall Hispanoamericana. 1987\n 4. Katsuhiko Ogata, Ingeniería de Control Moderno, Editorial Pearson, Tercera Edición, 1994.\n 5. Benjamin Kuo, Sistemas Automáticos de Control, Editorial Pearson, Septima Edición,  1994\n 6. Luis Francisco Cómbita, Introducción al Modelado y Análisis de Sistemas Dinámicos, Notas de Clase. 2005 "
+}

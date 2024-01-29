@@ -1,0 +1,103 @@
+{
+    "Semestre": "10",
+    "Malla Renglon": "14",
+    "Código del Espacio": "71",
+    "Espacio Académico": "Telemática III",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. INTRODUCCIÓN A LA CAPA DE APLICACIÓN.\n    1.1. SERVIDORES DE CORREO ELECTRONICO.\n    1.2. WWW Y WEB SEMANTICA\n    1.3. SERVIDORES MULTIMEDIA Y AUDIO DIGITAL.\n    1.4. SERVIDORES VOIP.\n    1.5. SERVIDORES DE STREMING DE VIDEO.\n    .\n    2. INTRODUCCIÓN A LA SEGURIDAD EN REDES TELEMATICAS.\n    2.1. CONCEPTOS GENERALES Y TIPOS DE SEGURIDAD.\n    2.2. SEGURIDAD A NIVEL DE FISICO, LOGICO, DATOS Y SERVICIOS.\n    2.3. TIPOS DE ATAQUES.\n    2.4. CRIPTOGRAFIA FUNDAMENTOS MATEMATICOS.\n    2.5. ESTUDIO DE CRIPTOGRAFIA\n    2.6. PROTOCOLOS DE INTERCAMBIO CRIPTOGRAFICO.\n    2.7. EJERCICIOS PROPUESTOS.\n    2.8. FUNDAMENTOS DE RKPI\n    7\n    3. ESTUDIO DE LOS ASPECTOS LEGALES REGULATORIOS EN REDES \n    TELEMATICAS.\n    3.1. CONTRATACION INFORMATICA.\n    3.2. PROTECCION JURIDICA DE SOFTWARE.\n    3.3. PROTECCION DE DATOS E INTIMIDAD DE LA INFORMACION.\n    4. TALLERES DE SERVICOS Y APLICACIONES CLIENTE-SERVIDOR.\n    4.1. SERVIDORES DE RED LINUX Y WINDOWS.\n    4.2. SERVIDORES PARA APLICACIONES EN NUBE.\n    4.3. GRID COMPUTING\n    4.4. SERVIDORES PARA APLICACIONES CIENTIFICAS.\n    4.5. APLICACIONES PARA, VOZ Y PARA STREAMING DE VIDEO.\n    4.6. OTRAS APLICACIONES TELEMATICAS.\n    4.7. APLICACIONES TIPO OPENSIM.\n    5. CONSIDERACIONES PRÁCTICAS.\n    5.1 JUSTIFICACIÓN PARA LA INSTALACION DE SERVICIOS DE SEGURIDAD.\n    5.2 EQUIPAMIENTO NECESARIO.\n    5.3 INSTALACIÓN DE UNA SERVIDOR DE APLICACIONES CLIENTE-SERVIDOR.\n    5.4 INSTALACIÓN DE SISTEMAS OPERATIVOS DE RED\n    5.5 CONFIGURACIÓN DE GRID COMPUTING. \n    5.6 INSTALACION Y CONFIGURACIÓN DE SERVICIOS WEB",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "LA TELEMÁTICA ES HOY DÍA LA BASE FUNDAMENTAL DE TODO TIPO DEINTERCAMBIO COMUNICACIÓN DESDE DATOS, VOZ Y HASTA EL VIDEO, ES DE VITAl IMPORTANCIA QUE LOS INGENIEROS ELECTRÓNICOS ESTÉN EN CAPACIDAD DE APRENDER, INVESTIGAR Y PONER EN FUNCIONAMIENTO VARIAS APLICACIONES EN ESTA LÍNEA DE PROFUNDIZACIÓN, DESDE LA PARTE DE SEGURIDAD, LOS ASPECTOS LEGALES Y LAS APLICACIONES Y SERVICIOS TIPO TRIPLE-PLAY, EL ESCENARIO DE APLICACIÓN VA DESDE EL HOGAR, LA INMÓTICA, LA DOMÓTICA HASTA LA INDUSTRIA PETROLERA Y LAS TIC; LA CONSERVACIÓN DEL MEDIO AMBIENTE ES UN ASPECTO CRUCIAL A TENER EN CUENTA EN TODAS LAS INSTITUCIONES DESDE LA ACADEMIA, EL SECTOR PRIVADO Y EL GOBIERNO, GRACIAS AL USO DE TECNOLOGÍADE PUNTA ES POSIBLE CONCLUIR QUE EN EL FUTURO TODAS LAS APLICACIONES CREADAS POR EL HUMANO TENDRÁN INMERSO UN ALTO PORCENTAJE BASADO EN TELEMÁTICA.",
+    "Objetivos":"OBJETIVOS GENERAL\n\n Adquirir el conocimiento de aspectos relacionados con los principios seguridad y criptografía, aspectos legales, contratación, niveles de servicio LSA, mapa organizacional basado en modelos de gestión de redes y desarrollos y aplicaciones tipo cliente-servidor pertenecientes a la capa de aplicación. OBJETIVOS ESPECIFICOS\n\n● Entender y conocer los tipos de ataques que se pueden producir en una red telemática.\n ● Conocer y estudiar aspectos relacionados con aspectos legales regulatorios a nivel de telemática.\n● Estudiar mapas organizacionales empleados en redes telemáticas basadas en gestión deredes a nivel privado y en el sector gobierno usando COBIT y similares.\n● Conocer aspectos de seguridad a nivel de sistemas operativos.\n● Estudiar las aplicaciones cliente servidor que permiten implementas aspectos relacionados con seguridad y criptografía.\n● Conocer e implementar servicios a nivel de capa de aplicaciones para voz, datos y video",
+    "Competencias":"Se fundamentara la formación de profesionales en Ingeniería electrónica con sólidas bases yconocimiento en la línea de telemática con capacidades de diseñar redes telemáticas adecuadas para brindar el máximo desempeño tecnológico en el hogar, la academia, el entorno científico y la industria.\n ENTENDIMIENTO Y CAPACIDAD DE APLICAR DE LAS DISTINTAS APLICACIONES TECNOLÓGICAS DESARROLLADAS E IMPLEMENTADAS A NIVEL MUNDIAL CON APLICACIONES ESPECÍFICAS EN TODOS LOS CAMPOS DEL CONOCIMIENTO HUMANO. \nFormar profesionales con criterios suficientes y con gran capacidad de trabajo en equipo para proponer esquemas de mejoramiento técnico a nivel profesional en empresas del sector de las telecomunicaciones.",
+    "Metodologia":"Metodología Pedagógica y Didáctica: \n Se dictarán clases magistrales con exposición de los principales temas.\n● Se trabajara la metodología colaborativa entre el alumno y profesor, en la cual el alumno propiciará\nla creación de nuevo conocimiento tecnológico con investigación\nsobre nuevos avances en el área de la Telemática a nivel de aplicación.\n● Se realizaran talleres y prácticas con en servidores con el fin de aplicar lo aprendido\ndurante el curso y se realizaran grupos de tres personas para toma de estadísticas que\ncomprueben el desempeño de los mismos.",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":" Aplicar los fundamentos y conocimientos de las ciencias exactas y de la electrónica para resolver problemas que existen en los campos de acción de la ingeniería respecto a las redes telemáticas en los protocolos y servicios de capa de aplicación. ",
+    "Resultados de Aprendizaje2":"Presentar y diseñar propuestas de solución en el campo de las redes telemáticas de manera asertiva de acuerdo con las necesidades particulares que se presentan en los territorios y campos de acción, propiciando la sostenibilidad ambiental y social, respecto a laseguridad de la información. ",
+    "Resultados de Aprendizaje3":"Evaluar a partir del pensamiento crítico la síntesis de proyectos fundamentándose en aspectos técnicos, administrativos y socio económicos respecto a las redes telemáticas modernas a nivel de protocolos y servicios de capa de aplicación ",
+    "Resultados de Aprendizaje4":"Analizar problemas de las redes telemáticas utilizando modelos, mediante el trabajo en equipo y el aprendizaje basado en proyectos ",
+    "Resultados de Aprendizaje5":"Presentar propuestas de solución en el campo de las redes telemáticas de manera asertiva de acuerdo con las necesidades particulares que se presentan en los territorios y campos de acción, propiciando la sostenibilidad ambiental y social, a nivel de protocolos y servicios de capa de aplicación. ",
+    "Resultados de Aprendizaje6":" Desarrollar eficientemente procesos propios de las redes telemáticas de forma individual, en equipo y/o en ambientes multidisciplinarios basados en los principios éticos de la ingeniería, respecto a la seguridad de la información. ",
+    
+    "Materiales de Estudio": "● Redes de Computadores, Andrew Tanenbaum; ed. Pearson\n● Transmisión de Datos y Redes de comunicaciones., Mc Graw Hill.\n● Sistemas Distribuidos: Evolución e Involución: Servidores, Cluster's, Grid y Cloud Computing. Paralelismo y Control de Concurrencia, Juan Pablo Garzon Ruiz, ed. EAE."
+}

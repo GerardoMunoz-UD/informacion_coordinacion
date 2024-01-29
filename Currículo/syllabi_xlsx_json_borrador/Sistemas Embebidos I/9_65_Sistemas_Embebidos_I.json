@@ -1,0 +1,108 @@
+{
+    "Semestre": "9",
+    "Malla Renglon": "19",
+    "Código del Espacio": "65",
+    "Espacio Académico": "Sistemas Embebidos I",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "x",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "● Diseño digital con microcontroladores.\n● Programación aplicada",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Introducción al microcontrolador ESP32 \n2. Características y Periféricos Específicos del ESP32\n3. Introducción al concepto de Internet de las Cosas (IoT) con ESP32 \n4. Herramientas de software para el desarrollo de aplicaciones IoT",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La asignatura Sistemas Embebidos 1 es un espacio académico donde los estudiantes pueden profundizar en el conocimiento de los sistemas digitales aplicados con el fin de programar y hacer uso de diversos dispositivos de última tecnología.",
+    "Objetivos":"OBJETIVOS GENERAL\n\n La combinación de funcionalidades Wi-Fi y Bluetooth, la alta potencia de cálculo y el bajo costo de los microcontroladores ESP32 amplía el abanico de oportunidades de losmicrocontroladores. La comunicación con dispositivos y el acceso a la información a través de Internet con los microcontroladores ESP32 es el objetivo principal de este curso, encaminado todo este proceso al Internet de las Cosas (IoT)\n\n OBJETIVOS ESPECIFICOS\n\n1. Dar a conocer la arquitectura interna de los dispositivos ESP32.\n2. Mostrar las ventajas del ESP32 frente a otro tipo de dispositivos para la solución de sistemas embebidos.\n3. Estudiar el uso del ESP32 para la solución de sistemas embebidos en la industria.\n4. Presentar las técnicas de programación y desarrollo de sistemas embebidos basados en los dispositivos ESP32.\n5. Fomentar la inquietud científica e investigativa solicitando consultas del estado del arte tecnológico y educativo en Internet.\n6. Inculcar en los estudiantes la cultura de las publicaciones y de las nuevas tecnologías de información, suministrando normas y consultando artículos en revistas nacionales e internacionales y apoyando la gestión del curso mediante la WEB.\n7. Ejercitar el uso del inglés como lengua técnica universal, mediante lectura, escritura y conversación espontánea en clase",
+    "Competencias":"El espacio académico contribuye al desarrollo de las siguientes competencias:\n\nBASICAS\n1. Habilidad comunicativa (interpretativa, comunicativa y propositiva).\n2. Comprensión de textos en una segunda lengua.\n3. Pensamiento crítico y analítico.\n4. Pensamiento lógico-espacial.\n5. Capacidad para modelar fenómenos y procesos\n\nCONTEXTUALES\n1. Comprensión del contexto social, cultural y económico.\n2. Valoración del trabajo productivo.\n\nLABORALES\n1. Capacidad para el trabajo en equipo.\n2. Resolución de problemas prácticos con criterios de ingeniería",
+    "Metodologia":"",
+      
+    "Recursos":"● Video Beam.\n● Proyector de acetato.\n● Computador.\n● Aula de informática con computadores, mínimo con procesador IntelCore i3 o AMD Ryzen 3, 4 GB RAM y 200 GB HD.\n● Software para diseño con ESP32.\n● Sistema de desarrollo para microcontroladores ESP32 ",
+  
+  
+    "Resultados de Aprendizaje1":"Aplicar la lógica para el diseño se soluciones avanzadas con microcontroladores. ",
+    "Resultados de Aprendizaje2":"Construir circuitos digitales avanzados con microcontroladores ",
+    "Resultados de Aprendizaje3":"Diseñar soluciones digitales utilizando microcontroladores ",
+    "Resultados de Aprendizaje4":" Aplicar soluciones de programación de alto nivel para la solución de problemas con microcontroladores. ",
+    "Resultados de Aprendizaje5":" Reconocer los periféricos de alto nivel (Bluetooth, WiFi) de un microcontrolador ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "● CAMERON, NEIL. Electronics Projects with the ESP8266 and ESP32: Building Web Pages, Applications, and WiFi Enabled Devices. Apress, 2021.\n● KOLBAN, NEIL. Kolbans’s Book on ESP32. 2018.\nLibros Complementarios:\n● BARRIO, MOISÉS. Internet de las Cosas. Reus Editorial, 2018.\n● HODDIE, PETER & PRADER, LIZZIE. IoT Development for ESP32 and ESP8266 with JavaScript. A Practical Guide to XS and the Moddable SDK. Apress, 2020.\n● KOLBAN, NEIL. Kolbans’s Book on ESP8266. 2016.\n● SANTOS, RUI & SANTOS, SARA. MicroPython Programing with ESP32 and ESP8266. 2019."
+}

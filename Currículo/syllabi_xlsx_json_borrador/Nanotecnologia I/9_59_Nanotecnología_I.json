@@ -1,0 +1,108 @@
+{
+    "Semestre": "9",
+    "Malla Renglon": "13",
+    "Código del Espacio": "59",
+    "Espacio Académico": "Nanotecnología I",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": ". Física de Semiconductores",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Conceptos Generales en Nanotecnología\n    ¿Qué es la nanotecnología?\n     Historia de la nanotecnología\n    Clasificación de las diferentes áreas de la nanotecnología\n    Enfoque de arriba hacia abajo (bottom-up)\n    Enfoque de abajo hacia arriba (top-down)\n    El carácter interdisciplinario de la nanotecnología\n    ¿Qué ofrece la nanotecnología para nuestro futuro?\n    Nanotecnología y las Tecnologías Convergentes\n    2. Nanotecnología y Nanociencias\n    ¿Por qué se utiliza el término nanotecnología en lugar de nanociencias?\n    Nanofísica y nanoquímica\n    Física: Mecánica Cuántica\n    Mecánica cuántica: la física de la pequeñez\n    Física y Química: Estructura Electrónica de los Átomos\n    Tipos de enlaces químicos\n    Interacciones moleculares - Interacciones de van der Waals\n    Interacciones moleculares: enlaces de hidrógeno\n    Interacciones Moleculares - Efecto Casimir\n    Interacciones moleculares: efectos hidrofílicos e hidrofóbicos\n    Interacciones moleculares: apilamiento π\n    Nanoquímica\n    Química coloidal\n    Electroquímica y nanotecnología electroquímica\n    Nanobiología\n    Nanofarmacia\n    Nanomedicina\n    3. MEMS y NEMS\n    Definición\n    Modelo de barra de Euler-Bernoulli\n    Microbarra - Cantilever\n    Modos de vibración de la microbarra\n    Aplicaciones en MEMS en sensores y actuadores: acelerómetros, giroscopios, etc.\n    La escala nanométrica de estos dispositivos\n    4. Nanoestructuras\n    4.1.Aerogeles\n    Descripción general de los aerogeles\n    Historia de los aerogeles\n    Diagramas de fase y temperatura crítica\n    Formación de aerogeles\n    Propiedades de los aerogeles\n    Aplicaciones de Aerogeles\n    4.2.Grafeno\n    Grafeno (graphene)\n    Generación de láminas de grafeno\n    Grafino (graphyne), (Graphdiyne, graphone, graphane)\n    Propiedades",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La nanotecnología (NT) es una disciplina bastante joven, que surgió en los años noventa. Sin embargo, la nanotecnología ha ganado tanta importancia en los últimos años que las universidades de todos los rankings han introducido o van a introducir programas de enseñanza de la nanotecnología. Las predicciones dicen que la nanotecnología cambiará nuestras vidas y la sociedad más de lo que la tecnología informática y la electricidad han hecho juntas.\n El curso proporcionará una visión general sobre la nanotecnología. Mostrará que el nano régimen es tan diferente de otros regímenes porque tanto los efectos clásicos como los cuánticos pueden estar activos, lo que lleva a propiedades únicas de los nano dispositivos. La nanotecnología es una ciencia altamente interdisciplinaria, lo que se reflejará en el curso al hacer referencia a la química, la física, la biología, la farmacia y la ingeniería. Se discutirán las aplicaciones de la nanotecnología, ya que están en uso hoy o como están planificadas para el futuro",
+    "Objetivos":"OBJETIVOS GENERAL\n\nProporcionar una introducción y una descripción general de la nanotecnología (NT)\n\n OBJETIVOS ESPECIFICOS\n\n1. Ilustrar al estudiante sobre la amplitud de la definición de nanotecnología, dando énfasis a su carácter multidisciplinario, y a la necesidad de establecer una comunidad de jóvenes científicos e ingenieros dedicados a la apropiación de tecnologías, mediante la creación y fortalecimiento de grupos de investigación básica y aplicada.\n2. Proporcionar herramientas teóricas basadas en la física del estado sólido para la comprensión de propiedades, técnicas de fabricación y caracterización de nanoestructuras y dispositivos basados en materiales nanoestructurados.\n3. Aplicar el conocimiento de leyes y fenómenos físicos para comprender los métodos modernos usados para la exploración de las propiedades de la materia.\n4. Comprender la forma en que se fabrican las nanoestructuras y las novedosas propiedades  exhibidas por materiales nanoestructurados.\n5. Caracterizar la Nanotecnología como una multitud de diferentes enfoques ascendentes (bottom-up) y descendentes (top-down). \n6. Estudiar los MEMS y NEMS.\n7. Proporcionar una visión de los materiales químicos y las líneas de fabricación que se utilizan hoy en día en la nanotecnología.\n8. Estudiar nuevas formas de nanoestructuras orgánicas e inorgánicas.\n9. Demostrar cómo las aplicaciones de la Nanotecnología influirán en la ciencia del mañana y cambiarán muchos aspectos de nuestra vida. Se discutirá el impacto de la Nanotecnología en nuestra sociedad",
+    "Competencias":"",
+    "Metodologia":"",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":"Describir las principales estrategias de fabricación en la micro y nanoescala: ascendentes (bottom-up) y descendentes (top-down).  ",
+    "Resultados de Aprendizaje2":"Explicar las leyes físicas en la nanoescala y en qué se diferencian de la microescala ",
+    "Resultados de Aprendizaje3":"Identificar los conceptos básicos de la estructura electrónica de átomos, moléculas y nanopartículas.  ",
+    "Resultados de Aprendizaje4":"Describir el comportamiento de los MEMS y NEMS. ",
+    "Resultados de Aprendizaje5":"Identificar los principales materiales químicos utilizados en la Nanotecnología. ",
+    "Resultados de Aprendizaje6":"Identificar las principales estrategias de fabricación de nanopartículas.",
+    
+    "Materiales de Estudio": ""
+}

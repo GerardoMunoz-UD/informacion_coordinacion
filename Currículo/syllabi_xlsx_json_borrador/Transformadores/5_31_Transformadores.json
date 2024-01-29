@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La maquinaria eléctrica moderna aunque mantiene su funcionamiento básico, se ha modernizado y hace parte de sistemas cuyo control electrónico, permite la automatización de procesos de manufactura o de aplicaciones de uso general. Desde el punto de vista de la ingeniería electrónica la aplicación de transformadores en comunicaciones, en fuentes de potencia, en instrumentación y acople de toda clase de señales, es necesario que el principio de funcionamiento y diseño de transformadores hagan parte de las competencias del ingeniero electrónico, para proponer, analizar y modelar toda clase de bobinas, transformadores y cuasitransformadores en cualquier aplicación. Este espacio académico pretende hacer una revisión del principio de funcionamiento de bobinas y transformadores, de potencia, de medida y de protección, así como hacer un resumen de la aplicación de transformadores en sistemas de transmisión y distribución de potencia eléctrica, campo en el cual los sistemas de protección y control son cada vez más automatizados por medio de sistemas electrónicos. El curso de transformadores pertenece al área de circuitos y potencia. Para llevar a cabo este curso satisfactoriamente se requieren conocimientos de de operaciones con números complejos, análisis de circuitos polifásicos, teoría de campos magnéticos, calculo integral y diferencial.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEstudio resumido del proceso de generación, transporte y distribución de energía eléctrica, recurriendo al análisis y diseño de transformadores e inductancias.\n\nOBJETIVOS ESPECIFICOS\n\nDeterminar el principio de funcionamiento de los transformadores.\nEstablecer las relaciones de campos magnéticos y de medios de transporte de campo magnético.\nReconocer el comportamiento de diferentes materiales ante el campo magnético, y su comportamiento en términos de eficiencia, calentamiento y capacidad de manejo.\nDefinir métodos de diseño y características de transformadores de potencia, análisis de su comportamiento de la máquina a diferentes frecuencias.\nExtender los métodos de análisis de transformadores al diseño y análisis de inductancias.\nIdentificar las características de los sistemas de transmisión y distribución de potencia eléctrica.\nReconocer la necesidad de sistemas de alta tensión en la transmisión y los problemas asociados a su manejo.\nIdentificar la necesidad de los sistemas de puesta a tierra, tanto de servicio como de protección, explorar algunos métodos de construcción de tierras.\n\n",
+    "Competencias":"Al finalizar el curso se espera que el estudiante haya desarrollado las siguientes competencias: \nTransversales:\nCapacidad de organización y planificación, razonamiento crítico, trabajo en equipo, aprendizaje autónomo, comunicación oral y escrita, motivación por la calidad y mejoramiento continuo. \nContexto Analizar el desarrollo de los sistemas de potencia eléctrica, identificando las fuentes de energía, su aprovechamiento y eficiencia, contrastando con las necesidades de energía, su transformación y utilización de manera óptima, dentro del marco de desarrollo social sustentable y sostenible. \nBásicas Diseñar, analizar e implementar sistemas de transformación de energía eléctrica, por medios electromagnéticos. Así como proponer soluciones a problemas de generación, transmisión, distribución y utilización de energía. \nLaborales Desarrollo de capacidades de análisis y dimensionamiento de sistemas de transmisión de energía y capacidad de proponer soluciones.",
+    "Metodologia":"Dado que la secuencia del curso se desarrolla a través de las clases magistrales, los temas cubiertos en cada sesión se hacen de manera general. Es necesario que el estudiante, en forma individual o en grupo, lea y estudie los detalles de cada tema en los textos escogidos. Los textos principales son suficientes para todo el curso. Para los temas especiales, se escogen textos complementarios que permiten estudiar más detalladamente los temas que corresponden al modelado y análisis de transformadores.\n\nComo una ayuda al estudio autónomo del estudiante, se asignarán actividades en cada sesión como Talleres aplicando herramientas computacionales y artículos técnicos de los temas afines, que permitirán profundizar en los conceptos planteados en las sesiones de clase y que servirán para afianzar los conceptos presentados y visitas técnicas a plantas (sujeto a disponibilidad de atención por parte de las empresas del sector). \nAdicionalmente, para ayudar a resolver las tareas o las dudas surgidas, el estudiante cuenta con la asesoría del profesor en los horarios definidos para tal fin.\nPor otro lado, tanto en las sesiones de clase como en las tareas, el estudiante tendrá la posibilidad de incorporar el uso del computador y de programas matemáticos especializados para el análisis y la resolución de problemas. En las clases magistrales se mostrará el uso del programa Matlab® como ayuda didáctica y como herramienta de cálculo.",
+   
+    "Semestre": "5",
+    "Malla Renglon": "4",
+    "Código del Espacio": "31",
+    "Espacio Académico": "Transformadores",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Circuitos Trifásicos\n2. Análisis y diseño de transformadores y reguladores\n3. Centrales eléctricas, líneas de Transmisión y redes de distribución\n4. Alta Tensión. Subcentrales. Protecciones y sistemas de Puesta a Tierra",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "Las evaluaciones a los estudiantes son diseñadas de manera que permitan evidenciar el nivel de abstracción y conceptualización de cada uno de los temas del curso.\n\nNota 1 Examen 1. Octubre 11 15 %\nNota 2 Examen 2. Noviembre 22 15 %\nNota 3 Talleres (varios) En el desarrollo del semestre 10 %\nNota 4 Infografia Diciembre 06 10%\nNota 5 Informes de laboratorio. Diciembre 06 20 %\nNota 6 Examen Final programado por la coordinación del proyecto curricular 30%\n\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n3. Autoevaluación:\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.",
+
+    "Resultados de Aprendizaje1":"Establecer las relaciones de campos magnéticos y de medios de transporte de campo magnético.",
+    "Resultados de Aprendizaje2":"Contextualizar el comportamiento de diferentes materiales ante el campo magnético y su comportamiento en términos de eficiencia, calentamiento y capacidad de manejo.",
+    "Resultados de Aprendizaje3":"Contextualizar los elementos constitutivos de los transformadores y sus sistemas complementarios.",
+    "Resultados de Aprendizaje4":"Analizar el comportamiento del transformador en términos de eficiencia, regulación, cargabilidad y respuesta a diferentes frecuencias.",
+    "Resultados de Aprendizaje5":"Identificar los equipos y elementos de generación y transporte de potencia eléctrica.",
+    "Resultados de Aprendizaje6":"Analizar el comportamiento de los diferentes equipos y/o elementos que constituyen los sistemas de generación y transporte de energía eléctrica.",
+    
+    "Materiales de Estudio": "Textos Principales\n1. Winders, John. Power transformers: principles and applications. CRC Press.\n2. Chapman Stephen, Electric Machinery Fundamentals. Mc Graw Hill\n3. Langsdorf Alexander, Theory of AC Machinery. Mc Graw Hill\n4. Nassar, Electric Machines & Electromechanics. Schaum`s.\n5. Anderson Leonard, Electric Machines & Transformers. Reston Publishing\n6. Gönen, Turan Electric Power Distribution Engineering. CRC Press\n7. Jinliang He. Methodology and Technology for Power System Grounding. Wiley\n8. Ashok Kumar. Power Electronic Converters for Solar Photovoltaic Systems. Elsevier\n9. Hasse, Peter. Overvoltage protection of Low Voltage Systems. Second Edition.\n\nTextos Complementarios\n1. Chee-mun Ong. Dynamic Simulation of Electric Machinery.\n2. John A. Gubner. Probability and Random Processes for Electrical and Computer Engineers.\n3. Slobodan N. Vukosavic. Handbook of Electrical Machines.\n4. Turan Gönen. Electrical Machines with Matlab.\n5. ABB. Transformer Handbook.\n6. Colonel McLyman. Transformer and Inductor Design Handbook.\n\nRevistas\n1. IEEE PELS Newsletter\n2. IEEE Power Electronics Magazine.\n3. IEEE Transaction on Energy Conversion.\n4. IEEE Transaction on Power Electronics.\n5. European Power Electronics (EPE) Newsletter\n\nDirecciones de Internet\nhttps://powersimtech.com/products/psim/capabilities-applications/\nhttps://www.dixpro.com/"
+}

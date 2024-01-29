@@ -1,0 +1,100 @@
+{
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Las competencias del perfil a las que contribuye la asignatura son: \nActualmente, la interacción del mundo exterior a las personas con las necesidades de ellas mismas se realiza a través de escuchar (a través de cualquier medio de percepción) y de actuar (a través de cualquier medio de acción) sobre este entorno. El desarrollo tecnológico ha permitido escuchar (a través de las señales de entrada) y modificar (a través de las señales de salida) ese entorno de diferentes maneras. El curso de señales y sistemas plantea entonces la necesidad de modelar las señales de manera apropiada para que puedan ser analizadas y procesadas. Adicionalmente, dado que algunos sistemas pueden ser modelados como señales también, los modelos de señales también nos sirven para analizar y diseñar este tipo de sistemas. Sin embargo, existen dos grandes clases de señales que aparentemente no están relacionadas y que juegan un papel muy importante en el desarrollo actual de la tecnología: las señales continuas y las señales discretas. No obstante, con las herramientas que se utilizan para cada grupo de señales se encuentra un punto que permite obtener un tipo de señales representadas en el otro tipo, facilitando su manipulación. Esta es la razón de abordar este tema que se inicia con este fundamental espacio académico. \nPor otro lado, todas las áreas de estudio a nivel profesional requieren del análisis y la manipulación de señales propias de su entorno. La relación de los temas abordados en este curso permitirá tener conceptos y modelos apropiados de estas señales, en primera instancia. \nLa utilidad de los modelos de representación y de análisis de las señales y los sistemas se verá reflejada en áreas avanzadas como las comunicaciones, la automatización y la bioingeniería, entre otras, dado que todas estas parten de la necesidad de estudiar, manejar y transformar señales o sus características. Junto con las señales van los sistemas que están encargados de estos procesos. \nEl curso plantea abordar herramientas de análisis y desarrollo útiles a nivel de ingeniería tales como: el concepto básico de señal, los modelos fundamentales de representación tanto temporales como espectrales, los cambios de dominio, las caracterizaciones en cada uno de los dominios, la generación de sistemas basados en esas caracterizaciones para las operaciones que se requieran, etc. Estos espacios de representación permitirán conocer mejor las señales y los sistemas en cada una de las áreas mencionada arriba. El curso pertenece al conjunto de asignaturas Básicas de Ingeniería.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEstudiar los diferentes modelos de representación de las señales y de los sistemas lineales e invariantes en el tiempo desde un punto de vista conceptual. Junto con los modelos, obtener sus diferentes características para su manipulación, análisis o síntesis.\n\nOBJETIVOS ESPECIFICOS\n\n1. Definir los diferentes modelos temporales de las señales tanto de tiempo continuo como de tiempo discreto.\n2. Definir los modelos temporales de los sistemas y determinar sus características.\n3. Determinar los sistemas lineales e invariantes en el tiempo y definir las operaciones de convolución (integral y suma de convolución) para encontrar la respuesta a cualquier señal.\n4. Estudiar y caracterizar los sistemas LTI descritos como ecuaciones diferenciales o de diferencias lineales con coeficientes constantes.\n5. Estudiar y utilizar las cuatro representaciones de Fourier para el análisis de señales periódicas y no periódicas de tiempo continuo y de tiempo discreto (series y transformadas de Fourier de tiempo continuo y de tiempo discreto.\n6. Analizar espectralmente y diseñar sistemas de primer y segundo orden.\n7. Estudiar el muestreo como herramienta de conversión de señales de tiempo continuo a señales de tiempo discreto y sus implicaciones en su recuperación.\n8. Definir y estudiar la transformada de Laplace y sus propiedades como herramienta de análisis de las señales y los sistemas de tiempo continuo.\n9. Definir y estudiar la transformada Z y sus propiedades\n\n",
+    "Competencias":"Competencias que compromete la asignatura: \nBASICAS\nModelar y caracterizar una señal, utilizar otros dominios, caracterizar en otros dominios, reconocer las distribuciones de energía de las señales, reconocer y describir las propiedades de los sistemas lineales, reconocer la invarianza en el tiempo, resolver y describir las respuestas de los sistemas lineales e invariantes en el tiempo, conocer y utilizar las representaciones de Fourier, reconocer las propiedades de las señales y los sistemas en los planos complejos s y z, transformar señales de tiempo continuo en señales de tiempo discreto.\nModelar formalmente señales y sistemas de tiempo continuo y de tiempo discreto, desarrollar formalmente las soluciones de los sistemas de tiempo continuo y tiempo discreto, determinar las distribuciones espectrales tanto de las señales como de las respuestas al impulso de los sistemas LTI. \nLABORALES\nReconocer características espectrales de las señales y los sistemas, aplicar las herramientas de análisis para la manipulación de las señales, aplicar las herramientas matemáticas estudiadas para la implementación de sistemas LTI, especificar y diseñar sistemas LTI básicos.",
+    "Metodologia":"Metodología Pedagógica y Didáctica:\nDado que la secuencia del curso se desarrolla a través de las clases magistrales, los temas cubiertos en cada sesión se hacen de manera general. Es necesario que el estudiante, en forma individual o en grupo, lea y estudie los detals de cada tema en los textos escogidos. Los textos principales son suficientes para todo el curso. Para los temas novedosos, se escogen textos complementarios que permiten estudiar más detalladamente los temas que corresponden al análisis y síntesis de señales analíticas y sistemas de tiempo discreto.\nComo una ayuda al estudio autónomo del estudiante, se asignarán tareas en cada sesión que permitirán profundizar en los conceptos planteados en las sesiones de clase y que serán evaluados a un conjunto de estudiantes escogidos al azar y que además permitirán obtener la tercera nota. El promedio de tareas evaluadas por estudiante se espera que sea de cinco (5). \nAdicionalmente, para ayudar a resolver las tareas o las dudas surgidas, el estudiante cuenta con la asesoría del profesor en los horarios definidos para tal fin. \nPor otro lado, tanto en las sesiones de clase como en las tareas, el estudiante tendrá la posibilidad de incorporar el uso del computador y de programas matemáticos especializados para el análisis y la resolución de problemas. En las clases magistrales se mostrará el uso del programa Matlab® como ayuda didáctica y como herramienta de cálculo.",
+   
+    "Semestre": "6",
+    "Malla Renglon": "7",
+    "Código del Espacio": "38",
+    "Espacio Académico": "Señales y Sistemas",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "3",
+    "Horas Trabajo Colaborativo": "1",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "Conocimientos en cálculo diferencial e integral, ecuaciones diferenciales ordinarias, algebra lineal, estadística básica.\n Fundamentos básicos de matemáticas\nExpresión oral y escrita",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "ASPECTOS A EVALUAR DEL CURSO:\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n 3. Autoevaluación.\n 4. Coevaluación del curso: de forma oral entre estudiantes y docente.\n\nExamen escrito que busca evaluar la capacidad de conceptualizar formalmente los problemas y soluciones de los temas cubiertos en el primer mes de estudio.10a Sesión 20%\nExamen escrito que busca evaluar la capacidad de conceptualizar formalmente los problemas y soluciones de los temas cubiertos en el segundo mes de estudio. 18a Sesión 20%\nPromedio aritmético de las notas obtenidas en las tareas realizadas durante todo el curso y seleccionadas aleatoriamente. Cualquier sesión 30%\nExamen escrito que busca evaluar la capacidad de conceptualizar formalmente los problemas y soluciones de los temas cubiertos en el tercer y cuarto mes de estudio. En la fecha programada 30%",
+
+    "Resultados de Aprendizaje1":"Identificar los diferentes tipos de señales de tiempo continuo y tiempo discreto, periódicas o no periódicas.",
+    "Resultados de Aprendizaje2":"Describir los sistemas lineales e invariantes en el tiempo como señales.",
+    "Resultados de Aprendizaje3":"Discriminar qué representaciones de Fourier describen en frecuencia a los diferentes tipos de señales y sistemas LTI.",
+    "Resultados de Aprendizaje4":"Explicar cómo se debe realizar el muestreo de una señal de tiempo continuo para tener una versión correcta en tiempo discreto.",
+    "Resultados de Aprendizaje5":"Explicar lo que representa para un sistema LTI, en los dominios de s y z, las transformaciones de Laplace y z.",
+    "Resultados de Aprendizaje6":"Describir si un sistema LTI de tiempo continuo o de tiempo discreto es causal y/o estable.",
+    
+    "Materiales de Estudio": "TEXTOS BÁSICOS\nAlan V. Oppenheim, Alan S. Willsky y S. Hamid Nawab, Señales y sistemas, Segunda Edición, Prentice-Hall Hispanoamericana, S.A., México, 1998.\nAshok Ambardar, Procesamiento de señales analógicas y digitales, Segunda Edición, International Thomson Editores, S.A. de C.V., México, 2002.\nDouglas K. Lindner, Introducción a las señales y los sistemas, McGraw-Hill Interamericana de Venezuela, S.A., Caracas, Venezuela, 2002.\nTEXTOS COMPLEMENTARIOS\nJosé B. Mariño Acebal, Francesc Vallverdú Bayés, José A. Rodríguez Fonollosa y Asunción Moreno Bilbao, Tratamiento digital de la señal: Una introducción experimental, Segunda Edición, Alfaomega Grupo Editor, S.A. de C.V., México, D.F., 1999.\nJohn G. Proakis y Dimitris G. Manolakis, Tratamiento digital de señales, Cuarta Edición, Pearson Educación S.A., Madrid, España, 2007.\nSamuel D. Stearns and Don R. Hush, Digital Signal Analysis, Second Edition, Prentice-Hall, Inc., New Jersey, U.S.A., 1990.\nREVISTAS\nDIRECCIONES DE INTERNET\nhttp://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-003Fall- 2003/CourseHome/"
+}

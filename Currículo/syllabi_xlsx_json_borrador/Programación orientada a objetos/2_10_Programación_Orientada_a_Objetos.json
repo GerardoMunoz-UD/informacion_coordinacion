@@ -1,0 +1,101 @@
+{
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Competencias del perfil a las que contribuye la asignatura\n Esta asignatura contribuye al desarrollo de la competencia (resuelve problemas computacionales algoritmicamente), que se encuentra en el dominio de programación del area básicas de ingeniería del proyecto curricular ingeniería Electrónica\n Contribución del espacio\n En este espacio se establecen las bases de la aplicación paradigma orientado a objetos y se le brindan al estudiante las herramientas para la aplicación de los principios y caracteristicas de este paradigma para fortalecer en el estudiante las habilidades en el desarrolo de programas computacionales. estas habilidades se reconocen como claves dentro del dominio del perfil de programación.\nPuntos de apoyo para otras asignaturas:\nEstructura lógica conceptual basadada en el paradigma de programación orientada a objetos.\n Herramienta fundamental para programación avanzada y modelos de programación.\nHerramieta fundamental para la ingeniería de software.\nHerramienta fundamental para Redes\n Herramientas para Ciencias de la computación\n\nRequisitos previos:\nProgramación Básica", 
+    "Objetivos":"OBJETIVO GENERAL\n\nPresentar al estudiante la conceptualización y aplicación del paradigma orientado a objetos, enfatizando en los elementos conceptuales propios de este que permitan plantear y aplicar modelos bien formados utilizando un lenguaje de programación orientado a objetos.\n\nOBJETIVOS ESPECIFICOS\n\n1. Determinar los tipos de aplicación y las situaciones en las que se debe aplicar el paradigma orientado a objetos.\n2. Comprender, interpretar y analizar el cambio de enfoque en el modo de resolver problemas que supone el uso del paradigma orientado a objetos respecto a otros paradigmas.\n3. Aplicar los conceptos del paradigma de programación orientada a objetos tales como: polimorfismo,encapsulamiento, herencia, sobrecarga, funciones virtuales, etc., usando como lenguaje de programación C# o Java\n4. Manejar adecuadamente conceptos tales como: recursividad, objetos transientes, residentes y persistentes; generalización y generacidad; clases plantillas; asociación, agregación y composición.\n5. Identificar problemas de: portabilidad, efectos colaterales y transparencia referencial.\n6. Comprender la enorme importancia de crear software fiable, reutilizable y mantenible.\n7. Dominar estrategias básicas de reutilización como son el uso de librerías o paquetes de software.\n8. Aplicar el modelo orientado a objetos en programación de dispositivos de cómputo.\n\n",
+    "Competencias":"Competencias que compromete la asignatura:\nEl estudiante está en capacidad de pensar ordenadamente para modelar una solución a un problema, en donde se debe analizar e implementar dicha solución aplicando el paradigma de programación orientado a objetos\nCompetencias específicas de la asignatura:\nEl estudiante entiende el concepto de paradigma y sus implicaciones en el modo de resolver problemas.\nConoce y entiende el proceso de evolución de los distintos paradigmas de programación.\nEntiende el tipo de problemas de desarrollo software que solucionan un uso correcto del paradigma orientado a objetos.\nConoce el modo en que el paradigma orientado a objetos ayuda a mejorar las capacidades de reutilización del software.\nEntiende los conceptos de clase, atributo, operación, interfaz y objeto.\nEntiende el mecanismo de paso de mensajes.\nComprende el modo en que se deben implementar los caminos de comunicación entre clases para permitir el paso de mensajes entre ellas.\nEntiende y es capaz de implementar los distintos tipos de relaciones que se pueden establecer a nivel de objeto entre dos clases: asociaciones, agregaciones y composiciones.\nEntiende el concepto de estado de un objeto.\nEntiende la relación entre diagramas de clase y el código de implementación de dichos diagramas.\nEntiende el mecanismo de abstracción de la herencia.\nEs capaz de plantear jerarquías de herencia bien definidas.\nComprende los costes de la herencia.\nDiferencia claramente cuándo usar herencia y cuándo optar por composición.  Entiende el concepto y la utilidad del polimorfismo.\nEntiende la diferencia entre ligadura estática y ligadura dinámica en los lenguajes de programación.\nEntiende la relacióna nivel de implementaciónentre herencia y polimorfismo.\nIdentifica los distintos tipos de polimorfismo: sobrecarga, sobreescritura, variables polimórficas y genericidad.\nEntiende las relaciones entre los distintos tipos de polimorfismo.\nEntiende los mecanismos de gestión de errores que ofrecen algunos lenguajes de programación (C# o Java).\nEntiende el concepto de concurrencia.\nEntiende el concepto de persistencia.\n\nCompetencias Transversales a las que contribuye la asignatura:\nEl alumno tiene la capacidad de discernir que tecnología debe utilizar para la resolución de problemas particulares.\nComunica ideas de manera clara de forma oral o escrita.\nActúa estratégicamente dentro de un grupo de trabajo para el desarrollo de proyectos.",
+    "Metodologia":"Metodología Pedagógica y Didáctica:\nAsistencia a clases expositivas y de discusión Elaboración y lectura de paper (documentación).\n Se debe procurar incentivar el trabajo de grupo más que el trabajo individual. (se recomienda trabajar en grupos de dos o tres estudiantes)\nImplementación y prueba de prototipos (programas) en laboratorio de computación",
+      
+  
+    "Semestre": "2",
+    "Malla Renglon": "7",
+    "Código del Espacio": "10",
+    "Espacio Académico": "Programación Orientada a Objetos",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "2",
+    "Horas Trabajo Colaborativo": "4",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas":"1. Introducción al paradigma Orientado a Objetos\n1.1. El progreso de la abstracción\n1.2. El paradigma orientado a objetos\n1.3. Lenguajes orientados a objetos\n1.4. Metas del paradigma orientado a objetos\n2. Fundamentos de la programación orientada a objetos\n2.1. Clases\n2.2. Atributos\n2.3. Operaciones (métodos)\n2.4. Encapsulación y ocultamiento de la información.\n2.5. Modularidad de Meyer.\n2.6. El concepto de interfaz\n2.7. El concepto de objeto\n2.8. Metaclases\n2.9. El diseño de aplicaciones OO\n2.10. Relaciones entre clases y relaciones entre objetos\n2.11. Documentación del código\n3. Herencia y polimorfismo\n3.1. Introducción a la Herencia\n3.2. Herencia Simple\n3.3. Herencia Múltiple\n3.4. Herencia de Interfaz\n3.5. Herencia de Implementación\n3.6. Beneficios y costes de la herencia\n3.7. Elección de la técnica de reutilización\n3.8. Polimorfismo y reutilización\n3.9. Sobrecarga\n3.10. Polimorfismo en jerarquías de herencia\n3.11. Variables Polimórficas\n3.12. Genericidad\n4. Gestión de errores y otras características\n4.1. Gestión de errores\n4.2. Concurrencia\n4.3. Persistencia\n4.3.1. Persistencia con serialización\n4.3.2. Persistencia con archivos\n4.4. Recogiendo la basura\n5. Sockets",
+    "Enfoque de Aprendizaje y Enseñanza": "Claridad y entendimiento de los conceptos.\nQue se haya identificado correctamente el problema y que el modelo lo represente adecuadamente.\nQue la solución diseñada resuelva el problema.\nApego a la formalidad y estándares requeridos.\nQue el análisis de corrección sea exhaustivo.\nQue el prototipo corresponda al modelo diseñado y no presente errores de sintaxis.\nLa asistencia a las clases magistrales y a los laboratorios.\nEl esfuerzo y dedicación en la resolución de problemas.\nQue la documentación permita reconocer la forma en que se ha abordado el problema y la estructura del programa implementado.\nEn las pruebas escritas se consideran en forma parcial los aspectos considerados en proyectos de programación bajo problemas que requieren un menor tiempo de desarrollo y en una modalidad que no requiere uso del computador, así como la comprensión conceptual.",
+    "Plan de Evaluaciones": "VI. EVALUACIÓN\nTIPO DE EVALUACIÓN FECHA PORCENTAJE\nPRIMERA NOTA  Prueba oral/escrita para el grupo que el docente elabora. Informes de conceptos basado en análisis (Paper's) Pruebas orales/escritas rápidas (Quizes) Semana 4 ó 5 10 %\n\nSEGUNDA NOTA Prueba escrita conjunta (para todos los grupos de la asignatura), elaborada por los docentes que imparten la asignatura. Pruebas orales/escritas rápidas (Quizes) Semana 14 ó 15 20 %\n\nTERCERA NOTA Guías de ejercicios resueltas Informes de conceptos basado en análisis (Paper's) Pruebas orales/escritas rápidas (Quizes) Prueba escrita Varias fechas 10 %\n\nCUARTA NOTA Informe de desempeño en laboratorio Varias fechas 20 %\n\nPROYECTO Informe de desempeño y sustentación de un prototipo funcional que evalúe las competencias exigidas. Semana 16 10 %\n\nEXAMEN FINAL Prueba escrita conjunta (para todos los grupos de la asignatura), elaborada por los docentes que imparten la asignatura. 30 %",
+    
+    "Resultados de Aprendizaje1":"Entender el concepto de paradigma y sus implicaciones en el modo de resolver problemas.",
+    "Resultados de Aprendizaje2":"Entender el proceso de evolución de los distintos paradigmas de programación.",
+    "Resultados de Aprendizaje3":"Conocer el modo en que el paradigma orientado a objetos ayuda a mejorar las capacidades de reutilización del software.",
+    "Resultados de Aprendizaje4":"Entender los conceptos de clase, atributo, operación, interfaz y objeto.",
+    "Resultados de Aprendizaje5":"Entender el mecanismo de paso de mensajes.",
+    "Resultados de Aprendizaje6":"Comprende el modo en que se deben implementar los caminos de comunicación entre clases para permitir el paso de mensajes entre ellas.",
+  
+    "Materiales de Estudio": "Bertran d Meyer. Construcción de Software Orientado a Objetos. Prentice Hall.\nBruce Eckel. Thinking Java. Pretince Hall\nGuía de certificación de java. Sun Microsystem.\nFrancisco Javier Ceballos Sierra, Microsoft C#. Lenguaje y aplicaciones, 2a edición\nHarvey M. Deitel y Paul J. Deitel, C# Como Programar, segunda SYLLABUS, Programación Orientada a Objetos, Página 6 edición.\nAlfredo Weitzenfeld, Ingenieria de Software orientada a Objetos con UM. Java e Internet.\n\nTEXTOS COMPLEMENTARIOS\nAgustín Froufe Quintas. Java 2 Manual de usuario y tutorial. Alfaomega.\nFrancisco Javier Ceballos Sierra , Enciclopedia de Microsoft Visual C#, 3a edición\n\nREVISTAS\n\nDIRECCIONES DE INTERNET\nhttp://msdn.microsoft.com/es-es/library/kx37x362(VS.80).aspx\nhttp://msdn.microsoft.com/es-es/vcsharp/default.aspx\nhttp://www.mygnet.net/manuales/java//guia_java.1691"
+}

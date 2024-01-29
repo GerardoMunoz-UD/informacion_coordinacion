@@ -1,0 +1,102 @@
+{
+    "Semestre": "10",
+    "Malla Renglon": "16",
+    "Código del Espacio": "73",
+    "Espacio Académico": "Telecomunicaciones III",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Redes de acceso y de transporte ópticas: arquitectura y fundamentos. \n    2. Presupuesto de potencia y presupuesto de ancho de banda.\n    3. Redes móviles celulares: arquitectura y fundamentos generales.\n    4. Redes móviles celulares de tercera, cuarta y quinta generación (3G, 4G y 5G): arquitectura y fundamentos.\n    5. Interfaz radio de redes móviles celulares de cuarta y quinta generación (4G y 5G).",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El espacio académico Telecomunicaciones III pertenece al área de Telecomunicaciones y Telemática. Es el tercer curso de la línea de Telecomunicaciones y se soporta en y da continuación a los espacios académicos Telecomunicaciones I (Medios de Transmisión Alámbricos) y Telecomunicaciones II (Antenas y Propagación). Al cerrar la línea de Telecomunicaciones ofrece una perspectiva de las redes de telecomunicaciones fijas y móviles, en particular las redes ópticas y las redes móviles celulares. El espacio académico y el curso mediante el cual se desarrolla está encaminado a que los estudiantes aprendan a planear la red de acceso y de transporte y la interfaz radio de las redes ópticas y las redes móviles celulares respectivamente.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nProporcionar los conocimientos, metodologías y herramientas pertinentes para planear\n    la red de acceso y de transporte y la interfaz radio de las redes ópticas y las redes móviles celulares respectivamente. OBJETIVOS ESPECIFICOS\n\n ● Conocer los fundamentos que sustentan la arquitectura y el funcionamiento de la red de acceso y la red de transporte de las redes ópticas.\n    ● Solucionar el presupuesto de potencia y el presupuesto de ancho de banda\n    aplicados a la red de acceso y la red de transporte de las redes ópticas.\n    ● Conocer los fundamentos y la arquitectura general de las redes móviles celulares.\n    ● Conocer los fundamentos y la arquitectura de las redes móviles celulares de tercera, cuarta y quinta generación (3G, 4G y 5G).\n    ● Planear la interfaz radio de redes móviles celulares de cuarta y quinta generación\n    (4G y 5G)",
+    "Competencias":"Al finalizar el curso se espera que el estudiante haya desarrollado las siguientes competencias:\n Transversales: \n ● Comunicación asertiva.\n    ● Exposición de ideas en grupos diversos.\n    Contexto\n    ● Actualización permanentemente de los avances de la ciencia y la ingeniería en telecomunicaciones, el contexto social y los problemas contemporáneos.\n    Básicas\n    ● Necesidad de planear la red de acceso y la red de transporte de las redes ópticas.\n    ● Necesidad de planear la interfaz radio de las redes móviles celulares.\n    Laborales\n    ● Apropiación de los conocimientos, metodologías y herramientas necesarias para planear la red de acceso y de transporte y la interfaz radio de las redes ópticas y las redes móviles celulares respectivamente",
+    "Metodologia":"Clase magistral: El docente apoyado en diferentes recursos didácticos presentará los aspectos fundamentales de las Unidades a tratar.\n    Taller: Los estudiantes en grupos y en colaboración con el docente resolverán problemas previamente conocidos que contribuyan a la apropiación de los saberes propios de cada Unidad. \n    Prácticas: Se desarrollarán en grupos y con la guía del docente prácticas de laboratorio utilizando herramientas de simulación y/o elementos físicos que contribuyan a la apropiación de los conocimientos y habilidades prácticas que demandan cada una de las Unidades y al desarrollo del Proyecto.\n    Proyectos: La evaluación final se estructura en base a un proyecto realizado en grupos de dos (2) estudiantes que tiene como objetivo la planeación de la red de acceso y de transporte y la interfaz radio de las redes ópticas y de las redes móviles celulares respectivamente. Este proyecto, aunque contará con la guía del docente será desarrollado aproximadamente en un setenta (70%) mediante el trabajo autónomo de los estudiantes.",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":" Aplicar las ciencias exactas, básicas y específicas en el contexto de las redes de telecomunicaciones ópticas y móviles. ",
+    "Resultados de Aprendizaje2":" Utilizar las técnicas, habilidades y herramientas necesarias para la práctica de la ciencia y/o la ingeniería de telecomunicaciones, cuando de redes ópticas y móviles se trate ",
+    "Resultados de Aprendizaje3":" Diseñar y perfilar experimentos, así como analizar e interpretar datos cuando de redes de telecomunicaciones fijas y móviles se trate ",
+    "Resultados de Aprendizaje4":"Actualizar permanentemente sus conocimientos en cuanto a los avances de la ciencia y la ingeniería en telecomunicaciones, el contexto social y los problemas contemporáneos ",
+    "Resultados de Aprendizaje5":" Comunicar de forma asertiva a través de la escritura, el habla y de forma visual, utilizando diversas herramientas tecnológicas. ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "1. Gómez J.C. Sistemas de Telecomunicaciones: Planeación y Cálculo de Enlaces. Editorial UD, 2008.\n\n    2. Pastor D., Ramos F. y Capmany J. Sistemas de Comunicaciones Ópticas. Editorial Universidad Politécnica de Valencia, 2007.\n    3. Capmany J., Ortega B. Redes Ópticas. Editorial Universidad Politécnica de Valencia/Limusa, 2007. \n    4. LTE NUEVAS TENDENCIAS EN COMUNICACIONES MÓVILES. Edita Fundación Vodafone España, ISBN 84 934740 4 5 D L M 34503 2010 © Copyright 2010"
+}

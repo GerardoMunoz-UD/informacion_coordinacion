@@ -1,0 +1,108 @@
+{
+    "Semestre": "8",
+    "Malla Renglon": "5",
+    "Código del Espacio": "51",
+    "Espacio Académico": "Instrumentación Industrial",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El ingeniero electrónico requiere de bases y conceptos en el área de las mediciones y de la instrumentación, para la adecuada aplicación de sus conocimientos en los aspectos relativos a la asesoría, el diseño y la especificación, en la industria, la investigación y la medicina.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nDirigir al alumno dentro del área de la Instrumentación, para que se encuentre con los elementos de base, los aspectos dinámicos y los aspectos modernos y de aplicación\n\n OBJETIVOS ESPECIFICOS\n\n● Adquirir los conocimientos y el dominio de las teorías y conceptos fundamentales en el área de metrología.\n● Evaluar los modelos y dominar el manejo de algunos sensores utilizados en la medición de las principales variables físicas y fisicoquímicas.\n● Estudiar y dominar el modelamiento, polarización y acondicionamiento de sensores, amplificación y linealización de señales y, finalmente, trabajar las técnicas para la emulación del valor de la variable medida. \n● Estudiar y dominar los métodos de valoración y especificación de los instrumentos para su debido desempeño dentro de determinados procesos. ",
+    "Competencias":"● Se busca el desarrollo y el crecimiento de las competencias de creatividad y las habilidades de investigación.\n● Se motiva el compañerismo y se exige y pone en práctica el trabajo en grupo.\n● Se condiciona y capacita para la toma de decisiones y eficiencia en resultados de trabajo y productos académicos y así mismo en proyectos profesionales.\n● Se promueve la automotivación y la capacidad crítica para lograr los objetivos de los proyectos de manera lógica y con éxito.",
+    "Metodologia":"El espacio didáctico dentro del cual se desarrolla la asignatura ha sido concebido con la participación amplia de herramientas Tic y herramientas de presencialidad. \n\nAula presencial de conferencia:\n● Está moderado y dirigido por el docente\n● Es un espacio real con participación conjunta de estudiantes y docente.\n● Se emplean medios técnicos y teóricos disponibles, dentro del espacio de trabajo del docente, orientados a la docencia presencial y al cumplimiento de las exigencias de la asignatura.\n\nAula virtual de conferencia:\n● Está moderado y dirigido por el docente\n● Es un espacio virtual y a distancia, conjuntamente creado entre los estudiantes y el docente.\n● Utiliza unos medios técnicos y teóricos disponibles, dentro del espacio de trabajo del docente, orientados a la docencia a distancia y al cumplimiento de las exigencias de la asignatura.\n\nAula virtual de consulta:\n● Se trata del mismo concepto del aula de conferencia, con manejo sincrónico, pero con la participación del estudiante en cuanto preguntas y consultas relativas a los temas de los trabajos teórico-prácticos y a las dudas sobre la asignatura. No hay conferencia, pero se mantiene el ambiente de comunicación bidireccional.\n\nAula presencial para el trabajo y valoración de proyectos\n● Es el concepto del aula de trabajo de laboratorio, se desarrolla con la participación del estudiante en forma activa, solucionando un problema particular, basado en los adelantos teóricos de la asignatura y con la asesoría activa y directa del docente en todo momento.\n\nEspacio autónomo del estudiante:\n● Espacio donde el estudiante aborda la recapitulación y resolución de interrogantes planteados alrededor de la asignatura",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":" Entender los conceptos y las normas de la Metrología afines a las magnitudes, unidades, mediciones y expresiones. ",
+    "Resultados de Aprendizaje2":" Conocer algunos de los efectos y principios con los que la naturaleza ha dotado a algunos materiales para ser sensibles a ciertas magnitudes. ",
+    "Resultados de Aprendizaje3":" Desarrollar con propiedad el modelamiento de tipo racional y empírico para algunos sensores, logrando modelos matemáticos prácticos de aplicación directa ",
+    "Resultados de Aprendizaje4":"Crear instrumentos bajo especificaciones estándar, utilizando modelos sistemáticos apoyados en su funcionamiento.  ",
+    "Resultados de Aprendizaje5":" ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "Textos guía :\n1. MARTIN, L. Mediciones e instrumentación. Edit. Alfa-Omega, Bogotá, 2019.\n2. ASCH, G., et al. Les capteurs en instrumentation industrielle. 5eme édition. Paris : Dunod. 1999. 834 p.\n3. WESBTER, John. Et a. Measurement, instrumentation and sensors handbook,CRCnetBase. 1999.\n4. INSTITUTO COLOMBIANO DE NORMAS TÉCNICAS Y CERTIFICACIÓN. Vocabulario internacional de metrología: conceptos fundamentales, generales y términos asociados (VIM). Bogotá: ICONTEC, 1994. (GTC-ISO-IEC 99). \n5. INSTITUTO COLOMBIANO DE NORMAS TÉCNICAS Y CERTIFICACIÓN. Cantidades y unidades. Parte 1: Generalidades. Bogotá: ICONTEC, 2012. (NTC-ISO 8000-1). \n6. INSTITUTO COLOMBIANO DE NORMAS TÉCNICAS Y CERTIFICACIÓN, Cantidades y unidades. Parte 11: Signos y símbolos matemáticos para uso en ciencias físicas y tecnología. Bogotá: ICONTEC, 2012. (NTC-ISO 80000-2). "
+}

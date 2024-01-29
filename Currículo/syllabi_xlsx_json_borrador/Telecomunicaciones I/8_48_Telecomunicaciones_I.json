@@ -1,0 +1,108 @@
+{
+    "Semestre": "8",
+    "Malla Renglon": "1",
+    "Código del Espacio": "48",
+    "Espacio Académico": "Telecomunicaciones I",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas":"PROGRAMA SINTÉTICO: \n    LÍNEAS DE TRANSMISIÓN T.E.M.\n    REDES DE MICROONDAS Y MATRIZ DE DISPERSION\n    GUÍAS DE ONDA\n    FIBRAS ÓPTICAS\n    DISPOSITIVOS FOTÓNICOS Y OPTOELECTRÓNICOS",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El curso de Telecomunicaciones I se fundamenta en el análisis de la señal electromagnética en los medios de transmisión de conductor metálico (Línea Bifilares, Coaxiales, Microcintas y Guías de Onda), así como los principios básicos de propagación en medios dieléctricos (Fibras Ópticas). Se busca representar el comportamiento del medio de transmisión para conocer las diferentes técnicas de acople de impedancia, complementando los conceptos aprendidos en los espacios anteriores como Ondas Electromagnéticas, Comunicaciones analógicas y digitales, mostrando cómo se pueden usar estos conceptos en el diseño y análisis de sistemas de comunicaciones completos.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEvaluar el comportamiento de los conductores metálicos de dos conductores, así como los medios dieléctricos como medios de transmisión esenciales en los procesos de transporte de información.\n\n OBJETIVOS ESPECIFICOS\n\n1. Conocer los fundamentos físicos de los fenómenos de propagación de la señal electromagnética en líneas de transmisión, guías de onda y fibras ópticas.\n2. Modelar eléctricamente los conductores metálicos para la propagación de señales electromagnéticas a diferentes frecuencias. \n 3. Analizar las características de propagación en alta frecuencia y la importancia de los sistemas de microcintas y fibras ópticas.\n 4. Evaluar condiciones de acoplamiento de los medios de transmisión para obtener la máxima transferencia de energía.\n 5. Emplear herramientas de análisis de redes de microondas para modelar el comportamiento de dispositivos de microondas.\n 6. Identificar las características y capacidades brindan la fibra óptica como medio de transmisión.\n 7. Reconocer el funcionamiento y las propiedades de dispositivos fotónicos de tipo pasivo y de tipo activo.\n 8. Emplear herramientas de análisis electromagnético y análisis de sistemas ópticos.\n 9. Inculcar en los estudiantes la cultura de la lectura de publicaciones científicas respecto a las nuevas tecnologías de información.\n 10. Ejercitar el uso del inglés como lengua técnica universal, mediante lectura, escritura y conversación espontánea en clase.",
+    "Competencias":"Competencias de contexto\n    1. Comprensión del contexto social, cultural y económico.\n    2. Valoración del trabajo productivo.\n    Competencias básicas\n    3. Habilidad comunicativa (interpretativa, comunicativa y propositiva).\n    4. Comprensión de textos en una segunda lengua.\n    5. Pensamiento crítico y analítico.\n    6. Pensamiento lógico-espacial.\n    7. Capacidad para modelar fenómenos y procesos\n    Competencias laborales\n    8. Capacidad para el trabajo en equipo.\n    9. Resolución de problemas prácticos con criterios de Ingeniería.\n    10. Habilidad para operar adecuadamente instrumentación Electrónica.\n    11. Creatividad para el análisis, el diseño, evaluación y gestión de sistemas y procesos.",
+    "Metodologia":"Clases magistrales en las que el profesor expone los temas fundamentales y talleres en los que los estudiantes bajo la orientación del profesor le dan solución a problemas prácticos.  Prácticas de laboratorio en la que los estudiantes adquieren habilidades prácticas",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":" Aplicar las ciencias exactas y básicas en el contexto de los medios de transmisión conductores y dieléctricos. ",
+    "Resultados de Aprendizaje2":" Utilizar las técnicas, habilidades y herramientas necesarias para la práctica de la ciencia y/o la ingeniería de telecomunicaciones cuando de medios de transmisión conductores y dieléctricos se trate. ",
+    "Resultados de Aprendizaje3":"  Diseñar y perfilar experimentos, así como analizar e interpretar los datos cuando de medios de transmisión conductores y dieléctricos se trate.",
+    "Resultados de Aprendizaje4":" Actualizar permanentemente sus conocimientos en cuanto a los avances de la ciencia y la ingeniería de telecomunicaciones, el contexto social y los problemas contemporáneos ",
+    "Resultados de Aprendizaje5":" Comunicar de forma asertiva a través de la escritura, el habla y de forma visual, utilizando diversas herramientas tecnológicas ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "POZAR, DAVID Microwave Engineering, Ed. Willey & Son\n    KRAUS, JOHN D. Electromagnetismo, Ed. McGraw Hill\n    RODOLFO NERI VELA, Líneas de transmisión, Ed. McGraw Hill\n    ANNAPURNA DAS & SISIR DAS. Microwave Engineering. McGraw Hill\n    G. P. AGRAWAL, “Fiber Optic Communication Systems”, John Wiley & Sons\n    RAJIV RAMASWAMI, “Optical Networks”, Morgan Kaufmann.\n    THOMAS E. STERN, KRISHNA BALA, “Multiwavelength Optical Networks: A Layered Approach”,   Addison Wesley."
+}

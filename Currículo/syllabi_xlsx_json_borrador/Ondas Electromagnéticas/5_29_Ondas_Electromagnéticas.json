@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Uno de los terrenos de mayor aplicación del estudio de las ondas electromagnéticas se halla en las comunicaciones. Estas son en la actualidad el eje del desarrollo productivo y comercial a escala global.\nRevistas especializadas en desarrollo y economía, coinciden en afirmar que después del año 2000 el 80% de los empleos serán en telecomunicaciones. No obstante, existen desde luego otras aplicaciones importantes como en la electromedicina, y la ecología. Como quiera que sea, una buena formación en estos tópicos es obligatoria para el ingeniero electrónico y además le abre un amplio espectro de posibilidades ocupacionales en los diversos campos de la investigación, la tecnología, la producción y la comercialización.\nLos programas de Campos Electromagnéticos y Ondas Electromagnéticas se han elaborado teniendo en cuenta las exigentes necesidades del ingeniero electrónico contemporáneo y además utilizando como referencia otros programas de prestigiosas universidades del mundo.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEstudiar, analizar e interpretar las ecuaciones de Maxwell, la propagación, la recepción y radiación electromagnética.\n\nOBJETIVOS ESPECIFICOS\n\nFormular, analizar e interpretar las ecuaciones de Maxwell y las ecuaciones de onda electromagnética.\nEstudiar, analizar e interpretar físicamente la propagación de ondas electromagnéticas en el vacío y en otros medios.\nDesarrollar los modelos físicos de propagación de ondas electromagnéticas en guías de onda electromagnéticas.\nEstudiar, analizar e interpretar los modelos físicos de radiación electromagnética.\nDesarrollar, analizar e interpretar la física de los dipolos eléctrico y magnético radiando ondas electromagnéticas.\n\n",
+    "Competencias":"",
+    "Metodologia":"Clases magistrales para proporcionar fundamentos teóricos \nTrabajo Presencial Directo (TD): trabajo de aula con plenaria de todos los estudiantes. \nTrabajo Mediado Cooperativo (TC): Trabajo de tutoría del docente a pequeños grupos individual a los estudiantes.\nTrabajo Autónomo (TA): Trabajo con distintas instancias: en abajo del estudiante sin presencia del docente que se puede r s de trabajo o en forma individual, en casa o en biblioteca.",
+  
+    "Semestre": "5",
+    "Malla Renglon": "1",
+    "Código del Espacio": "29",
+    "Espacio Académico": "Ondas Electromagnéticas",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "3",
+    "Horas Trabajo Colaborativo": "1",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "PROGRAMA SINTÉTICO\nEcuaciones de Maxwell y ondas electromagnéticas.\nPropagación de ondas electromagnéticas.\nRadiación electromagnética y sistemas radiantes.\nUtilización de paquetes sobre Linux para graficar y resolver ecuaciones.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "VI. EVALUACIÓN\n\nPRIMERA NOTA\nEvaluaciones escritas 40%\n\nSEGUNDA NOTA\nEvaluaciones escritas 30%\n\nEXAMEN FINAL \nEvaluación escrita 30% \n\nASPECTOS PARA EVALUAR DEL CURSO\nEvaluación del desempeño docente\nEvaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\nAutoevaluación:\nCoevaluación del curso: de forma oral entre estudiantes y docente.",
+
+    "Resultados de Aprendizaje1":"Demostrar el conocimiento de las ecuaciones de Maxwell",
+    "Resultados de Aprendizaje2":"Explicar las leyes básicas de las ondas eléctricas y magnéticas.",
+    "Resultados de Aprendizaje3":"Explicar la propagación de la onda en medios con y sin pérdida.",
+    "Resultados de Aprendizaje4":"Explicar el comportamiento de las ondas electromagnéticas en medios guiados.",
+    "Resultados de Aprendizaje5":"Emplear las leyes del electromagnetismo en un software de simulación en la solución de problemas.",
+    "Resultados de Aprendizaje6":"",
+    
+    "Materiales de Estudio": "TEXTOS GUÍAS\nLorrain P., Corson D., Campos y ondas electromagnéticos, selecciones científicas, Madrid, 1977.\nJodan E., Balmain K, Ondas electromagnéticas y sistemas radiantes, paraninfo, Barcelona 1978.\nTEXTOS COMPLEMENTARIOS\nBalanis C., Advanced engineering electromagnetics, John Wiley, N Y 1998.\nJackson, Electrodinámica clásica, editorial reverte, Barcelona, 1973.\nPapas Charles H., Theory of electromagnet of wave propagation, Dover publications, New York 1988.\nSalmeron M. J., radiación, propagación y antenas, Editorial trillas, México 1981.\nAntennas and propagation, IEEE, U. S. A.\nFields electromagnetics, IEEE, U. S. A."
+}

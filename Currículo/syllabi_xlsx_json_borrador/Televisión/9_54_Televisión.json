@@ -1,0 +1,108 @@
+{
+    "Semestre": "9",
+    "Malla Renglon": "1",
+    "Código del Espacio": "54",
+    "Espacio Académico": "Televisión",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Introducción a los Sistemas de Televisión\n    2. Aspectos perceptuales de la visión humana, relación de aspecto\n    3. Televisión analógica\n    4. Cámaras, sistema óptico y CCD\n    5. Digitalización de la señal de video\n    6. Compresión, fundamentos MPEG-2. Codificación\n    7. Modulación señal video digital\n    8. Transmisión televisión digital, estándar DVB-T y MPEG-4\n    9. Receptores de televisión, monitores y pantallas LCD, PLASMA, LED y OLED\n    10. Grabación y almacenamiento de señales de televisión digital\n    11. Aspectos perceptuales de la audición humana y manejo de la señal de audio digital\n    12. Televisión de alta definición 4K, 8K y 3D\n    13. Análisis de la normatividad nacional e internacional en el campo de la televisión digital\n    14. Proyecto de integración para examen final",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La televisión digital se ha vuelto un modo de vida que puede ser vista vía satélite, cable, terrestre (TDT), sobre protocolos de internet y en movimiento. Los dispositivos de visualización de la televisión se extienden a pantallas (LCD, OLED, QLED), Smart TV, ipads y dispositivos móviles. Se ha avanzado en los campos de la alta definición, televisión interactiva y 3D.\nDichas razones son por las cuales es necesario la construcción de un espacio académico en el cual el estudiante se aproxime al contexto de los equipos electrónicos que manejan los nuevos conceptos en el campo de la televisión, como son: muestreo, cuantización, codificación, compresión (MPEG2 y MPEG4), redundancia temporal, espacial y estadística,m transformada del coseno, entropía, códigos BCH, Reed Solomon, Hamming y convolucionales, emisión de audio (Dolby, AC3) y video digital, televisión interactiva, modulación QAM, OFDM y COFDM, filtros digitales (coseno alzado), transmisión digital terrestre DVB-T (Multiplexación, Mapping, Viterbi), constelaciones, FEC, BER, MER, alta definición (HD), IPTV, streaming, 4K, 8K y 3D. ",
+    "Objetivos":"OBJETIVOS GENERAL\n\nProporcionar al estudiante los conocimientos básicos relacionados con los sistemas de Televisión Digital, partiendo del proceso de generación de las señales de audio y video, su tratamiento análogo-digital, el análisis de la física, la algoritmia y las matemáticas para flujos de datos multiplexados. La asignatura incluye, además, prácticas de laboratorio que permiten al alumno familiarizarse con los aspectos fundamentales de la televisión digital.\n\n OBJETIVOS ESPECIFICOS\n\n▪ Estudiar los criterios básicos de calidad de imagen, características de la visión humana, definición de imagen\n▪ Evaluar los fundamentos de la digitalización de las señales de video y audio\n▪ Considerar las propiedades de la compresión digital de audio y video\n▪ Analizar los intereses sobre el espectro electromagnético, las ventanas de VHF y UHF para televisión digital\n▪ Ilustrar sobre los estándares para televisión digital\nExaminar la tecnología de modulación para señales digitales de audio y video.\n▪Asimilar los principios de almacenaje y transmisión de televisión digital.",
+    "Competencias":"Competencias de contexto\n    1.Comprensión del contexto social, cultural y económico.\n    2.Valoración del trabajo productivo.\n    Competencias básicas\n    3.Habilidad comunicativa (interpretativa, comunicativa y propositiva).\n    4.Comprensión de textos en una segunda lengua.\n    5.Pensamiento crítico y analítico.\n    6.Pensamiento lógico-espacial.\n    7.Capacidad para modelar fenómenos y procesos\n    Competencias laborales\n    8.Capacidad para el trabajo en equipo.\n    9.Resolución de problemas prácticos con criterios de ingeniería.\n    10.Habilidad para operar adecuadamente instrumentación para televisión digital\n    11.Creatividad para el análisis, el diseño, evaluación y gestión de sistemas y procesos en televisión digital\n    12.Reconocer características espectrales de las señales y los sistemas de televisión digital\n    13.Especificar y diseñar sistemas de televisión digital básicos. \n    Competencias Cognitivas. \n    14.Modelar y caracterizar la señal de televisión digital \n    15.Utilizar dominios perceptuales visuales y acústicos\n    16.Reconocer las distribuciones de energía de las señales de audio y video digital.\n    17.Reconocer el trabajo de la transformada del coseno y la convolución \n    18.Resolver y describir las respuestas de los sistemas de modulación para televisión digital\n    19.Conocer y utilizar los sistemas de compresión de audio y video digital\n    20.Representar las transformadas de Coseno, Wavelet y Predictiva\n    Competencias Investigativas. \n    21. Modelar formalmente señales de televisión digital y los sistemas de estudio, grabación y transmisión para televisión digital\n    ",
+    "Metodologia":"a. La asignatura se imparte a través de clases magistrales y conferencias, en español y en inglés mediante la utilización de recursos del aula, material impreso y electrónico, videobeam, software de simulación y consultas en el World Wide Web (Internet) y diapositivas. Utilizándose la pizarra electrónica para la resolución de ejemplos y problemas. Tendrá posibilidades de ser asistido por las TICs, Software de simulación. Classroom, Openboard y Moodle. \nb. La parte del receptor de televisión se impartirá mediante la utilización de los diagramas eléctricos, mientras que para el resto del temario se trabajan metodologías de aprendizaje activo como PBL (aprendizaje basado en problemas) y AC (aprendizaje corporativo)\nc. En la parte práctica de la asignatura se formulan metodologías de aprendizaje activo como: trabajo en grupo y aprendizaje mediante la elaboración y sustentación de proyectos por grupos.\nd. El proceso es altamente cognoscitivo necesario para el logro de los objetivos propuestos.\ne. La aplicación y práctica de la ingeniería de televisión digital se hace a través de un trabajo continuo con acompañamiento del docente dentro y fuera de clase, motivando el trabajo independiente del alumno que debe mantener un contacto permanente con el entorno tecnológico disponible.\nf.    La socialización de estas experiencias en el grupo, son el complemento del proceso de aprendizaje dado por la metodología que es coherente con la estructura del contenido.\ng. El facilitador solicita a los estudiantes lectura previa a cada clase del material de referencia. \nh. Soporte del curso, a nivel de contenido y gestión en la WEB, con énfasis en aprendizaje significativo y colaborativo mediante mapas MENTALES y conceptuales\nelaborados por los estudiantes.\ni. Motivación de consultas intensivas y diversas de material en Internet, revistas, textos clásicos y afines, así como exposiciones y actividades didácticas sobre los mismos por parte de los alumnos, en forma individual y grupal. Es indispensable que algunos temas del curso se desarrollen o profundicen por cuenta del estudiante.\nj. El facilitador presentará lecturas y conversación básica en inglés sobre los temas propuestos en clase.\nk. Motivación sobre la importancia de la formación físico-matemática en el pensamiento del ingeniero.\nl. Presentación de normatividad y fomento de la comunicación escrita para la publicación, en formato de artículos, en revistas, como mecanismo para dar a conocer los proyectos, habilidades y saber de los estudiantes.",
+      
+  
+  "Recursos":"En el aula de clase se hace imprescindible contar con un Video Beam y un computador tipo PC para presentación de las exposiciones magistrales y de los estudiantes, así como de un tablero en acrílico, sus respectivos marcadores y borrador. Un retroproyector de acetatos y de opacos también puede ser requerido esporádicamente. El acceso al laboratorio de electrónica propio y a otros según convenios, así como a los centros de cómputo facilitaría ciertas sesiones de demostración y simulación. Es recomendable que cada estudiante tenga acceso a un computador tipo PC y a Internet como el descrito para el aula, por lo menos cuatro (4) horas a la semana. El software necesario para el curso será suministrado por la Universidad y por el Profesor para que el estudiante haga las respectivas copias, cuando la licencia lo permita o en caso contrario se empleará software libre. Software recomendado: Labview, CMAP Tools y los básicos para ingeniería. Se promoverán las prácticas libres de los estudiantes (en la Universidad y en casa) utilizando las herramientas de software y hardware recomendadas para el curso.",
+  
+    "Resultados de Aprendizaje1":"Aplicar conceptos, estándares y normas de la calidad de la señal de televisión afines a las magnitudes, unidades, mediciones y expresiones ",
+    "Resultados de Aprendizaje2":"Validar y recomendar la digitalización y compresión de señales de audio y video ",
+    "Resultados de Aprendizaje3":"Desarrollar y desglosar conceptos de digitalización de la señal de televisión. ",
+    "Resultados de Aprendizaje4":"Interpretar y utilizar con propiedad los modelos DVBT2 ",
+    "Resultados de Aprendizaje5":"Diseñar, crear, analizar y validar estudios de televisión, estaciones de TDT y sistemas de propagación en transmisión-recepción de enlaces de microondas y TDT ",
+    "Materiales de Estudio":"1. Sistemas analógicos y digitales de televisión. L.Torres Urgell y otros. UPC. 1993. \n2. Televisión Práctica y Sistemas de Video. B.R. Grob. Alfaomega. 2003. \n3. Television engineering handbook. Benson, K.B. McGraw Hill, 1986. \n4. Colour television. Hutson, G. Sheperd, P. Brice, J. McGraw Hill, 1990. \n5. Digital television. Sandbank, C.P. John Wiley, 1990.\n6. Televisión Digital Avanzada. Simonetta José. Intertel. 2002\n7. La televisión digital, Fundamentos y Teorías, Manuel Cubero, Marcombo, 2009\n8. Engineering Handbook. National Association of Broadcasters. NAB. 2007\n9. Digital video and audio broadcasting technology, A practical engineering guide, Walter Fischer, Springer 2008\n10. Apuntes del curso 2018 "
+    
+   
+}

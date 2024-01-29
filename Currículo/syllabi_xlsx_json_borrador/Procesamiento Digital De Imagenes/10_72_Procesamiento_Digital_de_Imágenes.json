@@ -1,0 +1,104 @@
+{
+    "Semestre": "10",
+    "Malla Renglon": "15",
+    "Código del Espacio": "72",
+    "Espacio Académico": "Procesamiento Digital de Imágenes",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "● Análisis de Señales y Sistemas.\n ● Procesamiento Digital de Señales.",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    
+    "Proyecto curricular": "",
+  "Plan de Estudios": "",
+  "Nombre del docente": "",
+  "Justificacion Del Espacio": "Este espacio académico está destinado para desarrollar un tema de aplicación donde el procesamiento de señales sea el factor principal. Está orientado al estudio de las imágenes como señales digitales multidimensionales, aprovechando el aumento en la capacidad computacional de los procesadores y su reducción en los costos.\nLas imágenes han adquirido relevancia en el desarrollo tecnológico debido a que constituyen el medio de percepción más utilizado por las personas. De hecho, gran parte de las actividades humanas dependen de la visión. Las actividades cotidianas y sus resultados se verifican a través de la visión. Además, se han desarrollado aparatos y técnicas que permiten visualizar objetos que no son visibles a simple vista. Las imágenes, especialmente las digitales, son el resultado de estos avances tecnológicos y nos posibilitan estudiar y definir soluciones a problemas específicos, como en el ámbito de la salud o la producción de alimentos.\nSin embargo, debido a la gran cantidad de imágenes que se pueden registrar, es necesario encontrar técnicas que permitan analizarlas de manera rápida y eficiente. Esta necesidad justifica que en ingeniería se aborde el estudio de las imágenes para su análisis y almacenamiento.",
+  "Objetivos":"OBJETIVOS GENERAL\n\nEstudiar los diferentes modelos de representación de las imágenes y las diferentes técnicas que permitan analizar, extraer, modificar o mejorar sus características tanto a nivel espacial como en otros dominios.\n\n OBJETIVOS ESPECIFICOS\n\n1. Definir los modelos de representación de las imágenes digitales. Establecer sus características.\n2. Establecer las diferentes técnicas de tratamiento de las imágenes tanto en el espacio como en la frecuencia.\n3. Establecer las características que determinan las propiedades de las imágenes.\n4. Definir y aplicar los diferentes modelos de representación del color.\n5. Conocer las diferentes técnicas de compresión de las imágenes.\n6. Establecer las diferentes técnicas para la desagregación de una imagen en regiones.\n7. Definir los modelos de representación de las imágenes y sus regiones.\n8. Determinar cuál técnica de compresión es más apropiada para una aplicación.\n9. Conocer la convolución de algunos filtros sobre imágenes.\n10. Implementar redes convolucionales sobre imágene \n11. Conocer diferentes tipos de Redes Neuronales usadas en el procedimiento de imágenes",
+  "Competencias":"Competencias que compromete la asignatura:\n  BASICAS\n   Reconocer las imágenes como señales multidimensionales.\n   Tener la capacidad de profundizar autónomamente en técnicas de tratamiento de imágenes más complejas.\n   Conocer los elementos básicos del procesamiento de imágenes.\n   Reconocer características de las imágenes que permitan determinar cualidades de los objetos.\n   Implementar redes convolucionales para procesar imágenes.\n   Diferenciar los tipos de Redes Neuronales para el procesamiento de imágenes \n  CONTEXTUALES\n   Reconocer en las imágenes la posibilidad de resolver problemas de la comunidad.\n  LABORALES\n   Proponer soluciones a problemas que puedan incorporar el manejo de imágenes. \n   Implementar soluciones que utilicen el procesamiento de imágenes como medio de análisis. \n   Formular proyectos que incorporen el procesamiento de imágenes.",
+
+  "Metodologia":"Dado que este curso se imparte como un seminario, el trabajo autónomo del estudiante es fundamental para su desarrollo. El curso tiene dos tipos de sesiones presenciales: teóricas, donde se discuten los temas y las técnicas; prácticas, donde se realizan ejercicios de muestra de las técnicas discutidas. Adicionalmente, en el transcurso del seminario se deben desarrollar pequeños proyectos con imágenes digitales y aplicaciones específicas. Para el desarrollo de los proyectos, se recomienda la conformación de grupos de 2 estudiantes. Las soluciones planteadas en cada proyecto deben ser justificadas con el formalismo que requieran e implica una consulta documental de parte de los estudiantes. Los resultados deben ser presentados en un informe o reporte. Bajo cualquier circunstancia, el planteamiento de algún método puede ser discutido con el profesor en los horarios adicionales. A partir de estos resultados, el estudiante obtiene su calificación.",
+    
+
+
+
+  "Resultados de Aprendizaje1":"Listar los diferentes modelos de representación de imágenes digitales. ",
+  "Resultados de Aprendizaje2":" Identificar las diferentes características generales de las imágenes ",
+  "Resultados de Aprendizaje3":"Calcular las diferentes medidas globales que caracterizan las imágenes digitales. ",
+  "Resultados de Aprendizaje4":"Convertir las imágenes entre los diferentes modelos ",
+  "Resultados de Aprendizaje5":"Descomponer las imágenes en subregiones con características propias de cada región. ",
+  "Resultados de Aprendizaje6":"Aplicar diferentes tipos de filtros para extraer parámetros o modificar las imágenes. ",
+  
+  "Materiales de Estudio": "● Anil K. Jain, Fundamentals of Digital Image Processing, Prentice-Hall, Inc., New Jersey, USA, 1989, ISBN 0-13-332578-4.\n● Jae S. Lim, Two-Dimensional Signal and Image Processing, Prentice-Hall, Inc., New Jer- sey, USA, 1990, ISBN 0-13-934563-9.\n● John C. Russ, The Image Processing Handbook, Fourth Edition, CRC Press LLC, Boca Ra- ton, Florida, USA, 2002, ISBN 0-8493-1142-X.\n● Rafael C. Gonzalez and Richard E. Woods, Digital Image Processing, Second Edition,Prentice-Hall, Inc., New Jersey, USA, 2002. ISBN 0-130-94650-8.\n● Rodrigo Javier Herrera García, Procesamiento Digital de Imágenes, Notas de Clase, Uni- versidad Distrital, Bogotá, Colombia, 2007.\n● William K. Pratt, Digital Image Processing, Second Edition, John Wiley & Sons, Inc.,USA, 1991, ISBN 0-471-85766-1."
+}

@@ -1,0 +1,102 @@
+{
+    "Semestre": "10",
+    "Malla Renglon": "18",
+    "Código del Espacio": "75",
+    "Espacio Académico": "Inteligencia Computacional II",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+"Contenidos y Unidades Temáticas": "1. Aprendizaje en inteligencia computacional\n2. Redes neuronales de una capa\n3. Redes neuronales de varias capas y métodos de entrenamiento\n4. Funciones de base radial\n5. Pre-procesamiento y extracción de características.\n6. Aprendizaje y generalización.\n7. Mapas auto-organizados y algoritmos no supervisado",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Según Fogel [1] la inteligencia computacional se define como el conjunto de técnicas computacionales y teorías que ven en la naturaleza una fuente de\n    inspiración para resolver problemas. Hoy en día, la inteligencia computacional se encuentra soportada por las computaciones neuronal, difusa y\n    evolutiva, al igual que los sistemas híbridos que las combinan o que combinan otros paradigmas relacionados con las mismas.\n    La inteligencia computacional se ha convertido en una herramienta transversal que da soporte a una gran variedad de disciplinas, siendo entonces uno\n    de los motores de investigación y desarrollo tecnológico más prometedores del mundo moderno. De hecho, la inteligencia computacional ha permitido\n    que la creciente complejidad de los problemas se maneje de forma natural y en casos particulares de manera óptima. Se pueden citar algunos casos\n    particulares con el fin de dar una idea del potencial de aplicación de este paradigma. Entre otros vale la pena mencionar: sistemas inteligentes de\n    manufactura [2], hardware tolerante a fallas [3], modelado de la actividad del cerebro[4] y control inteligente de vehículos [5]\n    Los procesos de diseño en ingeniería electrónica tienen que abordar la solución de problemas cuya complejidad crece cada día. Algunos problemas\n    particulares que reafirman este enunciado entre otros son:\n    ●\nDiseño de antenas inteligentes y adaptativas con patrones de radiación óptimos [6].\n●\nDiseño de redes inteligentes [7]\n●\nDiseño de controladores adaptativos [8].\n●\nDiseño de aplicaciones basadas en biometría [9]\nEl ingeniero electrónico moderno debe estar en capacidad de afrontar el estudio y solución de estos y otros problemas, donde la complejidad y la\nincertidumbre suponen mayores retos y dificultades. En ese sentido, las técnicas de inteligencia computacional se presentan como herramientas\nalternativas que permiten avanzar en la solución de los mismos. Así pues, el ingeniero electrónico de hoy debería ser conducido hacia el estudio de estas\ntécnicas desde una perspectiva básica, de manera que autónomamente pueda profundizar en ellas o apropiarse de las mismas.\nUna exploración de programas académicos nacionales e internacionales en ingenierías eléctrica y electrónica [10-13] permite afirmar que en otros\nlugares de Colombia y el mundo se vienen dando pasos que avanzan hacia la integración de la enseñanza de la inteligencia computacional en los\ncurrículos de pregrado en ingeniería electrónica. Debe resaltarse que el estudio de la inteligencia computacional en estos programas se lleva a cabo por\nmedio de cursos electivos en los últimos semestres, los cuales tienen un carácter de profundización.\nParticularmente, el curso de Inteligencia Computacional II aborda el estudio de las REDES NEURONALES e introduce al estudiante en el concepto de\naprendizaje estadístico. La teoría de las redes neuronales artificiales busca emular los mecanismos de operación y aprendizaje presentes en las redes de\nneuronas biológicas [14]. Adicionalmente, las redes neuronales pueden considerarse como herramientas para el modelado de sistemas no-lineales [15],\nreconocimiento de patrones [16] y predicción de datos [15]. \n Dentro del contexto de la ingeniería electrónica, la aplicación de las redes neuronales ha mostrado resultados interesantes en el tratamiento de\nproblemas como: control de sistemas no lineales [17], ecualización de canales de comunicación no lineales [18] y reconocimiento y clasificación de\nseñales [19] entre otros.\n Las redes neuronales pueden considerarse como una herramienta transversal que le permitiría al ingeniero electrónico moderno proponer soluciones\ninnovadoras a problemas en diferentes áreas. Igualmente al ser una técnica fundamentada en la bio-inspiración ofrece un campo de exploración\nacadémico amplio para el ingeniero en formación. En ese sentido, el estudiante puede entrar a potenciar sus competencias en investigación, pensando\nen continuar hacia estudios de postgrado relacionados con inteligencia computacional.\n"   ,
+    "Objetivos":"OBJETIVOS GENERAL\n\nntroducir al estudiante en la teoría, diseño e implementación de redes neuronales. \n OBJETIVOS ESPECIFICOS\n\n1.\n    Introducir al estudiante en el concepto de aprendizaje en el contexto de la inteligencia computacional.\n    2.\n    Presentar al estudiante el concepto de red neuronal artificial.\n    3.\n    Mostrar una metodología para el uso de redes neuronales en la solución de problemas de aprendizaje.\n    4.\n    Introducir al estudiante en los principales métodos para entrenar redes neuronales.\n    5.\n    Presentar al estudiante algunas de las principales técnicas para de aprendizaje no supervisado.\n    6.\n    Introducir al estudiante a los conceptos de complejidad y regularización",
+"Competencias":"El espacio académico contribuye al desarrollo de las siguientes competencias:\nGenerales:\n1. Identificar en la naturaleza una fuente de inspiración para la solución de problemas.\n2. Resolver problemas por medio de la inspiración en la naturaleza.\n3. Modelar sistemas y fenómenos en la naturaleza.\n4. Analizar la incertidumbre desde diferentes perspectivas. \n5. Profundizar autónomamente en nuevas temáticas.\n6. Diseñar y construir herramientas para la solución de problemas.\n7. Desarrollar métodos de diseño.\n8. Formular, desarrollar y documentar proyectos de investigación.\nEspecificas:\n1. Comprender el concepto de aprendizaje en el marco de la inteligencia computacional.\n2. Entender el concepto de red neuronal artificial.\n3. Utilizar una metodología de aplicación de las redes neuronales en problemas de aprendizaje.\n4. Aplicar algunos métodos para el entrenamiento de redes neuronales.\n5. Entender las principales técnicas de pre-procesamiento de información en problemas de aprendizaje.\n6. Entender los conceptos de complejidad y generalización.",
+    "Metodologia":"",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":"Interpretar y diferenciar los modelos basados en aprendizaje supervisado y no supervisado. ",
+    "Resultados de Aprendizaje2":"Proponer soluciones a problemas de regresión y clasificación a partir de datos. ",
+    "Resultados de Aprendizaje3":"Desarrollar sistemas basados en Redes Neuronales a partir del algoritmo del back-propagation y sus variantes ",
+    "Resultados de Aprendizaje4":"Evaluar el desempeño de los sistemas basados en Redes Neuronales.  ",
+    "Resultados de Aprendizaje5":" ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "[1] D. Fogel,” CIS welcome message from the President”, IEEE Computational Intelligence Society, 2008, http://ieee-cis.org/about_cis/\n    [2] T. Fokuda and N. Kubota, “ Intelligent learning robotic systems using computational intelligence”, Computational Intelligence the experts speak, Wiley Inter-science, 2002, pp. 121-138.\n    [3] T. Higuchi et al, “Evolvable hardware and its applications”, Computational Intelligence the experts speak, Wiley Inter-science, 2002, pp. 191-206\n    [4] B. Balnkertz et al, “The Berlin Brain-Computer Interface”, Computational Intelligence: Research Frontiers, Springer, 2008, pp. 79 -101\n    [5] H. Hagras, “Type-2 Fuzzy Logic Controllers: A Way Forward for Fuzzy Systems in Real World Environments”, Computational Intelligence: Research Frontiers, Springer, 2008, pp. 79 -\n    101\n    [6] X. Huang , “Smart Antennas for Intelligent Transportation Systems”, 2006 6th International Conference on ITS Telecommunications Proceedings, 2006, pp 426-429\n    [7] H. Nojeong and P Varshney, “Energy-efficient deployment of Intelligent Mobile sensor networks”, IEEE Transactions on Systems, Man and Cybernetics”, Jan. 2005,pp 78 – 92\n    [8] T. Nguyen and R. Gianto ,”Neural networks for adaptive control coordination of PSSs and FACTS devices in multimachine power system”, IET 2008 Generation, Transmission &\n    Distribution, May 2008, pp., 355 – 372\n    [9] R. Sala et al, “Personal Identification Through 3D Biometric Measurements Based on Stereoscopic Image Pairs”, Proceedings of the 2006 IEEE International Workshop on Measurement\n    Systems for Homeland Security, Contraband Detection and Personal Safety, 2006, pp. 10-13\n    [10] Universidad de Antioquia, Plan de estudios del programa de ingeniería electrónica, http://electronica.udea.edu.co/.\n    [11] Universidad del Valle, Plan de estudios del programa de ingeniería electrónica, https://swebse29.univalle.edu.co/datalinea//paquetes/catalogoasignaturas/index.php\n    [12] University of Surrey, Electronic Engineering Programme Overview and Structure, http://www.surrey.ac.uk/undergraduate/courses/coursedetails.php?url=engineering/electronic/\n    programme\n    [13] University of Melbourne, Bachelor of engineering program ( electrical engineering), https://app.portal.unimelb.edu.au/CSCApplication/view/2008/355-EE\n    [14] S. Haykin, Neural Networks a comprehensive foundation, Prentice Hall, 1999.\n    [15] D. Pham and X. Liu, Neural networks for indentification, prediction and control, Springer, 1995\n    [16] C. Bishop, Neural networks for pattern recognition, Oxford University Press, 1995\n    [17] J. Seung et al, Neural Network Control for Position Tracking of a Two-Axis Inverted Pendulum System: Experimental Studies, IEEE transactions on Neural Networks, jul 2007, pp 1042-\n    1048.\n    [18] J. Deng et all, Communication channel equalization using complex-valued minimal radial basis function neural networks, IEEE transactions on neural networks, may 2002, pp. 687 –\n    696.\n    [19] T. McConaghy, Classification of audio radar signals using radial basis function neural networks, IEEE transactions on instrumentation and measurement, dec 2003, pp. 1771 – 1779"
+}

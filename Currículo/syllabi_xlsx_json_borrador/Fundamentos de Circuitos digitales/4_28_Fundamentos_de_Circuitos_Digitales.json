@@ -1,0 +1,100 @@
+{
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El desarrollo tecnológico de los últimos años se debe en gran medida al avance en la concepción de técnicas modernas en el diseño e implementación de circuitos electrónicos, entre los cuales se destacan los sistemas digitales como materia prima de la mayoría de dispositivos o componentes electrónicos usados a nivel domiciliario, empresarial o académico.\nEste curso proporciona una fundamentación básica sobre el análisis de circuitos digitales básicos como son los de tipo combinacional y secuencial, los cuales son necesarios para la interpretación, análisis y desarrollo de circuitos digitales de mayor complejidad como procesadores, controladores y/o circuitos integrados de aplicación específica (ASIC). Adicionalmente, se introducen técnicas de síntesis de circuitos digitales junto con procedimientos de diseños vistos desde diferentes niveles de abstracción, lo cual proporciona una visión completa para abordar problemas de desarrollo hardware usando diversas opciones tecnológicas.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nDesarrollar en el estudiante habilidades y destrezas en el análisis, diseño e implementación tanto de circuitos combinacionales como secuenciales.\n\nOBJETIVOS ESPECIFICOS\n\n1. Proporcionar al estudiante los conceptos básicos de algebra booleana para el análisis y síntesis de circuitos combinacionales.\n2. Familiarizar al estudiante con el concepto de memoria y su forma de concepción a nivel hardware para el desarrollo de circuitos secuenciales.\n3. Dar al estudiante el conocimiento sobre la forma de implementación en hardware de máquinas de estado finito.\n\n",
+    "Competencias":"Competencias que compromete la asignatura:\nBASICAS\nDiseñar y construir herramientas para la solución de problemas.\nEmplear métodos formales de diseño.\nFormular, desarrollar y documentar proyectos de ingeniería.\nDesarrollar pensamiento estructurado para abordar problemas complejos.\nInterpretar las bases de álgebra booleana y aplicarlas en el análisis de circuitos combinacionales.\nEmplear métodos de síntesis estructurados de circuitos digitales con características combinacionales y/o secuenciales.\nReconocer las diferentes opciones tecnológicas a nivel hardware y sus características para la implementación de sistemas digitales.\nAnalizar y diseñar máquinas de estado finito.",
+    "Metodologia":"Metodología Pedagógica y Didáctica: \nEl espacio académico se desarrollará semanalmente de la siguiente manera: \nLección magistral en la cual se presentarán los elementos teóricos y conceptuales de la unidad temática que se encuentre bajo estudio de acuerdo con la programación. \nSesión de laboratorio donde los estudiantes tendrán la oportunidad de aplicar los conceptos vistos en la lección magistral particularmente por medio de herramientas hardware, software y sistemas de desarrollo basados en lógica programable. \nSesión de ejercicios en la cual estudiante y profesor revisarán los conceptos introducidos en la lección magistral por medio del desarrollo de problemas básicos en herramientas computacionales. \nTrabajo autónomo enfocado al desarrollo de pequeños proyectos orientados a fortalecer los conceptos revisados en la lección magistral, la sesión de ejercicios y el laboratorio.",
+ 
+    "Semestre": "4",
+    "Malla Renglon": "6",
+    "Código del Espacio": "28",
+    "Espacio Académico": "Fundamentos de Circuitos Digitales",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Unidad 1: Algebra de variables lógicas.\nUnidad 2: Síntesis de circuitos combinacionales.\nUnidad 3: Análisis de circuitos sincrónicos y asincrónicos.\nUnidad 4: Diseño de Máquinas de Estado Finito.",
+    "Enfoque de Aprendizaje y Enseñanza": "Para el desarrollo de los espacios académicos será necesario contar con medios audiovisuales, como por ejemplo Video-Beam y proyector de transparencias. Igualmente, el desarrollo de la sesión cooperativa de laboratorio demandará de una sala dotada con un número suficiente de computadores, los cuales deberán contar con las plataformas software apropiadas y sistemas de desarrollo basados en lógica programable, osciloscopios, multímetro y fuentes de alimentación.",
+    "Plan de Evaluaciones": "ASPECTOS A EVALUAR DEL CURSO:\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n3. Autoevaluación.\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.\n\nTIPO DE EVALUACIÓN FECHA PORCENTAJE \nPRIMERA NOTA Evaluaciones parciales Semanas 7,12 40% \nSEGUNDA NOTA Laboratorio Semanas 1-16 30% \nEXAMEN FINAL Examen final Según programación del programa 30%",
+
+    "Resultados de Aprendizaje1":"Diseñar, simular e implementar circuitos digitales a partir de diagramas esquemáticos, ecuaciones booleanas, tablas de verdad y lenguajes de descripción de hardware.",
+    "Resultados de Aprendizaje2":"Diseñar compuertas lógicas a nivel esquemático usando tecnología CMOS.",
+    "Resultados de Aprendizaje3":"Reconocer las diferencias entre las representaciones de números enteros, decimales, signados y no signados a nivel de circuitos digitales, y su impacto en la implementación de soluciones aritméticas.",
+    "Resultados de Aprendizaje4":"Identificar los bloques combinacionales más relevantes en la implementación de sistemas digitales como: multiplexores, decodificadores, conversores de código o memorias ROM, y analizar su comportamiento.",
+    "Resultados de Aprendizaje5":"Usar las técnicas de síntesis de circuitos combinacionales como reducción algebraica o métodos tabulares.",
+    "Resultados de Aprendizaje6":"Representar cualquier circuito secuencial sincrónico a partir de su modelo de ecuaciones de estado, tablas de estado, esquemático o en un lenguaje de descripción de hardware.",
+    
+    "Materiales de Estudio": "TEXTOS BASICOS\nPrincipios de diseño Digital, Daniel Gajski, Prentice Hall, 2000.\nFundamentos de lógica digital con diseño VHDL, Stephen Brown, McGraw Gill, 2000.\nDiseño Digital: Principios y prácticas, John Wakerly.\n\nTEXTOS COMPLEMENTARIOS\nFundamentos de Sistemas Digitales, Thomas Floyd.\nSistemas Digitales Principios y Aplicaciones, Tocci.\nAnálisis y Diseño de Circuitos Lógicos Digitales, Víctor Nelson.\nDigital Arithmetic, Milos Ercegovac."
+}

@@ -1,0 +1,106 @@
+{
+    "Semestre": "4",
+    "Malla Renglon": "2",
+    "Código del Espacio": "23",
+    "Espacio Académico": "Probabilidades y Estadística",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "2",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": [
+        "Contenido 1",
+        "Contenido 2",
+        "...",
+        "Contenido n"
+    ],
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Materiales de Estudio": [
+        "[1] Álvaro Andrés Hamburguer Fernández, {\\it Escribir para objetivar el saber: Cómo producir artículos, libros, reseñas, textos y ensayos}. Segunda Edición, Bogotá, D.C., Universidad de La Salle, 2017.",
+        "[2] William Ángel Salazar Pulido, {\\it Alta Redacción: Informes científicos, académicos, técnicos y administrativos}. Novena Edición, NET Educativa, Bogotá, D.C., 2009.",
+        "[3] Rodrigo de Castro Korgi, {\\it El universo \\LaTeX}. Segunda Edición, Bogotá: Universidad Nacional de Colombia, 2003.",
+        "[4] Hilary Glasman-Deal, {\\it Science Research Writing: For Non-Native Speakers of English}. Imperial College Press, London, 2010.",
+        "[5] Estanislao Zuleta, {\\it Elogio de la dificultad y Otros ensayos}. Quinta Edición, Fundación Estanislao Zuleta, Cali, 2001.",
+        "[6] Estanislao Zuleta, {\\it Arte y Filosofía}. Segunda Edición, Hombre Nuevo Editores, Fundación Estanislao Zuleta, Medellín, 2001.",
+        "[7] Academias de la Lengua Española, {\\it Ortografía de la Lengua Española}. Editorial Espasa Calpe, S.A., Madrid, 1999",
+        "[8] William Ospina, {\\it La lámpara maravillosa: Cuatro ensayos sobre la educación y un elogio de la lectura}. Random House Mondadori, S.A.S., Bogotá, 2013.",
+        "[9] Peter Watson, {\\it Convergencias: El orden subyacente en el corazón de la ciencia}. Editorial Planeta S.A., Bogotá, 2017.",
+        "[10] Nils J. Nilsson, {\\it Para una comprensión de las creencias}. Fondo de Cultura Económica, México, 2019."
+    ]
+}

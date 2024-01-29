@@ -1,0 +1,108 @@
+{
+    "Semestre": "9",
+    "Malla Renglon": "8",
+    "Código del Espacio": "19",
+    "Espacio Académico": "Trabajo de Grado I",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "0",
+    "Horas Trabajo Colaborativo": "0",
+    "Horas Trabajo Autónomo": "9",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Presentación del Seminario\n    2. Divulgación y entendimiento de la normativa vigente en la Universidad con relación a las modalidades de trabajo de grado. \n    3. Desarrollo del Trabajo de Grado\n    4. Definición del tema\n    5. Planteamiento del problema, justificación y objetivos.\n    6. Búsqueda sistemática de información\n    7. Escritura del Estado del Arte\n    8. Desarrollo Anteproyecto\n    9. Presentación de Resultados (Ponencia)\n    10. Documento final (Anteproyecto)",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Este espacio permite mediante un análisis crítico, determinar el camino a seguir para la culminación del desarrollo ingenieril de un estudiante de ingeniería electrónica. En este espacio se presenta el planteamiento del problema y se propone la(s) posible(s) solución (es) a través de un proceso sistemático, El estudiante estará capacitado en distintas herramientas que le permitan afrontar un problema de ingeniería de manera eficiente.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nDesarrollar en el estudiante de pregrado una actitud crítica, creativa y comprometida, que le permita asumir responsablemente su trabajo de desarrollo o investigación en su vida profesional\n\n OBJETIVOS ESPECIFICOS\n\n ● Capacitar al estudiante en las diferentes modalidades de trabajo de grado que por la normativa la universidad le brinda.\n● Capacitar al estudiante en las herramientas básicas de investigación que le permita identificar un problema de índole ingenieril que sea fuertemente argumentado y \njustificado en un contexto académico, científico, social, económico, ambiental y en su ser. \n● Capacitar al estudiante de tal forma que pueda plantear objetivos claros, precisos, tangibles y medibles para el desarrollo de su trabajo de grado. n● Adquirir destrezas por parte del estudiante para recolectar, valorar y organizar información de una manera sistemática. \n● Escribir una propuesta de trabajo donde se presente una metodología de trabajo con sus respectivas actividades y entregables de cada una de ellas con el fin de lograr alcanzar el objetivo general. ● Generar seguridad en el estudiante que le permita defender su planteamiento de trabajo a través de ponencia dentro de sus pares académicos. \n● Realizar informes de sus labores o proyectos de ingeniería. ",
+    "Competencias":"Transversales:\nCapacidad de organización y planificación, razonamiento crítico, trabajo en equipo, aprendizaje autónomo, comunicación oral y escrita, motivación por la calidad y mejoramiento continuo.\n\nContexto \nAnalizar el desarrollo del planteamiento de una solución a un proyecto de Ingeniería Electrónica, identificando el problema a solucionar, la(s) posible(s) caminos para solucionar teniendo en cuenta un contexto investigativo, académico, social, económico, ambiental y de su propio ser. \n\n Básicas\n Desarrollar a partir de un análisis profundo un anteproyecto, que proponga una solución a un problema real de tipo ingenieril, que soportado con los conocimientos de ingeniería electrónica se pueda argumentar como un Trabajo de Grado para optar por un título profesional.\n\nLaborales\nDesarrollo de capacidades de análisis, dimensionamiento y costeo de un proyecto deingeniería que le dé capacidad de proponer soluciones ante problemas ingenieriles reales.",
+    "Metodologia":"En un número limitado de sesiones, el profesor presentará tópicos generales.\nLa mayor parte del curso se basa en presentaciones por parte de los estudiantes. Dichas  presentaciones corresponden a reportes de su trabajo de investigación o desarrollo, el cual realizarán de forma paralela al curso.\n Los estudiantes deben presentar reportes de su trabajo, el cual se puede estructurar en las siguientes partes:\n \n    Definición y planteamiento del problema\n    Justificación del problema\n    Objetivos: General y particulares\n    Marco Teórico\n    Estado del arte\n    Metodología. \n    Alcance y limitaciones\n    Cronograma \n    Ponencia\n    Anteproyecto \n    Los estudiantes deben trabajar todo lo anterior con la revisión del docente director del trabajo de grado",
+      
+  
+    "Recursos":"Aulas virtuales\nVideo Beam",
+  
+    "Resultados de Aprendizaje1":"● Establecer e identificar un problema ingenieril basado en datos y estudios acerca del mismo, que le permiten justificar que lo planteado es realmente un problema que requiere una solución ",
+    "Resultados de Aprendizaje2":"● Contextualizar e identificar el centro del problema a solucionar, planteando unos objetivos específicos que le permitan alcanzar con éxito el objetivo general del proyecto ",
+    "Resultados de Aprendizaje3":"● Analizar la información consignada en bases de datos especializadas, que le permiten organizar un buen Marco Teórico del Trabajo de Grado a desarrollar e igualmente, compara los trabajos previos alrededor del tema, para encontrar otras alternativas o modificaciones tecnológicas para su solución.  ",
+    "Resultados de Aprendizaje4":"● Determinar una metodología de trabajo, enmarcado en un cronograma que le permita hacer un seguimiento al desarrollo del mismo. ",
+    "Resultados de Aprendizaje5":"● Identificar las limitaciones que pueden presentarse en el desarrollo del proyecto, así como los entregables a los que se puede comprometer ",
+    "Resultados de Aprendizaje6":"● Establecer un presupuesto para el desarrollo del proyecto, tanto de los costos alrededor de los recursos humanos y como físicos ",
+    
+    "Materiales de Estudio": "1. J.G. Paradis and M.L. Zimmerman, The MIT guide to science and engineering communication, 2ed, The MIT Press, Cambridge, 2002.\n    2. W.C. Booth, G.G. Colomb, and J.M. Williams. The Craft of Research. University of Chicago Press, Chicago, 1995.\n3. V. Booth, Communicating in Science: Writing and Speaking, 2ed, Cambridge Univ. Press,Cambridge, 1993.\n4. G. B. Davis, C. A. Parker, Writing the doctoral dissertation: A systematic approach. Barron's Educational Series, New York, 1979.\n5. J. Friedland, Writing succesful science proposals. Yale University Press, New Haven, 2000"
+}
