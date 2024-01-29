@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Entre todas las ingenierías, la ingeniería electrónica, es la más relacionada, la más íntimamente ligada con la ciencia, la tecnología y en particular con la física. El ingeniero electrónico como científico, investigador, colaborador, asistente, consejero juega un rol primordial en el desarrollo científico técnico de una nación, de una empresa, o de cualquier institución. En gran medida el éxito de este rol reside en su formación académica especialmente en el área de la física y los campos electromagnéticos. Las comunicaciones, la instrumentación, la bioingeniería, la computación entre otras requieren de una gran formación en teoría de campos electromagnéticos.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEstudiar, analizar e interpretar los conceptos y definiciones operacionales de campo eléctrico y magnético, y las ecuaciones de Maxwell\n\nOBJETIVOS ESPECIFICOS\n\nPlantear y resolver el problema general de la electrostática y la magnetostática.\nDefinir un campo conservativo.\nConstruir y formular el potencial escalar y el potencial vectorial.\nDesarrollar habilidades y destrezas en la solución de ejercicios y problemas de aplicación.\nConstruir en forma diferencial las ecuaciones de Maxwell, analizarlas e interpretarlas.\n\n",
+    "Competencias":"",
+    "Metodologia":"El espacio académico se desarrollará semanalmente de la siguiente manera:\nExposición magistral de acuerdo con el desarrollo de los contenidos.\nTareas para desarrollar en casa.\nUtilización de paquetes sobre Linux para graficar y resolver ecuaciones.\nUso de programas de computadora para resolver problemas electromagnéticos usuales.\nSesiones de herramientas computacionales.\nTrabajo virtual autónomo.",
+    
+    "Semestre": "4",
+    "Malla Renglon": "1",
+    "Código del Espacio": "27",
+    "Espacio Académico": "Campos Electromagnéticos",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "3",
+    "Horas Trabajo Colaborativo": "1",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "INTRODUCCIÓN.\nCAMPOS ELECTROSTÁTICOS EN EL VACIO.\nCAMPOS ELECTROSTÁTICOS EN DIELÉCTRICOS.\nPROBLEMA GENERAL DE LA ELECTROSTÁTICA.\nCAMPOS MAGNÉTICOS Y CORRIENTES ESTACIONARIAS.\nCAMPOS MAGNÉTICOS VARIABLES EN EL TIEMPO.\nCAMPOS MAGNÉTICOS EN MATERIALES MAGNÉTICOS.\nECUACIONES DE MAXWELL Y ONDAS ELECTROMAGNÉTICAS.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "PRIMERA NOTA\nTIPO DE EVALUACIÓN FECHA PORCENTAJE Evaluaciones escritas 40%\nSEGUNDA NOTA Evaluaciones escritas 30%\nEXAMEN Evaluación escrita 30%\n FINAL\n ASPECTOS PARA EVALUAR DEL CURSO\n Evaluación del desempeño docente\nEvaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica,oral/escrita.\nAutoevaluación:\nCoevaluación del curso: de forma oral entre estudiantes y docente.",
+
+    "Resultados de Aprendizaje1":"Demostrar conocimiento de las leyes del electromagnetismo.",
+    "Resultados de Aprendizaje2":"Explicar los fundamentos de la Electrostática.",
+    "Resultados de Aprendizaje3":"Explicar los fundamentos de la Magnetostática.",
+    "Resultados de Aprendizaje4":"Explicar los fundamentos de la interacción entre campo magnético y eléctrico en el caso estático y dinámico.",
+    "Resultados de Aprendizaje5":"Explicar las características de los materiales y sus interacciones con los campos eléctricos y magnéticos.",
+    "Resultados de Aprendizaje6":"Analizar las ecuaciones de Maxwell.",
+    
+    "Materiales de Estudio": "BIBLIOGRAFIA\nTextos Guía.\nLorrain P., Corson D., campos y ondas electromagnéticos, selecciones científicas, Madrid, 1977.\nJackson. Electrodinamica Clásica, editorial reverte, Barcelona, 1973.\nTextos complementarios\nBalanis C., Advanced engineering electromagnetics, John Wiley, N Y 1998.\nReitz, Milford Christy. Fundamentos de la teoría electromagnética. Editorial Wesley. 2000.\nPapas Charles H., theory of electromagnetics wave propagation, dover publications, New York 1988.\nGoldemberg. Fisica ** . Editorial Interamericana. Rio de janeiro. 1980."
+}

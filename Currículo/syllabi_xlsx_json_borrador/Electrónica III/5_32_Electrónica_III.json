@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Hoy por hoy, los sistemas digitales son reconocidos en el ámbito ingenieril por sus bondades en el procesamiento de señales: la capacidad de almacenamiento de grandes volúmenes de información; la compresión de imágenes, video y datos en general; los sistemas de codificación y cifrado en telecomunicaciones; la posibilidad de detectar y corregir errores en tramas de datos, entre otras. Sin embargo, también se debe reconocer que las señales que se desean manipular son de naturaleza analógica: voz, audio, temperatura, presión, humedad, etc. y que por tanto, el procesamiento y acondicionamiento previo de ellas es fundamental para garantizar la integridad de la información y evitar así alterar la realidad. \nEs así como se presenta el curso de electrónica III con el propósito de formar y desarrollar competencias en el análisis y diseño de soluciones basadas en circuitos analógicos lineales y no lineales, teniendo como base al amplificador operacional. Se fundamentan las bases para el acondicionamiento de señales en instrumentación electrónica, se trabaja con los bloques básicos de la teoría de control clásico y se genera la inquietud para las potenciales aplicaciones en las demás áreas de la ingeniería electrónica tales como el control en sistemas de potencia y la manipulación de señales en bioingeniería.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nSuministrar las herramientas prácticas y los conocimientos teóricos necesarios concernientes al análisis y diseño de circuitos basados en amplificadores operacionales con el propósito de aplicarlos en las áreas de: Bioingeniería, Control, Electrónica de Potencia, Instrumentación Electrónica y Telecomunicaciones.\n\nOBJETIVOS ESPECIFICOS\n\nIdentificar los defectos y limitantes del amplificador operacional real.\nAnalizar las aplicaciones clásicas de los amplificadores operacionales realimentados negativamente: seguidor, amplificador inversor y no inversor, diferenciador, integrador, amplificador universal multientradas.\nImplementar funciones basadas en combinaciones lineales de multiples señales de entrada, orientadas al acondicionamiento de señales en instrumentación electrónica.\nAnalizar el comportamiento de los circuitos basados en amplificadores operacionales realimentados positivamente.\nIdentificar las potenciales aplicaciones de los circuitos lineales y no lineales en las áreas de control, electrónica de potencia, bioingeniería y telecomunicaciones.\nDiseñar e implementar osciladores de baja frecuencia basados en amplificadores operacionales realimentados.\nIdentificar la importancia de analizar los circuitos lineales e invariantes en el tiempo (LTI) en el dominio de la frecuencia.\nDiseñar e implementar filtros activos basados en amplificadores operacionales.\nAnalizar la respuesta en frecuencia del amplificador operacional.\nComprender la aplicación del amplificador operacional en circuitos de puente y conversión A/D y D/A.\nComprender y analizar la aplicación del amplificador operacional como elemento de control en los reguladores lineales.\n\n",
+    "Competencias":"Competencias de contexto.\n1. Comprensión del contexto social, cultural y económico\n2. Valoración del trabajo creativo.\n\nCompetencias básicas\n1. Habilidad comunicativa tanto oral como escrita.\n2. Comprensión de textos en una segunda lengua, manuales de datos.\n3. Razonamiento crítico y analítico.\n4. Habilidad para modelar ideas, fenómenos, procesos.\n\nCompetencias laborales\n1. Adaptabilidad para el trabajo en equipo\n2. Solución de problemas prácticos aplicando la ingeniería\n3. Creatividad e innovación.",
+    "Metodologia":"Metodología Pedagógica y Didáctica:\n1. El docente indicará a los estudiantes el tema de la siguiente sesión, usualmente incluido dentro de la bibliografía dada.\n2. Desarrollo de los temas utilizando los recursos del aula, material impreso.\n3. Elaboración de ejercicios de aplicación (tareas, consultas en la WEB, etc.) incluyendo simulaciones utilizando software libre.\n4. Se facilitará a los estudiantes el material escrito necesario para llevar a cabo las prácticas de laboratorio.\n5. Se motivará la creatividad por medio de un proyecto práctico donde los estudiantes aplicarán los conceptos vistos.\n6. Se motivará la consulta de los estudiantes al recomendar la lectura de los temas vistos para una discusión posterior que les permita visualizar diversos puntos de vista de los autores.",
+  
+    "Semestre": "5",
+    "Malla Renglon": "5",
+    "Código del Espacio": "32",
+    "Espacio Académico": "Electrónica III",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "PROGRAMA SINTÉTICO:\n1. Características del amplificador operacional.\n2. Realimentación negativa: aplicaciones clásicas del amplificador operacional.\n3. Aplicaciones del OP AMP en instrumentación electrónica, control, electrónica de potencia y bioingeniería.\n4. Realimentación Positiva.\n5. Osciladores.\n6. Filtros activos.\n7. Reguladores Lineales.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "Es importante tener en cuenta las diferencias entre evaluar y calificar. El primero es un proceso cualitativo y el segundo un estado terminal cuantitativo que se obtiene producto de la evaluación. Para la obtención de la información necesaria para los procesos de evaluación se requiere diseñar distintos formatos específicos de autoevaluación, coevaluación y heteroevaluación.\nASPECTOS A EVALUAR DEL CURSO\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n3. Autoevaluación:\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.",
+
+    "Resultados de Aprendizaje1":"Reconocer los efectos que producen los parámetros en dc y ac, de un amplificador operacional, en el desempeño del circuito eléctrico que lo utilice.",
+    "Resultados de Aprendizaje2":"Analizar circuitos basados en amplificadores operacionales mediante modelos de realimentación negativa, positiva y sin realimentación.",
+    "Resultados de Aprendizaje3":"Diseñar circuitos eléctricos con amplificadores operacionales, considerando sus parámetros eléctricos.",
+    "Resultados de Aprendizaje4":"Integrar diferentes saberes de la electrónica analógica para resolver problemas basados en un contexto.",
+    "Resultados de Aprendizaje5":"",
+    "Resultados de Aprendizaje6":"",
+    
+    "Materiales de Estudio": "TEXTOS GUÍA\nFranco, S. (2015). Design with Operational Amplifiers and Analog Integrated Circuits (4a ed.). McGraw-Hill Education.\nTEXTOS COMPLEMENTARIOS\nFranco, S. (2015). Analog Circuit Design: Discrete and Integrated (1a ed.). McGraw-Hill Education.\nLathi, B., & Green, R. (2014). Essentials of Digital Signal Processing (1a ed.). Cambridge University Press.\nRashid, M. (2011). Microelectronic Circuits: Analysis and Design (2a ed.). Cengage Learning.\nSedra, A., & Smith, K. (2015). Microelectronic Circuits (7a ed.). Oxford University Press.\nSenani, R., Bhaskar, D. R., Singh, A. K., & Singh, V. K. (2013). Current Feedback Operational Amplifiers and Their Applications (1a ed.). Springer.\nREVISTAS\nSe recomienda para los espacios académicos (o asignaturas) de las áreas de profundización y/o investigación centralizarse más en artículos de revistas y de bases de datos.\nDIRECCIONES DE INTERNET\nhttp://www.analog.com/designtools/en/filterwizard/"
+}

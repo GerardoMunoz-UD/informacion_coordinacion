@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Las competencias del perfil a las que contribuye la asignatura son:\nEl segundo curso de electrónica es un curso de cuarto semestre del programa de ingeniería electrónica en la facultad de ingeniería de la universidad Distrital. El objetivo básico es el análisis y diseño de amplificadores utilizando semiconductores (BJT-FET) y su comportamiento tanto en alta como en baja frecuencia, amplificadores realimentados y amplificadores de señal grande, empleando dispositivos discretos y análisis de estos dispositivos como parte de un microcircuito.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEl estudiante comprenderá y aplicará las limitaciones de los transistores(BJT y FET) en su respuesta en frecuencia, limitaciones de temperatura y su manejo, y los efectos de la realimentación negativa y sus aplicaciones.\n\nOBJETIVOS ESPECIFICOS\n\n1. Identificar y comprender las fuentes de corriente y su uso para polarizar un microcircuito y su uso como carga activa en un microcircuito.\n2. Comprender la presencia de capacitancias interelectródicas y su efecto en altas frecuencias, en los BJT y FETs.\n3. Comprender el efecto en el ancho de banda y en la ganancia global de un circuito amplificador multietapa.\n4. Comprender el comportamiento de los amplificadores multietapa clásicos, para determinar por qué es más conveniente su uso en determinada aplicación.\n5. Comprender el efecto de los condensadores de acople y desacople en la respuesta en frecuencia.\n6. Comprender e identificar la realimentación en un amplificador, sus ventajas y desventajas.\n7. Entender y utilizar apropiadamente la información contenida en las hojas de datos suministradas por los fabricantes de semiconductores y su correcta utilización en los diseños prácticos.\n8. Comprender las limitaciones térmicas de los transistores en aplicaciones de gran señal y cómo protegerlos.\n9. Comprender e identificar los diversos tipos de amplificación de señal grande, sus ventajas y desventajas.\n10. Consultar e investigar accediendo a los sitios WEB de los fabricantes, sobre nuevos dispositivos y microcircuitos que ofrecen.\n\n",
+    "Competencias":"Competencias que compromete la asignatura:\nBASICAS\nHabilidad comunicativa tanto oral como escrita\nComprensión de textos en una segunda lengua\nRazonamiento crítico y analítico\nHabilidad para modelar ideas, fenómenos, procesos.\nComprensión del contexto social, cultural y económico\nValoración del trabajo creativo.\n\nLABORALES\nAdaptabilidad para el trabajo en equipo\nSolución de problemas prácticos aplicando la ingeniería\nCreatividad e innovación.",
+    "Metodologia":"Metodología Pedagógica y Didáctica:\nEl docente indicará a los estudiantes leer el tema de la siguiente sesión, usualmente incluido dentro de la bibliografía dada.\nDesarrollo de los temas utilizando los recursos del aula, material impreso.\nElaboración de ejercicios de aplicación (tareas, consultas en la WEB, etc) incluyendo simulaciones utilizando software libre.\nSe facilitará a los estudiantes el material escrito necesario para llevar a cabo las prácticas de laboratorio.\nSe motivará la creatividad por medio de un proyecto práctico donde los estudiantes aplicarán los conceptos vistos.\nSe motivará la consulta de los estudiantes al recomendar la lectura de los temas vistos para una discusión posterior que les permita visualizar diversos puntos de vista de los autores.",
+ 
+    "Semestre": "4",
+    "Malla Renglon": "5",
+    "Código del Espacio": "25",
+    "Espacio Académico": "Electrónica II",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Unidad 1: Fuentes De Corriente Y Sus Aplicaciones (polarización/carga activa).\nUnidad 2: El BJT/FET en Alta Frecuencia.\nUnidad 3: Amplificadores Realimentados.\nUnidad 4: Amplificadores De Señal Grande.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "ASPECTOS A EVALUAR DEL CURSO: \nEs importante tener en cuenta las diferencias entre evaluar y calificar. El primero es un proceso cualitativo y el segundo un estado terminal cuantitativo que se obtiene producto de la evaluación. Para la obtención de la información necesaria para los procesos de evaluación se requiere diseñar distintos formatos específicos de autoevaluación, coevaluación y heteroevaluación.\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n3. Autoevaluación.\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.\n\nTIPO DE EVALUACIÓN FECHA PORCENTAJE\nPRIMERA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 6 \nSEGUNDA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 13\n\nLABORATORIO\nToma e interpretación de datos, diseño, montaje, uso instrumentos de medida\nEXAMEN FINAL\nParcial. Evaluación escrita y sustentación de trabajo final Semana 17 y 18 30%",
+
+    "Resultados de Aprendizaje1":"Comprender los efectos capacitivos que determinan el ancho de banda de un amplificador.",
+    "Resultados de Aprendizaje2":"Implementar amplificadores multietapa basado en los modelos del transistor, el análisis, diseño y simulación de circuitos.",
+    "Resultados de Aprendizaje3":"Comprender las ventajas y desventajas de la realimentación en un amplificador.",
+    "Resultados de Aprendizaje4":"Analizar las características particulares de los amplificadores de potencia.",
+    "Resultados de Aprendizaje5":"Diseñar circuitos amplificadores de potencia teniendo en cuenta las características eléctricas y térmicas de cada uno de los componentes.",
+    "Resultados de Aprendizaje6":"",
+    
+    "Materiales de Estudio": "BIBLIOGRAFÍA\n\nTEXTOS BÁSICOS\nRashid, M. - Circuitos Microelectrónicos Análisis y Diseño - Thompson Ed. - Mexico, 2000\nSedra, S. - MICROELECTRONIC CIRCUITS. Fifth Edition. Oxford University Press. USA. 2004.\n\nTEXTOS COMPLEMENTARIOS\nMillman, J. Halkias C. - ELECTRÓNICA INTEGRADA. Editorial Hispano Europea – Mc Graw Hill. Quinta Edición, Barcelona, 1983.\nSavant-Roden-Carpenter - Diseño Electrónico - Prentice Hall - 2a ed. México - 1998\n\nREVISTAS\nLa universidad tiene convenios para acceder a bases de datos de artículos de revistas.\n\nDIRECCIONES DE INTERNET\nwww.national.com\nwww.ti.com"
+}

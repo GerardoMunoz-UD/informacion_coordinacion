@@ -1,0 +1,101 @@
+{
+  
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Los microcontroladores en la actualidad son herramientas fundamentales en el desarrollo de dispositivos electrónicos, están incluidos cosas tan sencillas como un juguete hasta en sistemas de control y seguridad en vehículos comerciales. Desde el punto de vista de la ingeniería electrónica para la aplicación de microcontroladores en comunicaciones, sistemas de potencia, instrumentación, bioingeniería, control, robótica, IoT, etc., es necesario que el principio de funcionamiento y diseño hagan parte de las competencias del ingeniero electrónico, para proponer, analizar y modelarlos en cualquier aplicación que lo requiera.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nCapacitar al estudiante en el análisis, diseño y construcción de aplicaciones basadas en microcontroladores.\n\nOBJETIVOS ESPECIFICOS\n\n1. Presentar al estudiante una síntesis de las principales familias de microcontroladores existentes en el mercado.\n 2. Introducir al estudiante en el diseño de sistemas digitales haciendo uso de microcontroladores (específicamente algún miembro de la familia PSoC de Infineon Semiconductors).\n3.Presentar al estudiante diversos periféricos utilizados en la solución de problemas con microcontroladores (LCD, sensores, etc.).\n4.Mostrar al estudiante herramientas de software de alto nivel utilizadas en la programación de microcontroladores.\n\n",
+    "Competencias":"El espacio académico contribuye al desarrollo de las siguientes competencias:\nGenerales:\n1. Proponer soluciones a problemas de ingeniería basadas en microcontroladores.\n2. Profundizar en la aplicación y uso de nuevas tecnologías.\n3. Formular, desarrollar y documentar proyectos en ingeniería.\nEspecificas:\n1. Comprender las principales características de las diversas familias de microcontroladores existentes en el mercado.\n2. Diseñar aplicaciones con microcontroladores.\n3. Aplicar diversos métodos de diseño de sistemas digitales.\n4. Implementar microprocesadores de aplicación específica sobre dispositivos reconfigurables.\n5. Comprender la arquitectura de un procesador de propósito general CISC.\n6. Proponer soluciones electrónicas basadas en procesadores CISC.\n7. Comprender la arquitectura de un procesador de propósito general RISC.\n8. Proponer soluciones electrónicas basadas en procesadores RISC.",
+    "Metodologia":"El espacio académico se desarrollará semanalmente de la siguiente manera:\n\n1. Sesión magistral se desarrolla mediante la exposición del profesor de cada uno de los temas (propuestos en el contenido del curso) en el aula de clase, presentación de ejemplos, con su respectiva verificación en el aula, conferencias parciales y la investigación y demostración del estudiante de algunos temas.\n\n2. Sesión de ejercicios en la cual estudiante y profesor revisarán los conceptos desarrollados en la sesión magistral por medio del desarrollo de problemas de aplicación básicos.\n\n3. Laboratorio: el estudiante solucionará problemas planteados de diseño que deberán ser implementados con microcontroladores empleando todas las herramientas para diseño digital con microcontroladores mostradas en clase, además de las aprendidas en otros espacios académicos.",
+
+    "Semestre": "6",
+    "Malla Renglon": "6",
+    "Código del Espacio": "37",
+    "Espacio Académico": "Diseño Digital con Microcontroladores",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Microcontroladores\n2. Introducción a los PSoCs\n3. Características de los PSoC5LP\n4. Periféricos Específicos\n5. Comunicaciones digitales con PSoC5LP\n6. Otros dispositivos\n7. Kodular",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "Evaluación práctica (mini proyecto) Semana 6 10%\nExamen práctico (mini proyecto) Semana 11 20%\nExamen práctico (mini proyecto) Semana 14 20%\nLaboratorio Semana 1-16 20%\nExamen práctico (proyecto final) Semana 16 30%\nASPECTOS A EVALUAR DEL CURSO\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica.\n3. Autoevaluación\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.",
+
+    "Resultados de Aprendizaje1":"Aplicar la lógica para el diseño se soluciones con microcontroladores.",
+    "Resultados de Aprendizaje2":"Construir circuitos digitales con microcontroladores.",
+    "Resultados de Aprendizaje3":"Diseñar soluciones digitales utilizando microcontroladores.",
+    "Resultados de Aprendizaje4":"Construir máquinas de estado algorítmicas de prestaciones óptimas sobre micorontroladores.",
+    "Resultados de Aprendizaje5":"Distinguir las arquitecturas de los microprocesadores básicos.",
+    "Resultados de Aprendizaje6":"Aplicar soluciones de programación de alto nivel para la solución de problemas con microcontroladores.",
+    
+    "Materiales de Estudio": "Libros Guía:\nCAMARGO, Julián. PERDOMO, César. Introducción al PSoC5LP, Teoría y aplicaciones prácticas. Editorial Universidad Distrital, 2016.\n CAMARGO, Julián. PERDOMO, César. BERMÚDEZ, Brayan. Proyectos prácticos con PSoC5LP. Ediciones de la U, 2019.\n\nLibros Complementarios:\n ASHBY, Robert. Designer ́s Guide to the Cypress PSoC. Newnes, 2005.\n GALEANO, Gustavo. Programación de sistemas embebidos en C. Alfaomega.\n INFINEON Semiconductors. PSoC 3/PSoC 5LP System Reference Guide.\n PALACIOS, Enrique. REMIRO, Fernando. LOPEZ, Lucas J. Microcontrolador PIC16F84. \n Desarrollo de Proyectos. Alfaomega Ra-ma.\n WEIDINGER, Wolfgang. System Investigation of Programmable Systems on Chip (PSoC). VDM Verlag, 2008."
+}

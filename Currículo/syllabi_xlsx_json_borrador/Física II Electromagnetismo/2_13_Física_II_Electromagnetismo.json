@@ -1,0 +1,104 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La asignatura se encuentra inscrita en el componente de formación de las ciencias básicas definidas para las ingenierías, según decreto 792 de 2001. La física del Electromagnetismo provee los fundamentos de las aplicaciones tecnológicas de la Ingeniería Electrónica y Eléctrica. Todas las leyes de esta fenomenología física gobiernan el comportamiento de los circuitos eléctricos y los respectivos componentes de dichos circuitos con base en los cuales se construyen las aplicaciones prácticas de estas ingenierías. Igualmente fundamentan aplicaciones para generación y recepción de ondas electromagnéticas que dan origen a todos los sistemas modernos de comunicación. En consecuencia, esta física es la base sobre la cual se construyen gran parte de las soluciones de ingeniería eléctrica y electrónica. Las leyes de Maxwell gobiernan la fenomenología electromagnética clásica es decir aquellos fenómenos donde la causalidad se mantiene.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nComprender y utilizar los conceptos fundamentales de los fenómenos electromagnéticos, basados en las leyes de Maxwell y de sus codescubridores: Coulomb, Gauss, Ampere, Faraday.\n\nOBJETIVOS ESPECIFICOS\n\nConocer los conceptos de potencial y energía potencial electrostática, la relación entre ambos y su aplicación a problemas básicos.\nCalcular el campo electrostático por integración directa y aplicando la ley Gauss.\nCalcular el campo magnetostático por integración directa y aplicando la ley de Ampere.\nConocer las propiedades eléctricas y magnéticas de los medios materiales y las magnitudes relacionadas con ellas.\nComprender el significado de las leyes de Maxwell y algunos fenómenos que se derivan de ellas. Aplicar las leyes de los circuitos eléctricos de corriente continua y alterna a circuitos eléctricos en régimen estacionario.\nComprender el funcionamiento del condensador como dispositivo almacenador de energía eléctrica.\nComprender el proceso de conducción de carga eléctrica y de las leyes que la rigen.\nComprender el origen del campo magnético estático y variable en el tiempo\nComprender la ley de inducción de Faraday.\n\n",
+    "Competencias":"",
+    "Metodologia":"Metodología Pedagógica y Didáctica: Cada tema expone los fundamentos teóricos estará y suficientes ejemplos de aplicación de manera que aclaren el porqué de los conceptos teóricos explicados. Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso. De igual forma se realizan discusiones grupales en torno a problemas específicos realizando evaluaciones periódicas donde se sustentan grupalmente las soluciones con el fin de llevar el seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante. Los estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.",
+
+
+    "Semestre": "2",
+    "Malla Renglon": "1",
+    "Código del Espacio": "13",
+    "Espacio Académico": "Física II Electromagnetismo",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    
+    "Contenidos y Unidades Temáticas":"Campo eléctrico\nLey de Gauss\nPotencial eléctrico\nCapacitancia y dieléctricos\nCorriente y resistencia eléctricas\nCampo magnético\nFuentes de campo magnético\nLey de Faraday\nInductancia\nCircuitos de corriente alterna\nOndas electromagnéticas",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "VI. EVALUACIÓN (¿Qué, Cuándo, Cómo?)\nPRIMERA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 6 25%\nSEGUNDA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 13 25%\nNOTA FINAL Examen final y nota de laboratorio Semana 17 y 18 30% y 20%\n\nASPECTOS PARA EVALUAR DEL CURSO\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo,\nteórica/práctica, oral/escrita.\n3. Autoevaluación:\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.",
+    
+
+    "Resultados de Aprendizaje1":"",
+    "Resultados de Aprendizaje2":"",
+    "Resultados de Aprendizaje3":"",
+    "Resultados de Aprendizaje4":"",
+    "Resultados de Aprendizaje5":"",
+    "Resultados de Aprendizaje6":"",
+  
+    "Materiales de Estudio": "BIBLIOGRAFÍA\nTEXTOS GUÍAS\nSerway - Jewett, Física para Ciencias e Ingeniería, Vol. II. Editorial Thomson, sexta edición.\nSears-Zemansky, Física Universitaria, Vol. II, Editorial Addison-Wesley, 12a Edición\nTEXTOS COMPLEMENTARIOS\nFishbane, Gasiorowicz & Thortnton, Physics for Scientists & Engineers, Second Edition\nFeynman, R., Lecturas de Física\nSears, F., Física\nHalliday, Resnick, Walter, Fundamentos de Física. Volumen 2. Sexta edición. Ed. Cecsa\nDouglas C. Giancoli, Physics: Principles with applications. 5th ed.\nJohn D. Cutnell & Kenneth W. Johnson, Physics, 4th ed.\nAULA VIRTUAL EN MOODLE:\nhttp://ingenieria.udistrital.edu.co/moodle/course/"
+}

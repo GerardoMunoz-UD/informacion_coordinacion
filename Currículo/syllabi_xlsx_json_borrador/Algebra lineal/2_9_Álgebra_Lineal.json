@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Las competencias del perfil a las que contribuye la asignatura son:\n El Algebra Lineal como una de las ramas de la Matemáticas se ocupa del estudio de los sistemas de ecuaciones lineales y las propiedades de las matrices. Este espacio académico, es de fundamental importancia en las aplicaciones de modelos lineales de la ingeniería y muchas de ellas utilizan elementos de algebra lineal tales como vectores, matrices, sistemas de ecuaciones lineales entre otros. Adicionalmente, la implementación de muchos paquetes de software requiere y están expresados en términos de conceptos de Álgebra Lineal. Este espacio académico en el proyecto de ingeniería electrónica es transversal (o permea) tanto a los espacios académicos pertenecientes a las categorías de las ciencias básicas, ciencias básicas en ingeniería, y a la de ingeniería aplicada. (Página 14 y 15 del documento proyecto educativo del programa “Proyecto Curricular de Ingeniería Electrónica” de sept 2017). \nEl estudiante debe desarrollar competencias necesarias para comprender los conceptos de sistemas de ecuaciones lineales, matrices y aplicarlos en diferentes contextos de las ciencias básicas.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nOfrecer al estudiante de Ingeniería una visión global del álgebra lineal, los fundamentos teóricos y aplicaciones, para que pueda modelar los diferentes problemas que surgen en sus cursos superiores y en su vida profesional.\n\n OBJETIVOS ESPECIFICOS\n\n1. Analizar y plantear problemas de aplicaciones, que conducen a sistemas de de ecuaciones lineales.\n2. Formular afirmaciones lógicas coherentes, esenciales en el proceso de argumentación.\n3. Diferenciar las interpretaciones geométricas de variados conceptos vectoriales.\n4. Utilizar los conceptos básicos del Álgebra Lineal para situaciones de la carrera.\n5. Usar las nuevas tecnologías de información y de comunicación.\n\n",
+    "Competencias":"Competencias que compromete la asignatura:\nBASICAS\nSe espera que a través del curso el estudiante domine e interprete el lenguaje matemático, desarrolle competencias genéricas instrumentales que le permitan diseñar, resolver y expresar situaciones que se presentan en su vida cotidiana y en el entorno profesional.\nIdentifica los sistemas lineales homogéneos y no homogéneos, para relacionar, resolver y representar situaciones problémicas.\nDefine, interpreta y conceptualiza el concepto de matriz para representar situaciones de modelado por medio de lenguaje matemático.\nEstablece el concepto de espacio Vectorial, y lo utiliza para extender el concepto usado en Física\nEstablece el concepto de transformación lineal, y relaciona el concepto para determinar la transformación asociada a una matriz.\nRelaciona los conocimientos del álgebra lineal con asignaturas como física, y modelos, y programación para solucionar problemas particulares que implican grados de abstracción.",
+    "Metodologia":"Metodología Pedagógica y Didáctica:\nExposición oral ilustrada con participación activa del estudiante en la disertación de los temas tratados para lo cual este debe desarrollar un componente de lectura dirigida por el docente. Desarrollo de talleres y casos. Lecturas de actualidad sobre economía y finanzas de los diferentes medios escritos (prensa, revistas especializadas etc.). La metodología del curso requiere que el estudiante realice la lectura previa de cada tema de clase. El docente, al iniciar la semana de clases evaluará la lectura previa mediante un quiz, o preguntas orales, sobre los temas a tratar para después ser desarrollados y aclarados por el docente utilizando como ayuda didáctica el tablero, el texto y las guías de clase. Cada tema estará acompañado de una exposición teórica y suficientes ejemplos de aplicación de manera que aclaren el porqué de los conceptos teóricos leídos y explicados. Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso, haciendo uso de la lectura previa y de la tecnología. De igual forma se propone la realización de discusiones grupales en torno a problemas específicos realizando evaluaciones periódicas con el fin de llevar el seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante.\nLos estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.",
+    
+    "Semestre": "2",
+    "Malla Renglon": "3",
+    "Código del Espacio": "9",
+    "Espacio Académico": "Álgebra Lineal",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Unidades y temáticas:\n1 Sistemas de ecuaciones lineales Eliminación de Gauss-Jordan Sistemas de ecuaciones homogéneos\n2 Vectores y matrices Operaciones de suma Producto vectorial y matricial\n3 Matrices y sistemas de ecuaciones lineales Traspuesta de una matriz\n4 Inversa de una matriz Determinantes\n5 Propiedades de los determinantes Determinantes e inversas- Regla de Cramer\n6 Vectores en el plano\n7 Vectores en R3. Producto cruz Producto cruz\n8 Rectas y planos\n9 Espacios vectoriales\n10 Subespacios vectoriales\n11 Combinación lineal e Independencia lineal\n12 Bases y dimensión\n13 Rango de una matriz Coordenadas y cambio de base\n14 Transformaciones lineales: Inyectivas, sobreyectivas e inversa. Núcleo e imagen de un TL Matriz de una T.L\n15 Valores propios y vectores propios Diagonalización\n16 Diagonalización de matrices simétricas",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "TIPO DE EVALUACIÓN FECHA PORCENTAJE\n\nPRIMERA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 6 35%\n\nSEGUNDA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 13 35%\n\nEXAMEN FINAL Parcial. Evaluación escrita y sustentación de trabajo final Semana 17 y 18 30%",
+    
+    "Resultados de Aprendizaje1":"1. Identificar el tipo de soluciones en un sistema lineal de m ecuaciones con n incógnitas.",
+    "Resultados de Aprendizaje2":"2. Resolver y argumentar correctamente la solución de problemas rutinarios y no rutinarios en la aplicación de sistemas lineales.",
+    "Resultados de Aprendizaje3":"3. Aplicar la tecnología adecuadamente en la solución de problemas que contengan matrices de sistemas lineales.",
+    "Resultados de Aprendizaje4":"4. Identificar cuando un conjunto de vectores en un espacio vectorial es linealmente independiente.",
+    "Resultados de Aprendizaje5":"5. Construir bases en un espacio vectorial dado en la solución de problemas.",
+    "Resultados de Aprendizaje6":"6. Identificar los valores y vectores propios de una matriz m por n",
+  
+    "Materiales de Estudio": "TEXTOS BÁSICOS\nGrossmann, E. Álgebra lineal. Quinta Edición. Editorial McGraw-Hill. México.\nTEXTOS COMPLEMENTARIOS\nKolman, Bernard/Hill, David R. Álgebra Lineal. 8a. Edición. Ed. Pearson. México 2006.\nApostol, Tom M. Calculus. Vol. I. segunda edición Ed Reverté. Secciones: 12.8, 12.9, 12.11 13.5, 13.11 y 13.17.\nPoole, David. Álgebra Lineal una Introducción Moderna. Thomson.\nNakos & Joyner. Álgebra Lineal con aplicaciones. Editorial Thomson 1999\nREVISTAS\nRevista Sociedad Colombiana de Matemáticas: http://www.emis.de/journals/RCM/revistas.html\nDIRECCIONES DE INTERNET\nwww.matematicas.net\nwww.dudasmatematicas.com.ar"
+}

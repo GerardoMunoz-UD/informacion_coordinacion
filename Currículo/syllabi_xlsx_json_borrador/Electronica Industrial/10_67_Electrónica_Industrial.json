@@ -1,0 +1,107 @@
+{
+    "Semestre": "10",
+    "Malla Renglon": "5",
+    "Código del Espacio": "67",
+    "Espacio Académico": "Electrónica Industrial",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "Ingenieria Electrónica",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La programación de los PLCs, resulta fundamental para integrar tecnologías eléctrica, hidráulica y neumática dentro de la automatización de los procesos industriales basados en los controladores lógicos programables, temas tratados en la Electrónica Industrial.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nDiseñar e implementar sistemas de control eléctrico involucrando tecnologías eléctrica, instrumentación, neumática-hidráulica y de PLCs y sus diferentes periféricos, utilizando programas especializados, que resuelvan problemas de características industriales.\n\n OBJETIVOS ESPECIFICOS\n\n1. Programar los controladores lógico programables en sus cinco diferentes lenguajes aplicándolos para resolver problemas de automatización y documentado sus diseños con los programas de software especializados para las simulaciones.\n2. Desarrollar diseños y resolver problemas utilizando las tecnologías hidráulica y neumática, complementando con el controlador lógico sus proyectos y solución de problemas,utilizando, también, software especializado para sus simulaciones.\n3. Aplicar en la solución de los problemas propuestos, las normas fijadas por los organismos internacionales, para todo lo referente a la automatización industrial (IEC, JIC).\n4. Resolver problemas de automatización en la industria, utilizando los conocimientos teóricos y de simulación, en procesos orientados a eventos discretos . ",
+    "Competencias":"Los proyectos y problemas propuestos como talleres de evaluación compenetrarán a los estudiantes en ambientes cercanos a la realidad en la industria y permitirán que la creatividad y habilidad en la solución de esos problemas los motive a llevar en un futuro laboral esas experiencias, puesto que los temas tratados en el espacio académico son vigentes en la industria actual. \n Igualmente se compromete a los estudiantes a trabajar en equipo preparándolo a un futuro trabajo con equipos multidisciplinarios.",
+    "Metodologia":"El desarrollo de los temas propuestos, es realizado de manera conjunta entre el docente y los estudiantes de manera planificada, siguiendo los lineamientos del área de automática, y teniendo en cuenta que para la asignatura se dispone de un libro específico del tema con todo el desarrollo del programa; se plantea la metodología basado en tres componentes:\n 1. Exposición del docente: Es la discusión del tema o temas que se exponen en la sesión, considerando la lectura previa del tema por parte de los estudiantes. Se desarrollan algunos problemas pertinentes que aclaran la parte teórica o conceptual de los temas\n2. Aula virtual: en donde se amplía el desarrollo teórico de la asignatura complementando las sesiones presenciales\n3. Talleres: se desarrollarán talleres en grupo de dos estudiantes fuera de clase, del tal forma que se fortalece el trabajo en equipo.\n4. Prácticas de laboratorios: se desarrollan cuatro prácticas de laboratorio, por grupos de dos estudiantes. Son problemas prácticos que deben ser resueltos aplicando los conocimientos reales, su experiencia y la asesoría del docente. Este tipo de laboratorio pone al estudiante en situaciones lo más cercanas a los problemas que pueden encontrar en su vida profesional.",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":"onstruir diagramas eléctricos aplicando las normas IEC y JIC. ",
+    "Resultados de Aprendizaje2":"Programar los controladores lógicos utilizando los lenguajes normalizados según norma internacional IEC61131. ",
+    "Resultados de Aprendizaje3":" Integrar tecnologías hidráulicas y neumáticas con el controlador lógico. ",
+    "Resultados de Aprendizaje4":"Explicar una red de Petri coloreada estocástica y temporizada como aplicación teórica a los Sistemas de Eventos Discretos. ",
+    "Resultados de Aprendizaje5":" ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "1. AUTOMATIZACIÓN INDUSTRIAL: Teoría y Laboratorio. Humberto Gutiérrez. 2ª Edición. 2012 (texto guía)\n2. Manuales de operación FESTO\n3. Manuales Modicom PLC Telemecanique\n4. Manuales PLC Siemens\n5. Manuales Automation Studio\n 6. Manuales PLC ABB"
+}

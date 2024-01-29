@@ -1,0 +1,102 @@
+{
+    "Semestre": "10",
+    "Malla Renglon": "11",
+    "Código del Espacio": "68",
+    "Espacio Académico": "Bioingeniería III",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Radiaciones ionizantes\n Mediciones de radiaciones ionizantes\n Espectro electromagnético y ubicación de las radiaciones ionizantes \nPrincipios de la radiación ionizante. Normatividad \nMedicina nuclear",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Proyecto curricular": " Ingenieria Electrónica ",
+  "Plan de Estudios": "",
+  "Nombre del docente": "",
+  "Justificacion Del Espacio": "El curso analiza los diferentes procesos del tratamiento de señales médicas basadas en radiaciones ionizantes y no ionizantes con el estudio de instrumentos y equipos utilizados para la construcción de imágenes diagnósticas médicas. Se estudian los diferentes efectos en el cuerpo humano de las radiaciones ionizantes y de las radiaciones no ionizantes. Se repasan las diferentes normatividades vigentes en el mundo y en especial en Colombia para la prevención de enfermedades originadas por las radiaciones ionizantes y no ionizantes.",
+  "Objetivos":"OBJETIVOS GENERAL\n\nProporcionar al estudiante los fundamentos teóricos necesarios para la conceptualización de las radiaciones ionizantes y no ionizantes y los diferentes equipos e instrumentos empleados para la medición de esas radiaciones. \n\nOBJETIVOS ESPECIFICOS\n\n Estudiar las radiaciones ionizantes RI\nEstudiar las radiaciones no ionizantes RNI\nEstudiar los diferentes procedimientos para la medición de las RI, y las RNI\nEstudiar los diferentes equipos utilizados en la medición de las RI y las RNI\nConsultar las diferentes normatividades nacionales e internacionales establecidas en el control y prevención de contaminación por RI y por RNI.\nEstudiar los equipos empleados en Medicina Nuclear.",
+  "Competencias":"",
+  "Metodologia":"Esta asignatura está distribuida así: - Cuatro horas semanales teóricas en las que el profesor explica y aclara los tópicos correspondientes al tema, - Dos horas quincenales de taller en las que se aplica la teoría vista en clase, mediante conformación de grupos de trabajo cooperativo que discuten, argumentan y concluyen acerca de cada uno de los problemas del taller",
+    
+    "Recursos":"Medios y Ayudas: \nSala de cómputo donde se trabajan paquetes matemáticos como el maple, el derive, entre otros. \nTalleres diseñados por el profesor para ser aplicados cada 15 días como refuerzo y retroalimentación de los temas vistos.\nLas TICS.\nLibros especializados",
+
+
+  "Resultados de Aprendizaje1":"Explicar qué es la radiactividad y cómo se produce.  ",
+  "Resultados de Aprendizaje2":"Describir la presencia de la radiactividad en la naturaleza ",
+  "Resultados de Aprendizaje3":"Definir conceptos fundamentales: vida media, series radiactivas e isótopos",
+  "Resultados de Aprendizaje4":" Describir el modelo del núcleo atómico (modelo de capa, modelo de gota líquida, números mágicos). ",
+  "Resultados de Aprendizaje5":" Describir los procesos de desintegración, las reacciones nucleares y la fisión.",
+  "Resultados de Aprendizaje6":"Esbozar ejemplos típicos de cómo se utiliza la radiactividad en la investigación y la industria. ",
+  
+  "Materiales de Estudio": "INTRODUCCIÓN A LA BIOINGENIERÍA. Varios autores. Ed. Marcombo. Mundo Electrónico"
+}

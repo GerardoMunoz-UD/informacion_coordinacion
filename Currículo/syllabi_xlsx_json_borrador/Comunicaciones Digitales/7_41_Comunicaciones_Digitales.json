@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La actual sociedad del conocimiento requiere de grandes intercambios de información. Los sistemas de comunicaciones, el procesamiento digital de señales, y el desarrollo y evolución de los sistemas de telecomunicaciones; permiten satisfacer la demanda de estas necesidades para bienestar de la sociedad.\nConocimientos previos:\nEl estudiante debe tener conocimientos claros de las siguientes temáticas:\nProbabilidad.\nAnálisis de señales.\nElectrónica analógica\nComunicaciones analógicas.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEstudio y comprensión de sistemas de comunicaciones utilizados en la transmisión de señales discretas con contenido de información.\n\nOBJETIVOS ESPECIFICOS\n\nComprender los procesos de muestreo y cuantización de señales con contenido de información.\nEntender los procesos de modulación a partir de señales discretas y con contenido de información.\nEstudiar el espectro y los requerimientos de ancho de banda para la transmisión de señales discretas con contenido de información.\nComprender el comportamiento de los sistemas de comunicaciones digitales en ambientes ruidosos.\nEntender el propósito y las diversas técnicas de codificación de señales.\nAdquirir conocimientos básicos de diversos tipos de interfaces utilizadas en los sistemas de comunicaciones digitales.\n\n",
+    "Competencias":"Este espacio académico permite adquirir competencias específicas de ingeniería relacionadas con la comunicación y la transmisión de datos, permitiendo al estudiante abordar temáticas más especializadas en las áreas de Telecomunicaciones, Telemática, Redes de datos, etc; las cuales hacen parte del ejercicio profesional.",
+    "Metodologia":"El curso es desarrollado por el estudiante y orientado por el profesor. El estudiante debe conocer las temáticas a tratar con anterioridad y posteriormente ser desarrolladas en conjunto con el docente.\n Como parte de las actividades realizadas en el proceso de aprendizaje, se realizan talleres y laboratorios con el propósito de afianzar los conocimientos de la asignatura.",
+  
+    "Semestre": "7",
+    "Malla Renglon": "2",
+    "Código del Espacio": "41",
+    "Espacio Académico": "Comunicaciones Digitales",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas":"1. Repaso básico de teoría de señales.\n2. Fundamentos de los sistemas de comunicaciones digitales.\n3. Transmisión de información en sistemas básicos de comunicaciones digitales.\n4. Consideraciones de banda base y ancho de banda de señales discretas con contenido de información.\n 5. Modulación y demodulación en comunicaciones digitales.\n 6. Ruido en sistemas de comunicaciones digitales.\n 7. Códigos.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+
+    "Resultados de Aprendizaje1":"Comprender y entender el espectro y ancho de banda relacionados con los sistemas de comunicaciones digitales",
+    "Resultados de Aprendizaje2":"Identificar y reconocer los bloques constitutivos de los sistemas de comunicaciones digitales",
+    "Resultados de Aprendizaje3":"Elaborar e implementar codificadores y decodificadores para sistemas de transmisión digital",
+    "Resultados de Aprendizaje4":"Diseñar e implementar moduladores y demoduladores utilizados en transmisión digital",
+    "Resultados de Aprendizaje5":"Entender las características y aplicaciones de diferentes tipos de sistemas de comunicaciones digitales",
+    "Resultados de Aprendizaje6":"",
+    
+    "Materiales de Estudio": "Textos Guías\nSistemas de comunicaciones digitales y analógicos. LEON W. COUCH II, Pearson Education.\nCommunication Systems Engineering. JOHN G. PROAKIS, Prentice Hall.\nCommunication Systems. A. BRUCE CARLSON, Mc Graw Hill.\nCommunication Systems. SIMON HAYKIN, John Wiley & Sons, Inc.\nTextos Complementarios\nSistemas de Comunicación. FERREL G. STREMLER, Alfaomega.\nDigital and Analog Communication Systems. K. SAM SHANMUGAM, John Wiley & Sons, Inc.\nRevistas\nIEEE Communications."
+}

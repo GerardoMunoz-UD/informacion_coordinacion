@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La formación profesional del Ingeniero Electrónico egresado de la Universidad Distrital, exige el dominio de las temáticas relacionadas con el procesamiento, adecuación y transporte de información tanto analógica como digital. Este espacio académico en particular aborda los principales aspectos relacionados con el tratamiento de las señales analógicas, desde un punto de vista tanto analítico como técnico, e incorpora los planteamientos prácticos necesarios para afianzar los conceptos teóricos abordados.\n El curso de Comunicaciones Analógicas provee una introducción a los métodos básicos de la modulación analógica en presencia de ruido desde el punto de vista matemático y de simulación. El curso expone al estudiante a una gama amplia de problemas de aplicación y análisis tanto en el dominio del tiempo como de la frecuencia que facilita la comprensión del material de estudio y el desarrollo de pensamiento lógico. El contenido cubre los principios fundamentales de una modulación en banda base hasta el análisis del comportamiento de los 7 X diferentes métodos de modulación en un entorno no determinístico modelado con criterios probabilísticos. \n En este curso se promueve la solución en grupo de problemas con énfasis en el cálculo matemático.\n Al término del curso el alumno estará preparado para aplicar sus conocimientos tanto en cursos más avanzados de la carrera como en la práctica profesional relacionados con el diseño y análisis de sistemas de comunicación analógicos.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEl estudio, comprensión y modelamiento de sistemas de telecomunicaciones para la transmisión de señales de tipo analógico.\n\nOBJETIVOS ESPECIFICOS\n\nEstudiar los modelos de redes de radiofrecuencia pasivos y activos que conforman los sistemas de telecomunicaciones analógicos.\nAnálisis de señales aplicadas a las comunicaciones.\nEstudio de los procesos de modulación de señales analógicas.\nModelar y construir circuitos y bloques para sistemas de comunicaciones.\n\n",
+    "Competencias":"Ciudadanas\nEl estudiante está en capacidad de desarrollar trabajo en equipo, capacidad de comunicaciones y en especial el manejo pacifico de conflictos, velando por los derechos propios y de sus conciudadanos.\nCognitivas\nEl estudiante puede modelar y organizar infraestructuras óptimas de sistemas de comunicación analógicos en complemento con las asignaturas asociadas al área de comunicaciones.\nInvestigativas\nEl estudiante podrá adelantar investigaciones relacionadas con los sistemas de telecomunicaciones en búsqueda de nuevos modelos, configuraciones sistemas diseños, aplicables al contexto del área.\n Profesionales La temática abordada en la asignatura da las bases conceptuales para la formación como Ingeniero Electrónico con conocimientos en el área de las telecomunicaciones.",
+    "Metodologia":"Metodología Pedagógica y Didáctica:\n El curso es desarrollado fundamentalmente por el estudiante pero orientado por el profesor.\nPara ello se da una guía acerca de cada tema y se asigna el material para estudio con ejercicios, los cuales deberá preparar cada estudiante para la siguiente clase; en ella, el profesor evalúa la asimilación del tema a través de talleres por grupos de estudiantes y evaluaciones individuales. En resumen, es esencial la participación activa de cada estudiante en clase para lograr los objetivos planteados para esta asignatura.\n Cada grupo de estudiantes se les asignaran los proyectos de laboratorio, el cual se desarrollan en el transcurso de periodo académico, finalizando con la integración de bloques en la creación de un sistema de comunicaciones.",
+  
+    "Semestre": "6",
+    "Malla Renglon": "2",
+    "Código del Espacio": "35",
+    "Espacio Académico": "Comunicaciones Analógicas",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Introducción a los sistemas de radio comunicación.\n 2. Transformación y acople de impedancias.\n3. Amplificadores de radio frecuencia de pequeña señal.\n 4. Osciladores\n5. Amplificadores de radio frecuencia de potencia.\n6. Densidad espectral de potencia y ruido\n7. Comunicación banda base.\n8. Señales pasa-banda.\n9. Procesos de modulación analógica.\n10. Ruido e interferencia en sistemas pasabanda.\n11. Modulación AM.\n12. Modulación FM\n13. Modulación PM",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "Parcial 1 5 Semana de clases 10%\nParcial 2 10 Semana de clases 10%\nParcial 3 14 Semana de clases 10%\nTalleres, Quices, Tareas, Trabajos Mensuales 20%\nExamen final y trabajo Final (3 Reportes avance) Semana de examen finales 14 semana de clases 30% y 20%",
+
+    "Resultados de Aprendizaje1":"Aplicar las ciencias exactas en el contexto de los sistemas de comunicaciones analógicos.",
+    "Resultados de Aprendizaje2":"Diseñar y perfilar experimentos de bloques y sistemas de RF",
+    "Resultados de Aprendizaje3":"Analizar e interpretar datos relacionando la teoría, la simulación y la medición.",
+    "Resultados de Aprendizaje4":"Integrar los bloques RF a los sistemas de comunicaciones, dentro de un colectivo, para dar soluciones de acuerdo a las necesidades del entorno, teniendo en cuenta los factores económicos, ambientales y de sostenibilidad.",
+    "Resultados de Aprendizaje5":"Proponer y participar de proyectos transversales, con participación efectiva en equipos multidisciplinarios.",
+    "Resultados de Aprendizaje6":"Actualizarse permanentemente de los avances de la Ciencia, como también del contexto social y de los problemas contemporáneos.",
+    
+    "Materiales de Estudio": "TEXTOS Guías\nCHRIS BOWICK. “RF Circuits design”. Editorial SAMS.\nLEON COUCH Sistema de comunicaciones digitales y análogas. PRENTICE HALL.\nH. KRAUSS, C. BOSTIAN, F. RAAB. “Estado sólido en Ingeniería de Radiocomunicación”. Editorial LIMUSA.\nJOSE POVEDA, “notas de clase circuitos de radiofrecuencia en comunicaciones\n analógicas”\n\nTEXTOS COMPLEMENTARIOS\n\n A. OPPENHEIN, A. WILLSKY. “Señales y sistemas”. Editorial PRENTICE HALL.\nB. FERREL STREMLER. “Sistemas de Comunicación”. Editorial Alfa omega\nGUILLERMO GONZALEZ, Microwave Transistor Amplifiers, Analysis and Design, 2nd. Ed., Prentice Hall\n\nPUBLICACIONES:IEEE communication\nS-Parameter Design, Agilent Application Note AN 154, Agilent Technologies\nDIRECCIONES DE INTERNET\nhttp://cp.literature.agilent.com/litweb/pdf/5952-1087.pdf\nhttp://www.sss-mag.com/pdf.html"
+}

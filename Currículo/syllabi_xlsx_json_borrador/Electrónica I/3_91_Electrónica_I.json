@@ -1,0 +1,100 @@
+{
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Con este primer curso del área de electrónica analógica se adquieren las bases para construir el conocimiento en la Ingeniería electrónica. El estudiante adquiere las destrezas y conocimientos de los dispositivos de estado sólido hasta llegar al análisis y diseño, básicos, en aplicaciones con el diodo y con una etapa amplificadora en pequeña señal y baja frecuencia.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nProporcionar a los estudiantes las competencias para el análisis y diseño de las diversas aplicaciones del diodo semiconductor y para el análisis y diseño de una etapa amplificadora de pequeña señal y baja frecuencia, con transistores bipolares (BJT) y con transistores a efecto de campo (FET).\n\nOBJETIVOS ESPECIFICOS\n\nAdquirir los conceptos de la física de semiconductores, sus fenómenos y aplicaciones.\nEstudiar el Diodo semiconductor en sus diversas aplicaciones, en análisis y diseño.\nEstudio de otros dispositivos formados por la combinación de capas PN: UJT, SCR, DIAC, TRIAC.\nEstudiar el Transistor de Unión Bipolar (BJT): técnicas de polarización, configuraciones básicas, amplificadores de una etapa en pequeña señal y baja frecuencia en análisis y diseño.\nEstudiar los diferentes tipos de Transistores de efecto de campo (FET’S), en sus tres configuraciones en una etapa amplificadora, en análisis y diseño.\nEstudiar el transistor como conmutador y la aplicación en las tecnologías TTL y CMOS.\nVerificar los circuitos analizados o diseñados con la aplicación de programas de simulación y su respectiva implementación práctica en el laboratorio.\n\n",
+    "Competencias":"Básicas:\n- Analizar, diseñar y elegir elementos y alternativas para una aplicación particular con diodos semiconductores y con una etapa amplificadora.\n- Capacidad del estudiante para comprender los siguientes cursos de esta línea de conocimiento, dado que proporciona las bases para analizar un microcircuito.\n- Manejo y destreza en la simulación manipulación de los equipos apropiados para verificar los circuitos analizados o diseñados.\n- Creación de circuitos para aplicaciones básicas. \n Investigativas:\n- Aplicación de software de simulación, características de los equipos de laboratorio y características de cada dispositivo semiconductor a implementar.\nLaborales:\n- Experiencia del trabajo en equipo, destrezas para la simulación y la práctica, herramientas de creatividad y solución a problemas en el área.",
+    "Metodologia":"Cátedra magistral: A cargo del docente sobre los temas del curso, planteando y solucionando problemas que aclaren y enriquezcan el tema tratado. Los estudiantes cuentan en las aulas virtuales, con los apuntes de clase para traer conceptos previos a cada sesión de clase o para revisar los temas tratados.\nTareas: Al finalizar cada sesión de clase se plantean ejercicios sobre el tema tratado, como un refuerzo sobre el mismo. Igualmente, se propone la búsqueda de ejercicios en los textos de bibliografía.\nSesiones de laboratorio: En las aulas virtuales semanalmente se propone una práctica sobre los temas tratados, con la finalidad de verificar lo impartido en la clase teórica e implementar y verificar los diseños o análisis específicos sobre los temas vistos, con la dirección del docente, pero con la libertad del trabajo autónomo del grupo.\nTrabajo autónomo: El estudiante se enfrenta, solo o en grupo según el libremente lo elija, a la recapitulación, o resolución, o ambos, de las temáticas o interrogantes planteados alrededor de la asignatura. En este espacio el eje del modelo es el aprender haciendo, investigando y recapitulando, todo ello alrededor de las inquietudes u obligaciones exigidas desde el aula o desde el laboratorio.\n Aulas virtuales: Espacio virtual con el que se cuenta en la universidad, para que el estudiante consulte las notas de clase del docente, o pueda realizar una comunicación con el docente.",
+ 
+    "Semestre": "3",
+    "Malla Renglon": "5",
+    "Código del Espacio": "91",
+    "Espacio Académico": "Electrónica I",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Unidad 1: Introducción a los semiconductores. Unión PN no polarizada.\nUnidad 2: Diodo semiconductor, curva v-i, recta de carga. Aplicaciones, análisis y diseño: Rectificador, recortador, sujetador, regulador. Otros dispositivos formados por combinación de capas semiconductoras P y N: UJT, DIAC, SCR, TRIAC.\nUnidad 3: Transistores de Unión Bipolar (BJT’S) Transistores de efecto de campo (FET’S). Técnicas de polarización resistiva y con fuentes de corriente. Análisis y diseño.\nUnidad 4: Modelo equivalente en pequeña señal de BJT y FET. Análisis y diseño.\nUnidad 5: Transistor en conmutación.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "Evaluación del estudiante:\nLa evaluación es cuantitativa, pero involucra procesos y técnicas que permiten deducir aspectos cualitativos de la apropiación del conocimiento hecha por el estudiante. La evaluación es continua durante el proceso de enseñanza-aprendizaje y es aprovechada para hacer una realimentación permanente sobre los aspectos evaluados y así mismo obtener una crítica en la metodología empleada y el nivel de captación de los conceptos transmitidos. Se intenta que la evaluación este orientada a medir el nivel de comprensión y la adquisición de conocimientos antes que valorar numéricamente los resultados de las pruebas.\n\nTIPO DE EVALUACIÓN FECHA\n\nPORCENTAJE\n\nPRIMERA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 6\nSEGUNDA NOTA Talleres, Trabajos, Quiz, Parcial Hasta semana 13\n\nLABORATORIO Toma e interpretación de datos, diseño, montaje, uso instrumentos de medida 20 %\n\nEXAMEN FINAL Parcial. Evaluación escrita y sustentación de trabajo final Semana 17 y 18 30%\n\nEvaluación del curso\n\nAspectos:\nEvaluación del desempeño docente\nEvaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupal, teórica/práctica, oral/escrita.\nAutoevaluación.\nCoevaluación del curso: de forma oral entre estudiantes y docente.",
+
+    "Resultados de Aprendizaje1":"Dominar los conceptos, los procesos y los términos empleados en la electrónica básica y la desarrollada con semiconductores.",
+    "Resultados de Aprendizaje2":"Analizar circuitos electrónicos básicos apoyados en diodos y/o transistores (bipolares y FET).",
+    "Resultados de Aprendizaje3":"Diseñar etapas básicas de circuitos electrónicos apoyados en diodos y/o transistores (bipolares y FET).",
+    "Resultados de Aprendizaje4":"Identificar aplicaciones analógicas y de conmutación de los circuitos desarrollados con semiconductores.",
+    "Resultados de Aprendizaje5":"Utilizar modelos equivalentes de apoyo en el diseño y en el análisis tanto de circuitos a diodos como de circuitos a transistores.",
+    "Resultados de Aprendizaje6":"",
+    
+    "Materiales de Estudio": "Textos guía :\nSAVANT RODEN & CARPENTER Diseño electrónico. Addison Wesley Iberoamericana. Segunda edición. Wilmington Delaware, USA 1992.\nROBERT R. MALIK Circuitos Electrónicos, Análisis Simulación y Diseño.\nRICHARD C. JAEGER & TRAVIS M. BLALOCK Diseño de Circuitos Microelectrónicos.\nDONALD L. SCHILLING & CHARLES BELOVE Circuitos Electrónicos Discretos e integrados. Segunda edición . Marcombo S.A. Barcelona, 1085.\nBOYLESTAD ROBERT & LOUIS NASHELSKY. Electrónica teoría de circuitos. Prentice Hall, 2003.\nSEDRA/ SMITH. Microelectronic Circuits. Fifth edition.Oxford Universty Press. USA, 2004."
+}

@@ -1,0 +1,108 @@
+{
+    "Semestre": "7",
+    "Malla Renglon": "5",
+    "Código del Espacio": "45",
+    "Espacio Académico": "Electrónica de Potencia",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Semiconductores de potencia, limitaciones de corriente y tensión\n    2. Rectificadores no controlados y controlados.\n    3. Convertidores conmutados DC/DC.\n    4. Convertidores conmutados DC/AC\n    Aplicaciones adicionales (Opcional) \n    Soft switching (Opcional)\n    ",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El control y conversión de la energía eléctrica va desde muy bajas potencias, como en el caso de cargadores de baterías y convertidores electrónicos de potencia presentes en dispositivos portátiles como teléfonos móviles y PDAs, hasta los centenares de MW presentes en sistemas de transmisión de energía eléctrica.\nDentro del área de competencia específica de la Ingeniería Eléctrica, es posible encontrar aplicaciones que van desde el campo residencial, comercial e industrial, hasta los sistemas de transporte y los procesos de generación, transmisión y distribución.\nLas aplicaciones residenciales, comerciales e industriales pueden enmarcarse dentro de los sistemas de distribución de energía eléctrica, donde los procesos principales son de control de motores AC y DC (bombas, compresores, elevadores, robots, extrusión, etc.), Unidades de Potencia Ininterrumpida (UPSs por sus siglas en inglés), unidades de corrección de factor de potencia para cargas lineales y/o no lineales, procesos de transformación de la energía eléctrica en calor (hornos de arco, calentamiento por inducción, soldadura y hornos por inducción), donde se busca una conversión eficiente de la energía eléctrica en sus distintas formas y la posibilidad de un amplio control sobre dichos procesos.\nEste espacio académico pertenece al área temática de electrónica analógica aunque requiere del manejo de conceptos y herramientas de electrónica digital.\nConocimientos de análisis matemático (ecuaciones diferenciales, ecuaciones de diferencias, transformada de Laplace, transformada de Fourier, transformada Z, métodos iterativos)\nConocimientos detallados de análisis circuital (análisis nodal, análisis de mallas, respuesta temporal y en frecuencia de circuitos pasivos, circuitos polifásicos)\nConocimientos detallados de dispositivos semiconductores (diodos, transistores de juntura, transistores de efecto de campo y tiristores)\nConocimientos detallados de circuitos integrados lineales (amplificadores operacionales) \nConocimientos detallados de circuitos integrados de señal mixta (conversores análogo digitales, conversores digital- análogos, circuitos de interfaz).",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEl debe apropiarse de los conocimientos y herramientas básicas para el análisis y diseño de convertidores y sistemas electrónicos de potencia, contando con la experiencia práctica y experimental como recurso adicional al desarrollo de la cátedra magistral. \n\n OBJETIVOS ESPECIFICOS\n\n● Establecer el papel de la Electrónica de Potencia en el manejo eficiente de la energía por medio de su transformación y administración, desarrollando los conceptos básicos de la electrónica de potencia.\n ● Diferenciar los dispositivos semiconductores de potencia como elementos fundamentales para la implementación de los diferentes tipos de convertidores, sus características, ventajas y desventajas y las tendencias futuras en cuanto a tecnologías de fabricación.\n ● Discernir las definiciones de energía y valores promedio y rms, para cargas lineales y no lineales bajo los diferentes regímenes de alimentación, de manera que los conceptos de potencia activa, reactiva y aparente, factor de potencia y distorsión armónica sean plenamente aprehendidos a la luz de los diferentes estándares internacionales de calidad de energía eléctrica.\n ● Analizar y diseñar rectificadores monofásicos y trifásicos, no controlados (basados en diodos) y completamente controlados (basados en tiristores) y comprender sus efectos negativos en la calidad de la energía eléctrica y los métodos tradicionales para control de componentes armónicas en sistemas de transmisión eléctrica.\n ● Analizar y diseñar convertidores DC/DC tradicionales y modernos, como circuitos básicos para la implementación de modulación PW M en alta frecuencia y estudiar sus características y funcionamiento en modo de conducción continuo (CCM) y modo de conducción discontinuo (DCM).\n ● Analizar y diseñar inductores y transformadores en alta frecuencia para los diferentes tipos de aplicaciones en Electrónica de Potencia.\n ● Analizar y diseñar convertidores DC/DC empleados en aplicaciones que requieren aislamiento galvánico y/o desplazamiento de nivel y comprender sus diferentes topologías, características y funcionamiento.\n ● Analizar y diseñar inversores monofásicos, trifásicos y multinivel y estudiar sus características y funcionamiento, haciendo énfasis en la generación de formas de onda sinusoidales a frecuencias de red eléctrica.\n ● Analizar las características y funcionamiento de los convertidores AC/AC, principalmente en aplicaciones de compensación VAR y topologías modernas.\n ● Analizar y diseñar las topologías empleadas para la corrección del factor de distorsión generado por cargas no lineales (específicamente rectificadores), como una soluciónpara aplicaciones de baja y media potencia.",
+    "Competencias":"Cognitivas. Principio de funcionamiento de los dispositivos semiconductores de potencia. Configuraciones típicas de los convertidores conmutados de potencia y circuitos de manejo de compuerta.\n Proponer y diseñar soluciones para el manejo de la energía eléctrica aplicando las nuevas tecnologías y semiconductores modernos.\n  Modelado básico de los sistemas de conversión de energía para adaptarlos a sistemas de administración, corrección y adaptación a cargas tanto lineales como no lineales.\n Investigativas. Planteamiento y resolución de problemas reales. Valoración de aplicacioneselectrónicas de potencia a través del cálculo y diseño. Interpretación de documentación técnica. Empleo de técnicas de simulación electrónica. Realización de mediciones y cálculos relacionados con la Electrónica de Potencia.\n Laborales. Capacidad para la comunicación. Aprendizaje autónomo. Adoptar un planteamiento estructurado y ordenado para analizar y resolver problemas. Capacidad para la organización y planificación. Trabajo en equipo.",
+    "Metodologia":"- Clase magistral: Impartida por el docente y con el complemento de lecturas y simulaciones por parte de los estudiantes.\n - Laboratorios: Como soporte y complemento a la clase magistral, se desarrollarán una serie de prácticas de laboratorio con el fin de familiarizar al estudiante con fenómenos presentes en las mismas, cuyo modelado matemático escapa de los objetivos del presente curso.\n - Proyecto semestral: Con el fin de fomentar y evaluar la capacidad de diseño de los estudiantes. \n- Énfasis en control digital: Como objetivo secundario del curso, incentivar la implementación por medio de microcontroladores y/o DSPs de las etapas de control para el laboratorio y el proyecto semestral, como parte de las nuevas tendencias de desarrollo a nivel mundial y como preparación para las asignaturas de control del proyecto curricular.",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":" Diferenciar los dispositivos semiconductores de potencia y sus características como elementos fundamentales para la implementación de los diferentes tipos de convertidores. ",
+    "Resultados de Aprendizaje2":" Reconocer los diferentes métodos de conversión de energía, así como sus principales requerimientos, procesos de diseño y dimensionamiento y parámetros de rendimiento. ",
+    "Resultados de Aprendizaje3":" Adaptar el sistema de conversión de energía de acuerdo a los requerimientos de carga y fuente de alimentación. ",
+    "Resultados de Aprendizaje4":"Justificar la selección adecuada de componentes y decisiones de diseño dentro de la implementación de convertidores de potencia. ",
+    "Resultados de Aprendizaje5":"Demostrar el dominio de las técnicas y procedimientos para la implementación de circuitos electrónicos de potencia. ",
+    "Resultados de Aprendizaje6":" Construir circuitos de conversión electrónica que cumpla con los requerimientos de diseño ",
+    
+    "Materiales de Estudio": "HART, DANIEL W . Electrónica de Potencia. Prentice Hall, 1997. ERICKSON, ROBERT W .;\nMAKSINOVIC, DRAGAN. Fundamentals of Power Electronics. Kluwer Academic Publishers Group, 2001.\n MOHAN, NED; UNDELAND, TORE M.; ROBBINS, W ILLIAMS P. Power Electronics -  Converters, Applications, and Design. John W iley & Sons, Inc, 1995.\n RASHID, MUHAMMAD H. Electrónica de Potencia - Circuitos, Dispositivos y Aplicaciones.  Prentice Hall.\n RASHID, MUHAMMAD H. Power Electronics Handbook. Academic Press, 2001.\nSKVARENINA, TIMOTHY L. The Power Electronics Handbook. Industrial Electronics Series,  CRC Press LCC, 2002.\n BOSE, BIMAL K. Modern Power Electronics and AC Drives. Prentice Hall, 2002. EIBAR, EUITI.\nIntroducción a la Electrónica de Potencia. MAZDA, FRAIDOON. Power Electronics Handbook. Newnes, 2003.\n ACHA, E.; AGELIDIS, V. G.; ANAYA-LARA, O.; MILLER, T. E. Power Electronic Control in Electrical Systems. Newnes Power Engineering Series, 2002\n MARTINEZ G., SALVADOR; GUALDA G., JUAN ANDRES. Electrónica de Potencia – Componentes, topologías y equipos. Thomson, 2006.\n GABRIUNAS, VYTAUTAS. Apuntes en clase. Universidad Distrital “Francisco José de Caldas”.\n GUACANEME JAVIER. Notas de clase.Universidad Distrital “Francisco José de Caldas” 2020"
+}

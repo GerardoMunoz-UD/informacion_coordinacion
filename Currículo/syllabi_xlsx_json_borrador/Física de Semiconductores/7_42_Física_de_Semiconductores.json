@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La electrónica es la ciencia que estudia la interacción entre los electrones y otras partículas cargadas con campos eléctricos, magnéticos y electromagnéticos, y se basa en la física de los dispositivos electrónicos y equipos (al vacío, semiconductores y otros), utilizados para la transmisión, procesamiento y almacenamiento de la información.\n Las principales orientaciones de desarrollo de la electrónica son: vacío, de estado sólido y la electrónica cuántica.\n La Física de Semiconductores estudia los problemas relacionados con las propiedades de materiales sólidos (semiconductores, dieléctricos, etc.), la influencia de las impurezas en estas propiedades y las características estructurales del material de estudio, las propiedades de superficies e interfaces entre las capas de diferentes materiales, la creación de regiones del cristal con diferente conductividad, la creación de heterouniones, la creación de dispositivos de microelectrónicos y nanoelectrónicos (nanoelectrónica).\nLas principales áreas de la electrónica de estado sólido son: electrónica de semiconductores asociados con el desarrollo de varios tipos de dispositivos semiconductores y la microelectrónica asociados con el desarrollo de circuitos integrados.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nConocer las propiedades eléctricas, ópticas de los sólidos desde las leyes de la Física Moderna y la Mecánica Cuántica Estudiar y valorar el efecto de los parámetros físicos (temperatura concentración de impurezas, etc.) sobre las propiedades eléctricas y ópticas de los materiales\n\nOBJETIVOS ESPECIFICOS\n\nConocer, entender y resolver problemas de Física Moderna\nEstudiar la ecuación de Schrödinger y sus aplicaciones\nConocer la teoría de la cristalografía básica\nEstudiar las diferentes soluciones del electrón en un potencial periódico\nConocer las propiedades físicas que se derivan de la solución del electrón en un potencial periódico\nConocer el efecto del dopaje con impurezas sobre las propiedades eléctricas del material\nDesarrollar un modelo de conducción eléctrica\nConocer las leyes del transporte de carga en los sólidos\nResolver problemas sobre conducción eléctrica en función de los diferentes parámetros que la afectan\nDesarrollar y obtener modelos ideales y reales de dispositivos a partir de las leyes conocidas (Diodo de unión PN, BJT, FET, dispositivos optoelectrónicos)\n\n",
+    "Competencias":"",
+    "Metodologia":"Las actividades del aula se fundamentan en una metodología de interacción y participación entre el profesor y los estudiantes, y de los estudiantes entre sí; las explicaciones por parte del profesor y el trabajo guiado en la solución de problemas son algunas de las acciones que nos permitan ir alcanzando los logros de manera gradual. La Física es una asignatura que exige una gran capacidad de trabajo y dedicación por parte del estudiante. Para obtener los objetivos propuestos cada estudiante debe comprometerse a desarrollar una parte del trabajo individual en casa, este componente deberá complementar el trabajo del aula.",
+  
+    "Semestre": "7",
+    "Malla Renglon": "3",
+    "Código del Espacio": "42",
+    "Espacio Académico": "Física de Semiconductores",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "3",
+    "Horas Trabajo Colaborativo": "1",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "FUNDAMENTOS DE FÍSICA MODERNA\nINTRODUCCIÓN A LA MECÁNICA CUÁNTICA\nESTRUCTURA CRISTALINA\nINTRODUCCIÓN A LA MECÁNICA ESTADÍSTICA\nBANDAS DE ENERGÍA Y PORTADORES DE CARGA EN SEMICONDUCTORES\nMODELOS DE CONDUCCIÓN ELÉCTRICA EN SEMICONDUCTORES\nDISPOSITIVOS SEMICONDUCTORES\nNUEVOS DISPOSITIVOS",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "TIPO DE EVALUACIÓN\nTalleres, Trabajos, Quiz, Parcial Hasta semana 6 35%\nTalleres, Trabajos, Quiz, Parcial Hasta semana 16 35%\nExamen final Semana 17 y 18 30%\nASPECTOS A EVALUAR DEL CURSO\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n 3. Autoevaluación:\n 4. Coevaluación del curso: de forma oral entre estudiantes y docente.",
+
+    "Resultados de Aprendizaje1":"Demostrar una comprensión de los conocimientos básicos sobre la Física Moderna.",
+    "Resultados de Aprendizaje2":"Demostrar una comprensión de los conocimientos básicos sobre la Mecánica Cuántica.",
+    "Resultados de Aprendizaje3":"Demostrar una comprensión de los conocimientos básicos de la Física de Semiconductores.",
+    "Resultados de Aprendizaje4":"Demostrar habilidades de comunicación oral y escrita en la socialización de temas relacionados con los fenómenos físicos relacionados con la Física Moderna, la Mecánica Cuántica y la Física de Semiconductores.",
+    "Resultados de Aprendizaje5":"Aplicar los fundamentos de los dispositivos de estado sólido en problemas de diseño.",
+    "Resultados de Aprendizaje6":"Utilizar una amplia gama de recursos impresos, electrónicos y tecnologías de la información para apoyar su estudio sobre las leyes de la Física de Semiconductores y presentar esos resultados en el contexto de la comprensión actual de tales fenómenos físicos.",
+    
+    "Materiales de Estudio": "TEXTOS GUÍA\nStreetman B G. and Banerjee S., Solid state electron devices, Prentice-Hall, 2000.\nSze S. M., Physics of Semiconductor Devices. John Wiley & Sons. 1981.\n\nTEXTOS COMPLEMENTARIOS\nC. Kittel. Introduction to Solid State Physics, John Wiley & Sons.\nN. W. Ashcroft & N. D. Mermin, Solid State Physics, Holt-Saunders, Philadelphia, 1976.\nF. C. Brown, Física de los sólidos. Reverté, Barcelona, 1970.\nC. Kittel, Introducción a la física del estado sólido,. Reverté, Barcelona, 1976.\nJ. P. McKelvey, Física del Estado Sólido y Semiconductores, Limusa, México, 1993.\nJ. Singh. Dispositivos semiconductores, Mcgraw-Hill, 1997.\nJ. Singh. Optoelectronics: An introduction to materials and devices, Mcgraw-Hill, 1996.\nO. E. Animalu. Intermedite quantum theory of cristalline solids, Prentice Hall, 1981.\nG. W. Neudeck. The PN junction diode, Modular series on solid state devices, Adisson Wesley, 1989.\nR. A. Smith. Semiconductors, Cambridge University Press. 1982.\nO. Madelung. Physics of solid state, Springer-Verlag, 1972.\nS. Dimitriyev. Understanding Semiconductor Devices, The Oxford Series in Electrical and Computer Engineering, 2000.\nJ. T. Verdeyen. Laser Electronics, Prentice-Hall, 1994.\nMauricio García Castañeda et al., Introducción a la Física Moderna, U. N., 1988\nR. Serway, Physics for Scientists & Engineers, Saunders College Publishing, 3 Edition, 1990\nR. Serway et al., Physics for Scientists & Engineers, Saunders College Publishing, 5 Edition., 2000\n\n ARTÍCULOS\nLevi, B. G., Whats the shape of things to come in semiconductors. Physics Today, 45, pp. 17+, Sep. 1992.\nBate R. T., The quantum-effect device: Tomorrows transistor?. Scientific American, 258, pp. 96-100, Mar. 1988\nCapasso, F. & Datta, S., Quantum electron devices, Physics Today, 43, pp. 74-82, Feb. 1992.\nChang L. L. & Esaki, L., Semiconductor quantum heterostructures. Physics Today, 45, pp.36-43, Oct. 1992.\nDrummund, T. J., et al, Quantum tailored solid-states devices. IEEE Spectrum, 25, pp. 33 37, Jun. 1988. \nSundaram, M., et al., New quantum structures. Science, 254, pp. 1326.-35, Nov. 29, 1991. Crow, J. D., Optical interconnects speed interprocessor nets. IEEE Circuits and Devices Magazine, 7, pp.2O~25, Mar. 1991.\nLeheny, R. E., Optoelectronic integration: A technology for future telecommunications systems. IEEE Circuits and devices Magazine, 5, pp. 3841, May. 1989. Frensley, W. R., Gallium Arsenide transistors. Scientific American, 257, pp. 80-87, Aug. 1987.\nDambkes, H., Gallium Arsenide HEMTs for Low-Noise GHz communication engineering.\nMicroelectronics journal, 20, pp. 1-6, Sep.-Oct. 1989. Morkoc, H., The HEMT: A superfast transistor. IEEE Spectrum, 21, pp. 28-35, Feb. 1984. Drummund, T J. et al., Modulation-Doped GaAs(Al,Ga)As Heterojunction Field-Effect Transistors:\nMODFETs. Proceedings of the IEEE, 74, pp. 773-822, Jun. 1986.\n\nAULA VIRTUAL EN MOODLE:\nhttp://ingenieria.udistrital.edu.co/moodle/course/category.php?id=23&perpage=50&page=1"
+}

@@ -1,0 +1,100 @@
+{
+    "Proyecto curricular": " Ingenieria Electronica",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La física como ciencia básica, ha jugado a través de la historia un papel fundamental en el desarrollo tecnológico e industrial de las diferentes áreas aplicadas del conocimiento en particular en el desarrollo de las ingenierías. La necesidad de dar una formación científico-técnica como parte de una formación integral de los futuros ingenieros que se preparan en nuestra universidad, acorde con los objetivos generales de la profesión, el perfil deseado del estudiante y las necesidades del país, justifican el diseño de un programa de Física I encaminado a dar los conocimientos básicos de la mecánica clásica, que le permita a los estudiantes comprender, analizar e interpretar los conceptos y fenómenos primarios de la física que serán aplicados y relacionados en los siguientes cursos del área y en algunos temas de aplicación directa a la Ingeniería.",
+    "Objetivos":" OBJETIVO GENERAL \n Comprender los principios fundamentales de la mecánica newtoniana, sus aplicaciones a problemas específicos en el campo de la Ingeniería electrónica y sus limitaciones conceptuales dentro de las teorías físicas.\n\nOBJETIVOS ESPECIFICOS \n1. Estudiar los tipos de unidades que se utilizan en la física.\n2. Realizar operaciones con magnitudes escalares y vectoriales.\n3. Manejar de forma adecuada los diferentes sistemas de medición.\n4. Describir el movimiento de una partícula.\n5. Definir las leyes de Newton.\n6. Conocer y aplicar los conceptos de trabajo, potencia y energía.\n7. Distinguir cuando una fuerza es conservativa o no conservativa.\n8. Identificar las diferentes formas de energía que tiene un sistema.\n9. Aplicar correctamente el teorema del trabajo y la energía y la ley de conservación de la energía en la solución de problemas físicos.\n10. Comprender el concepto de momento lineal.\n11. Comprender las Leyes de Newton en términos del momento lineal de un sistema.\n12. Aplicar la conservación del momento lineal en la descripción del movimiento de un sistema de partículas.",
+    "Competencias":"1.Se espera que a través del curso el estudiante domine e interprete el lenguaje matemático, y desarrolle competencias genéricas instrumentales que le permitan diseñar, resolver y expresar situaciones que se presentan en su vida cotidiana y en el entorno profesional.\n2. Se espera que a través del curso, el estudiante domine e interprete el lenguaje matemático y desarrolle competencias genéricas instrumentales que le permitan diseñar, resolver y expresar situaciones que se presentan en su vida cotidiana y en el entorno profesional.\n3. Define, interpreta y conceptualiza la función para representar situaciones de modelado por medio de lenguaje matemático y la representación gráfica de la misma.\n4. Utiliza medios computacionales como un medio en la comprensión del concepto de límite para analizar y entender la continuidad y la diferenciabilidad.\n5. Comprende el concepto de diferenciabilidad como una razón de cambio instantáneo, para modelar fenómenos físicos que involucren problemáticas concretas.\n6.Relaciona los conocimientos adquiridos del cálculo diferencial con las ciencias básicas para resolver problemas relacionados con variación o cambio.",
+    "Metodologia":"Cada tema expone los fundamentos teóricos estará y suficientes ejemplos de aplicación de manera que aclaren el porqué de los conceptos teóricos explicados. Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso. De igual forma se realizan discusiones grupales en torno a problemas específicos realizando evaluaciones periódicas donde se sustentan grupalmente las soluciones con el fin de llevar el seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante. Los estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.",
+    
+    
+    "Semestre": "1",
+    "Malla Renglon": "1",
+    "Código del Espacio": "3",
+    "Espacio Académico": "Física I Mecánica Newtoniana",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Escalares y vectores.\nCinemática de una partícula.\nDinámica y estática.\nTrabajo y energía.\nImpulso y momento lineal.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje1":"1.Demostrar una comprensión de los conocimientos básicos de la Física Newtoniana.",
+    "Resultados de Aprendizaje2":"2. Demostrar habilidades de comunicación oral y escrita en la socialización de temas relacionados con la Física Newtoniana.",
+    "Resultados de Aprendizaje3":"3. Diseñar y realizar un experimento (o una serie de experimentos) que demuestren su comprensión del método y los procesos científicos.",
+    "Resultados de Aprendizaje4":"4. Demostrar competencia en la adquisición de datos utilizando una variedad de instrumentos de laboratorio y en el análisis e interpretación de dichos datos.",
+    "Resultados de Aprendizaje5":"5.Utilizar una amplia gama de recursos impresos, electrónicos y tecnologías de la información para apoyar su estudio sobre la Física Newtoniana y presentar esos resultados en el contexto de la comprensión actual de tales fenómenos físicos.",
+    "Resultados de Aprendizaje6":"6.Demostrar una comprensión profunda del enfoque analítico para modelar fenómenos de la Física Newtoniana.",
+        
+    "Materiales de Estudio":"Serway - Jewett, Física para Ciencias e Ingeniería, Vol. II. Editorial Thomson, sexta edición.\nSears-Zemansky, Física Universitaria, Vol. II, Editorial Addison-Wesley, 12a Edición\nTEXTOS COMPLEMENTARIOS\nFishbane, Gasiorowicz & Thortnton, Physics for Scientists & Engineers, Second Edition\nFeynman, R., Lecturas de Física\nSears, F., Física\nHalliday, Resnick, Walter, Fundamentos de Física. Volumen 2. Sexta edición. Ed. Cecsa\nDouglas C. Giancoli, Physics: Principles with applications. 5th ed.\nJohn D. Cutnell & Kenneth W. Johnson, Physics, 4th ed."
+}

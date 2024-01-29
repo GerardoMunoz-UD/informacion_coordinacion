@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El espacio académico que corresponde al curso de Análisis de Circuitos I y Laboratorio se constituye en base fundamental en la formación del Ingeniero Electrónico, permite la apropiación de conceptos y habilidades que permiten un buen desempeño en futuros espacios académicos de la carrera y de la vida profesional, en este espacio el estudiante, ingeniero en formación por primera vez entra en contacto con los elementos de circuito y sus relaciones, las variables y especificaciones. Uno de los objetivos más importantes es la apropiación conceptual de las tres leyes fundamentales de los circuitos eléctricos: La ley de ohm, ley de corrientes y de voltajes de Kirchhoff, a partir de ellas y de los conceptos básicos se promueve el aprendizaje de los diferentes métodos de análisis y síntesis de circuitos eléctricos, se apropia de los diferentes métodos de análisis de circuitos, se aprenden los teoremas básicos de circuitos, todo esto con fuentes de energía DC o de corriente directa durante gran parte del curso. Al final se estudian los elementos almacenadores de energía en régimen transitorio.\nFinalizado el curso se espera que los estudiantes desarrollen habilidades tales como, capacidad de resolución de problemas, capacidad de análisis de diferentes tipologías de redes eléctricas, capacidad de trasladar el conocimiento, desarrollo de capacidad para aprender a aprender, desarrollo de pensamiento crítico, capacidad de trabajo en equipo, capacidad de escribir informes de calidad y de transmitir oralmente su conocimiento.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nAnalizar (por parte del estudiante), diferentes tipos de redes eléctricas, utilizando adecuadamente los conceptos básicos y las leyes fundamentales de los circuitos eléctricos, de manera tal que comprenda ampliamente las relaciones energéticas en cualquier circuito.\n\nOBJETIVOS ESPECIFICOS\n\nComprender los conceptos básicos, energía, carga, corriente, voltaje y potencia.\nEstudiar y comprender los elementos de circuitos: Fuentes ideales energía y resistencia.\nModelar la resistencia como un elemento de circuito a través de la ley de ohm.\nComprender las leyes de corriente y voltaje de Kirchhoff.\nAnalizar equivalentes serie-paralelo de resistencias (como resultado de la aplicación de las leyes Kirchhoff).\nAplicar los teoremas de circuitos (como consecuencia de la linealidad de los sistemas circuitales).\nEvaluar los métodos de análisis de circuitos: Análisis de malla, análisis de nodos y enfatizar que son consecuencias de la aplicación de leyes básicas antes mencionadas.\nAnalizar otros elementos de circuito como la bobina y el condensador.\nAnalizar circuitos RL, RC y RLC en régimen estable y transitorio en DC.\n\n",
+    "Competencias":"Generales: Al finalizar el espacio académico el estudiante poseerá habilidades tales como resolución de problemas, diseño y análisis de sistemas eléctricos básicos y trabajo en equipo. \nCognitivas:\n1.Desarrollo de pensamiento crítico.\n2. Capacidad de trasladar el conocimiento.\n3. Capacidad para aprender a aprender.\n4.Capacidad de comunicación y redacción en contexto.\n5.Enuncia y aplica los teoremas básicos de circuitos.\nProcedimentales:\n1.Diseño de experimentos que permita verificar las relaciones teórico – prácticas.\n2. Capacidad de trabajo en equipo.\n3. Capacidad para redactar informes escritos de calidad.\n4. Desarrollo de habilidades para presentar informes orales de calidad y contextualizados.\n5. Desarrollo de actitudes críticas, analíticas y reflexivas.\n6.Desarrollo de habilidades para aprender de manera autónoma.",
+    "Metodologia":"El curso metodológicamente requiere que el estudiante realice la lectura previa de cada tema de clase, realice las tareas y ejercicios que el docente le proponga como trabajo independiente. El docente realizará exposiciones magistrales y se aclarará los temas centrales de la problemática, utilizando como ayuda didáctica el tablero, el texto y las guías de clase. Cada tema estará acompañado de una explicación y la realización de muchos ejercicios de manera que aclaren el porqué de los conceptos teóricos dados. Se incentivará la participación de los estudiantes con la resolución de ejercicios en clase, realización de prácticas de laboratorios y proyectos que incentiven la innovación y el trabajo en grupo.",
+
+    "Semestre": "2",
+    "Malla Renglon": "4",
+    "Código del Espacio": "14",
+    "Espacio Académico": "Análisis de Circuitos I y Laboratorio",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Conceptualización de carga, corriente, Voltaje, energía y potencia.\nDefinición de elementos básicos de circuitos: Fuente Ideal de tensión, Fuente Ideal de corriente, resistencias.\nFormulación de las leyes básicas de la electricidad: Ley de Ohm y Leyes de Kirchhoff.\nAnálisis de circuitos y sus métodos: Método de mallas, Método de Nodos.\nTeoremas básicos de circuitos: Teorema de Thévenin, Teorema de Norton, Superposición, Teorema de máxima transferencia de potencia.\nAnálisis de circuitos en régimen transitorio: Circuitos de primer y segundo orden.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    
+    "Resultados de Aprendizaje1":"Comprender los conceptos básicos de carga, corriente, voltaje, potencia y energía.",
+    "Resultados de Aprendizaje2":"Conocer y utilizar los primeros instrumentos de medidas de variables eléctricas y presentar los primeros elementos de circuitos: Fuentes de voltaje y resistencias.",
+    "Resultados de Aprendizaje3":"Conocer y aplicar las leyes de OHM, KIRCHHOFF con un circuito en corriente determinado.",
+    "Resultados de Aprendizaje4":"Analizar cualquier tipo de red eléctrica con fuentes de energía DC, en estado estable y en estado transitorio.",
+    "Resultados de Aprendizaje5":"Comprender los conceptos básicos de carga, corriente, voltaje, potencia y energía.",
+    "Resultados de Aprendizaje6":"Utilizar correctamente los instrumentos de medida de variables eléctricas en resistencias, condensadores y bobinas.",
+  
+    "Materiales de Estudio": "Textos Principales\n1. Sadiku Mattew N.O. y Charles K. Alexander. Fundamentos de Circuitos Eléctricos. McGraw-Hill. 2003. 3a edición.\n2. Nilson James W. Riedel Susan Circuitos Eléctricos, Pearson Prentice Hall 7a edición.\n3. Dorf, Circuitos eléctricos introducción al Análisis y diseño. 2a Edición\n4. Hayt William, Kemerly Jack, ANALISIS DE CIRCUITOS EN INGENIERIA, Ed. McGraw Hill\n5. David Johnson, ELECTRIC CIRCUIT ANALYSIS, Prentice Hall International Ed.\n6. E. Donald E. Scott, INTRODUCCION AL ANALISIS DE CIRCUITOS: Un enfoque\n\nsistémico, Mc-Graw Hill Textos Complementarios\n\n1. Donald Scott, Introducción al Análisis de Circuitos: Un Enfoque Sistémico, McGraw- Hill. 1988.\n\n2. Joseph A. Edminister y Nahvi Mahmood, Circuitos eléctricos. 3a Edición Mc Graw Hill.\n3. Bobrow S. Leonard, ANALISIS DE CIRCUITOS ELECTRICOS, Ed. McGraw-Hill."
+}

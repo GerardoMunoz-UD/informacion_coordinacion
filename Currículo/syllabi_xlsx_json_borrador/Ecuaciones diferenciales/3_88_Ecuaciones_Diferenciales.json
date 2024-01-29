@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Las ecuaciones diferenciales tienen una importancia fundamental en las matemáticas para ingeniería debido a que muchas leyes y relaciones físicas aparecen matemáticamente en forma de ecuaciones diferenciales. Por lo tanto, se hace necesario un estudio riguroso tanto de los métodos clásicos para resolver dichas ecuaciones, como también el estudio de situaciones físicas que conduzcan al planteamiento de ecuaciones diferenciales. Este método de modelamiento es de gran práctica para cualquier ingeniero.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nAl finalizar el curso el estudiante estará en capacidad de deducir a partir de situaciones físicas típicas, las ecuaciones diferenciales lineales ordinarias de orden 1 o 2 que las modelan. Contará con herramientas que le permitan resolver estas ecuaciones usando métodos estándar de solución. Es decir, el estudiante estará en capacidad de modelar algunos problemas típicos a través de ecuaciones diferenciales ordinarias y sistemas de ecuaciones diferenciales y resolver la ecuación y el sistema de ecuaciones.\n\nOBJETIVOS ESPECIFICOS\n\nAl finalizar este curso el estudiante debe ser capaz de:\n- Plantear y resolver ecuaciones diferenciales de orden 1.\n- Resolver y plantear ecuaciones lineales de orden 2.\n- Encontrar la transformada de Laplace de funciones.\n- Determinar cuándo un problema de valor inicial tiene solución única, no tiene solución y tiene más de una solución.\n- Utilizar adecuadamente la transformada de Laplace en la solución de sistemas de orden n y en la solución de problemas de valor inicial.\n- Plantear y resolver problemas que involucran ecuaciones diferenciales ordinarias lineales de primero y segundo grado.\n\n",
+    "Competencias":"Competencias que compromete la asignatura:\nBASICAS:\n- Se espera que a través del curso el estudiante domine e interprete el lenguaje matemático, desarrolle competencias genéricas instrumentales que le permitan diseñar, resolver y expresar situaciones que se presentan en su vida cotidiana y en el entorno profesional.\n- Identifica y resuelve ecuaciones diferenciales de todos los órdenes mediante los métodos clásicos.\n- Argumenta y justifica mediante modelos de ecuaciones diferenciales problemas prácticos y teóricos específicos de las diferentes áreas de actividad de su profesión, usando lenguaje y simbología apropiada para las representaciones que requiera.\n- Reconoce y aplica la transformada de Laplace a funciones de orden exponencial.\n- Utiliza el operador transformada de Laplace y su inversa en la solución de sistemas de ecuaciones diferenciales.\n- Desarrolla habilidades y destrezas que le permiten, mediante el razonamiento, el análisis y la reflexión, resolver diversos modelos de ecuaciones diferenciales en aplicaciones como circuitos, mecánica, y problemas de análisis de variación entre otros.",
+    "Metodologia":"La metodología del curso requiere que el estudiante realice la lectura previa de cada tema de clase. El docente, al iniciar la semana de clases evaluará la lectura previa mediante un quiz, o preguntas orales, sobre los temas a tratar para después ser desarrollados y aclarados por el docente utilizando como ayuda didáctica el tablero, el texto y las guías de clase. Cada tema estará acompañado de una exposición teórica y suficientes ejemplos de aplicación de manera que aclaren el por qué de los conceptos teóricos leídos y explicados. Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso, haciendo uso de la lectura previa y de la tecnología. De igual forma se propone la realización de discusiones grupales en torno a problemas específicos realizando evaluaciones periódicas con el fin de llevar el seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante. Los estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.",    
+
+    "Semestre": "3",
+    "Malla Renglon": "3",
+    "Código del Espacio": "88",
+    "Espacio Académico": "Ecuaciones Diferenciales",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "PROGRAMA SINTETICO\n\n1. INTRODUCCION A LAS ECUACIONES DIFERENCIALES.\nDefinición de ecuación diferencial.\nClasificación de las ecuaciones diferenciales y ejemplos de problemas típicos.\n2. ECUACIONES DIFERENCIALES DE PRIMER ORDEN:\nDefinición de ecuación diferencial de primer orden.\nSolución general, particular y singular; análisis cuantitativo de las soluciones,\nExistencia de solución de una ecuación diferencial.\nEcuaciones diferenciales De variables separables, homogéneas, Exactas, Factor integrante\nLa ecuación lineal\n3. APLICACIONES DE ECUACIONES DIFERENCIALES DE PRIMER ORDEN\n4. ECUACIONES DIFERENCIALES DE SEGUNDO ORDEN Y DE ORDEN SUPERIOR.\nSolución de la ecuación diferencial lineal de orden superior\nObtención de una segunda solución a partir de una conocida.\nMétodo de los coeficientes indeterminados. Variación de parámetros.\n5. SISTEMAS DE ECUACIONES DIFERENCIALES. Solución de un sistema de ecuaciones diferenciales.\n6. TRANSFORMADA DE LAPLACE",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    
+    "Resultados de Aprendizaje1":"1. Identificar cuándo una ecuación es solución de una ecuación diferencial.",
+    "Resultados de Aprendizaje2":"2. Resolver problemas relacionados con ecuaciones diferenciales de primer orden.",
+    "Resultados de Aprendizaje3":"3. Encontrar soluciones generales en la solución de ecuaciones diferenciales de orden superior.",
+    "Resultados de Aprendizaje4":"4. Solucionar problemas de modelado que conllevan a ecuaciones diferenciales de orden superior.",
+    "Resultados de Aprendizaje5":"5. Resolver ecuaciones diferenciales utilizando transformada de Laplace.",
+    "Resultados de Aprendizaje6":"6. Resolver y argumentar correctamente la solución de problemas rutinarios y no rutinarios en la aplicación de curvas integrales y campos de pendientes.",
+  
+    "Materiales de Estudio": "DIRECCIONES DE INTERNET\n[1] Revista Sociedad Colombiana de Matemáticas: http://www.emis.de/journals/RCM/revistas.html\n[2] Electronic Journal of Differential Equations(EJDE) http://emis.matem.unam.mx/journals/EJDE/index.html\n[3] Electronic Journal of Qualitative Theory of Differential Equations(EJQTDE) http://emis.matem.unam.mx/journals/EJQTDE/index.html\n[4] Ecuaciones Diferenciales Ordinarias: http://foro.applesana.es/113/13402/ecuaciones-diferenciales-ordinarias.html\n[5] Libros E.D.: Edwards y Penney, Zill, entre otros.\n\nhttp://books.google.es/books?id=ph_Yuv_oM3oC&pg=PA437&lpg=PA437&dq=Revistas+ecuaciones+diferenciales&source=bl&ots=qY1MBtkmLF&sig=RIvZH2ERVT8hGI37i4BaXv7B-A8&hl=es&ei=cJNkStrPFIu6NYj0qPcB&sa=X&oi=book_result&ct=result&resnum=9"
+}

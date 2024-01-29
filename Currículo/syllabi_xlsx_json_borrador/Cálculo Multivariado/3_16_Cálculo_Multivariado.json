@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El cálculo multivariado es una herramienta muy importante para el ingeniero, pues optimiza modelos funcionales en los cuales el valor de una cantidad puede depender de dos o más valores, convirtiéndolo así en un instrumento matemático ideal que permite comprender, plantear y solucionar problemas relacionados con áreas, volúmenes, trabajo, flujos (de fluidos, campos magnéticos y eléctricos, campos gravitacionales, masa, etc.) En este curso se estudian los conceptos del cálculo diferencial e integral que se trabajaron en funciones de valor real, generalizados a espacios euclidianos (llamados campos escalares y vectoriales). Su importancia radica en la variedad de aplicaciones que los campos vectoriales tienen en la ingeniería, las cuales se presentan en asignaturas como electromagnetismo o mecánica de fluidos, que estructuran y capacitan a los estudiantes para su desempeño profesional. Por tanto, se debe dotar a los estudiantes de ingeniería, las herramientas que les permitan desarrollar la capacidad de análisis, planteamiento y solución de problemas reales, que requieran el manejo del cálculo diferencial e integral en varias variables. El estudiante debe desarrollar competencias necesarias para comprender los conceptos de diferenciabilidad e integrabilidad de funciones en varias variables y aplicarlos en diferentes contextos de los espacios académicos correspondientes a las ciencias básicas, y en ciencias básicas en ingeniería. (Página 14 y 15 según publicación Con Acreditación Institucional De Alta Calidad Proyecto Educativo del Programa Proyecto Curricular de Ingeniería Electrónica de septiembre de 2017).",
+    "Objetivos":"OBJETIVOS GENERAL\n\nProporcionar herramientas que permitan al estudiante de ingeniería analizar, plantear y resolver modelos que requieren el manejo de varias variables independientes en forma simultánea, a partir de la comprensión de los conceptos básicos: de derivada e integrales de campos escalares y vectoriales, en diferentes situaciones que se presentan en ingeniería.\n\nOBJETIVOS ESPECIFICOS\n\n1. Fundamentar en los estudiantes el concepto de espacio vectorial tridimensional, resaltando sus propiedades y resultados importantes que luego serán usados en temas específicos posteriores.\n2. Identificar las dos clases de funciones que se presentan en el cálculo multivariado, como son: las funciones escalares y las funciones vectoriales, mostrando primero las generalidades y propiedades de las funciones cuyos contradominos son vectores.\n3. Conceptualizar las funciones de más de una variable independiente y sus propiedades a partir del conocimiento que trae el estudiante de su curso de cálculo diferencial en lo que se refiere a dominios, límites, derivadas y valores extremos para funciones de una variable independiente.\n4. Adquirir habilidad en el manejo del cálculo de integrales dobles, integrales triples, integrales de línea e integrales de superficie haciendo uso de los diferentes métodos de integración que aprendió en su curso anterior y aplicarlo a la solución de problemas.\n5. Proporcionar una conexión entre el cálculo vectorial y el análisis de funciones de varias variables relacionando los tres grandes teoremas de cálculo vectorial con las integrales múltiples de las funciones escalares, como por ejemplo lo es, el teorema de Green e integral de línea con integrales dobles y así entender y resolver problemas que se presentan en el desempeño de su formación ó en áreas afines.\n\n",
+    "Competencias":"Se espera que a través del curso el estudiante domine e interprete el lenguaje matemático, desarrolle competencias genéricas instrumentales que le permitan diseñar, resolver y expresar situaciones que se presentan en su vida cotidiana y en el entorno profesional.\nIdentifica y grafica las diferentes superficies en el espacio, como también reconoce las propiedades fundamentales del espacio vectorial tridimensional.\nArgumenta y justifica las funciones vectoriales mediante problemas prácticos y teóricos específicos de las diferentes áreas de actividad de su profesión, usando lenguaje y simbología apropiada para las representaciones que requiera.\nReconoce y aplica las diferentes propiedades de las funciones de varias variables en lo que se refiere al análisis de derivadas parciales y diferenciales en situaciones o problemas que describen variaciones y cambios.\nDesarrolla habilidades y destrezas que le permiten, mediante el razonamiento, el análisis y la reflexión resolver los diversos modelos de integrales múltiples tratados en el curso. \nRelaciona el concepto de integración múltiple con los teoremas más importantes del cálculo vectorial para aplicarlo en las otras áreas del conocimiento y en su campo profesional.",
+    "Metodologia":"La metodología del curso requiere que el estudiante realice la lectura previa de cada tema de clase. El docente, al iniciar la semana de clases evaluará la lectura previa mediante un quiz, o preguntas orales, sobre los temas a tratar para después ser desarrollados y aclarados por el docente utilizando como ayuda didáctica el tablero, el texto y las guías de clase. Cada tema estará acompañado de una exposición teórica y suficientes ejemplos de aplicación de manera que aclaren el porqué de los conceptos teóricos leídos y explicados. Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso, haciendo uso de la lectura previa y de la tecnología. De igual forma se propone la realización de discusiones grupales en torno a problemas específicos realizando evaluaciones periódicas con el fin de llevar el seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante. Los estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.",
+    
+    "Semestre": "3",
+    "Malla Renglon": "2",
+    "Código del Espacio": "16",
+    "Espacio Académico": "Cálculo Multivariado",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "PROGRAMA COMPLETO\n\nSemana 1:\n- Coordenadas rectangulares tridimensionales, coordenadas polares (algunas curvas como cardioides, espirales, lemniscata, rosa polar, etc.).\n- Cambio de coordenadas rectangulares a coordenadas polares.\n- Vectores en R3: Producto escalar, producto vectorial, producto interno.\n\nSemana 2:\n- Rectas y planos en el espacio.\n- Superficies cuádricas y cilíndricas \n\nSemana 3:\n- Conceptos básicos de topología en el espacio.\n- Funciones vectoriales, álgebra, límites y continuidad.\n- Curvas planas y ecuaciones paramétricas, derivación e integración de paramétricas, longitud de arco y superficies de revolución.\n- Curvas en el espacio.\n\nSemana 4:\n- Derivadas e integrales.\n- Movimiento en el espacio: velocidad, aceleración, rapidez.\n- Longitud de curva, vector tangente unitario.\n\nSemana 5:\n- Funciones de varias variables: dominio, rango, curvas y superficies de nivel.\n- Límites y continuidad\n\nSemana 6:\n- Derivadas parciales, derivadas parciales de orden superior, derivación implícita, regla de la cadena\n\nSemana 7:\n- Derivadas direccionales, vector gradiente, diferenciabilidad, plano tangente y recta normal.\n\nSemana 8:\n- Valores extremos, multiplicadores de Lagrange \n\nSemana 9:\n- Integrales dobles en coordenadas rectangulares, iteradas área, volumen.\n\nSemana 10:\n- Cambio de variables en integrales dobles.\n- Integración en coordenadas polares.\n\nSemana 11:\n- Integrales triples en coordenadas rectangulares, aplicaciones.\n- Cambio de variables en integrales múltiples (integrales en coordenadas cilíndricas y en coordenadas esféricas aplicaciones).\n\nSemana 12:\n- Campos vectoriales, campos gradientes, trabajo, rotacional, divergencia.\n\nSemana 13:\n- Integral de línea, campos conservativos, integral de trabajo, teorema fundamental de integrales de línea \n\nSemana 14:\n- Teorema de Green\n\nSemana 15:\n- Integrales de superficie teorema de la divergencia o de Gauss\n\nSemana 16:\n- Teorema de Stokes",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "VI. EVALUACIÓN\n\nPRIMERA NOTA\nTIPO DE EVALUACIÓN: Talleres, Trabajos, Quiz, Parcial\nFECHA: Hasta semana 6\nPORCENTAJE: 35%\n\nSEGUNDA NOTA\nTIPO DE EVALUACIÓN: Talleres, Trabajos, Quiz, Parcial\nFECHA: Hasta semana 13\nPORCENTAJE: 35%\n\nEXAMEN FINAL\nTIPO DE EVALUACIÓN: Parcial. Evaluación escrita y sustentación de trabajo final\nFECHA: Semana 17 y 18\nPORCENTAJE: 30%",
+
+    "Resultados de Aprendizaje1":"Identificar cuándo una función en varias variables es continua.",
+    "Resultados de Aprendizaje2":"Aplicar correctamente los criterios de derivadas parciales en la resolución de problemas.",
+    "Resultados de Aprendizaje3":"Aplicar correctamente la regla de la cadena en funciones de varias variables para resolver problemas de optimización.",
+    "Resultados de Aprendizaje4":"Aplicar los teoremas de Green, stock y Gauss en la resolución de problemas.",
+    "Resultados de Aprendizaje5":"Resolver y argumentar correctamente la solución de problemas rutinarios y no rutinarios en la aplicación de integrales de línea.",
+    "Resultados de Aprendizaje6":"Aplicar la tecnología adecuadamente en la solución de problemas que contengan campos vectoriales.",
+    
+    "Materiales de Estudio": "FINNEY, THOMAS. Cálculo de varias variables. Editorial Pearson Addison-Wesley. Undécima edición.\nTEXTOS COMPLEMENTARIOS\nLEITHOLD, LOUIS. El Cálculo con geometría analítica. Editorial Harla.\nSWOKOWSKI, EARL. Cálculo con geometría analítica. Editorial Iberoamericana.\nPURCELL VARBERY RIGDON. Cálculo. Editorial Pearson, 2000.\nSTEWART, JAMES. Cálculo Multivariado. Editorial Thomson.\nAPOSTOL, TOM. Cálculo. Editorial Reverté.\nTROMBA, ANTHONY, Cálculo Vectorial. Editorial Addison-Wesley.\nDIRECCIONES DE INTERNET\nwww.stewartcalculus.com\nwww.matematicas.net\nwww.dudasmatematicas.com.ar"
+}

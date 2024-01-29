@@ -1,0 +1,100 @@
+{
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Las competencias del perfil a las que contribuye la asignatura son: Esta asignatura se encuentra inscrita en el componente de formación de las ciencias básicas definidas por el MEN y ACOFI para las ingenierías. El Cálculo Diferencial estudia el problema de la variación o cambio a través de los conceptos de límite y derivadas de una función de variable real a valor real. El concepto de derivada se interpreta como un proceso que antecede a la obtención del límite, es decir, el paso al límite de vital importancia para la interpretación geométrica y física de la derivada. Por ejemplo, la descripción rigurosa del movimiento de una partícula que se mueve a lo largo de una curva en el plano requiere definiciones formales de velocidad (no constante) y aceleración usando el concepto de la Derivada. La derivada como herramienta permite resolver problemas de máximos y mínimos, análisis de graficas de funciones y problemas de razón de cambio. La aplicabilidad de la derivada en la ingeniería surge en problemas tales como: vibraciones en sistemas mecánicos, eléctricos, y razón de cambio entre otros. El estudiante debe desarrollar competencias necesarias para comprender el concepto de la derivada y aplicarlo en diferentes contextos de los espacios académicos de las ciencias básicas. (Página 14 y 15 según publicación Con Acreditación Institucional De Alta Calidad Proyecto Educativo del Programa Proyecto Curricular de Ingeniería Electrónica de septiembre de 2017). Se sugiere que el estudiante tenga conocimientos básicos en álgebra, números reales e imaginarios puros, geometría analítica y trigonometría.",
+    "Objetivos":" OBJETIVO GENERAL \n Como espacio académico fundamental para la gran mayoría de carreras profesionales, para el futuro ingeniero electrónico, el cálculo diferencial debe considerarse como la fuente inicial que permite establecer el rigor exigido en el área de las matemáticas para Ingeniería. Para el estudiante de Ingeniería, es necesaria la introducción de formas de lenguaje rigurosas y el uso de la lógica en la argumentación. En este espacio académico se debe fortalecer la noción de Derivada y sus aplicaciones que permitan generar competencias en la solución de problemas.\n\nOBJETIVOS ESPECIFICOS \nFundamentar a los estudiantes en los aspectos teóricos del cálculo diferencial, solución de ejercicios, problemas de los textos de cálculo diferencial y en la utilización de recursos computacionales. \n 2. Fundamentar en el estudiante el concepto de función y las características del grafo de una función, de modo que relacione cada expresión analítica con un tipo de gráfica. 3. Comprender el concepto de límite y como consecuencia el desarrollo de otros conceptos tales como continuidad, convergencia de sucesiones, derivadas, variación infinitesimal y razones de cambio los cuales fundamentan el estudio del cálculo en todas sus dimensiones junto con sus aplicaciones. \n 3. Comprender el concepto de límite y como consecuencia el desarrollo de otros conceptos tales como continuidad, convergencia de sucesiones, derivadas, variación infinitesimal y razones de cambio los cuales fundamentan el estudio del cálculo en todas sus dimensiones junto con sus aplicaciones.\nDesarrollar en el estudiante habilidades en el manejo de las propiedades y las reglas de diferenciación, y en el empleo de las herramientas teóricas para la resolución de problemas relacionados con la ingeniería.",
+    "Competencias":"1.Se espera que a través del curso el estudiante domine e interprete el lenguaje matemático, y desarrolle competencias genéricas instrumentales que le permitan diseñar, resolver y expresar situaciones que se presentan en su vida cotidiana y en el entorno profesional.\n2. Se espera que a través del curso, el estudiante domine e interprete el lenguaje matemático y desarrolle competencias genéricas instrumentales que le permitan diseñar, resolver y expresar situaciones que se presentan en su vida cotidiana y en el entorno profesional.\n3. Define, interpreta y conceptualiza la función para representar situaciones de modelado por medio de lenguaje matemático y la representación gráfica de la misma.\n4. Utiliza medios computacionales como un medio en la comprensión del concepto de límite para analizar y entender la continuidad y la diferenciabilidad.\n5. Comprende el concepto de diferenciabilidad como una razón de cambio instantáneo, para modelar fenómenos físicos que involucren problemáticas concretas.\n6.Relaciona los conocimientos adquiridos del cálculo diferencial con las ciencias básicas para resolver problemas relacionados con variación o cambio.",
+    "Metodologia":" La metodología del curso requiere que el estudiante realice la lectura previa de cada tema de clase. El docente, al iniciar la semana de clases, evaluará la lectura previa mediante un quiz o preguntas orales sobre los temas a tratar. Posteriormente, se desarrollarán y aclararán por el docente, utilizando como ayuda didáctica el tablero, el texto y las guías de clase. Cada tema estará acompañado de una exposición teórica y suficientes ejemplos de aplicación para aclarar el porqué de los conceptos teóricos leídos y explicados.\nSe buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso, haciendo uso de la lectura previa y de la tecnología. Se propone también la realización de discusiones grupales en torno a problemas específicos, llevando a cabo evaluaciones periódicas para hacer un seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante.\nLos estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.",
+    
+    
+    "Semestre": "1",
+    "Malla Renglon": "2",
+    "Código del Espacio": "1",
+    "Espacio Académico": "Cálculo Diferencial",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "4",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "6",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Unidad 1: Relaciones y Funciones.\n\nConceptualización de función. Identificación de Dominio y rango de una función.\nTipos de Funciones y gráficas: lineal, cuadrática, cúbica, polinómicas, racionales, parte entera, valor absoluto, a trozos, exponencial, logarítmica, trigonométricas, pares, impares.\nOperaciones entre funciones: Adición, producto, composición (incluidas las funciones a trozos).\nDesplazamientos horizontales y verticales de las gráficas de las funciones.\nFunciones inyectivas, sobreyectivas, biyectivas, funciones inversas (incluyendo las trigonométricas). Dominio, rango, gráficas y propiedades de funciones inversas.\nFunciones como modelos matemáticos\n\n \nUnidad 2: Límites y Continuidad.\n\nAproximación al concepto de límite.\nDefinición formal de límite. Teoremas sobre límites.\nLímites laterales\nLímites al infinito y en el infinito.\nAsíntotas verticales, horizontales y oblicuas.\nContinuidad: teoremas sobre continuidad, teorema del valor intermedio\n\n\nUnidad 3: Derivadas. \n\n Definición de la derivada de una función. Derivada en un punto.\nInterpretación de la derivada como: pendiente de la recta tangente a la gráfica de una función, velocidad instantánea y como una razón de cambio.\nTeoremas sobre diferenciabilidad de funciones. (Reglas de derivación):\nDerivadas de funciones trigonométricas, exponenciales, logarítmicas y sus inversas\nDerivada de una función compuesta y Regla de la cadena. \nDerivación implícita.\nTeorema del valor Extremo, Teorema de Rolle y Teorema del valor medio\nRazones de cambio relacionadas.\n\n\nUnidad 4: Aplicaciones.\n\n Comportamiento de las funciones y sus gráficas.\nValores máximos y mínimos de funciones.\nFunciones crecientes y decrecientes, y criterio de la primera derivada.\nFunciones crecientes y decrecientes, y criterio de la primera derivada.\nConcavidad, puntos de inflexión, y criterio de la segunda derivada.\nTrazado de las gráficas de funciones y sus derivadas.\nProblemas de Optimización.\nFormas Indeterminadas y regla de L`Hopital",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje1":"1.Identificar cuándo una función es derivable. ",
+    "Resultados de Aprendizaje2":"2. Aplicar correctamente los criterios de función continua en la solución de problemas.",
+    "Resultados de Aprendizaje3":"3. Identificar cuando una relación es función.",
+    "Resultados de Aprendizaje4":"4. Relacionar el concepto de pendiente de una recta tangente con el de razón de cambio.",
+    "Resultados de Aprendizaje5":"5.Aplicar los teoremas de derivadas en la solución de problemas.",
+    "Resultados de Aprendizaje6":"6.Resolver y argumentar correctamente la solución de problemas rutinarios y no rutinarios en la aplicación de derivadas.",
+        
+    "Materiales de Estudio":"[1] James Stewart – Single Variable Calculus. 8th Edition. 2015. (Sugerido)\n[2] Tom Apostol – Calculus, Volúmenes I . 2th Edition.1975. Editorial Reverté. (Sugerido)\n[3] J. Hass, C. Heil, M. Weir - Thomas’ Calculus. 14th Edition. 2017. Editorial Pearson.\n[4] Ron Larson – Calculus. 10th Edition 2013.\n[5]M. Spivak – Calculus, 4th edición original. 2015. Editorial Reverté."
+}

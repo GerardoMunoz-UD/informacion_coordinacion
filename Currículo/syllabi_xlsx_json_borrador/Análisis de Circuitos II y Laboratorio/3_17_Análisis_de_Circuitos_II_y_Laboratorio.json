@@ -1,0 +1,101 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "AREA: ANALISIS DE CIRCUITOS.\nEl curso de circuitos II es la continuación del curso de Circuitos I por lo que es sumamente necesario haber aprendido muy bien todo lo contemplado en dicho curso, nuestro espacio académico es entonces otro pilar fundamental para los ingenieros electrónicos en formación, en este espacio académico las fuentes de energía son de AC o corriente alterna. La AC es el tipo de corriente que mueve los procesos a nivel doméstico, industrial y en telecomunicaciones, por tanto es necesario conocer sus fundamentos, forma de producirla, distribuirla y consumirla y para esto se pone a disposición del estudiante de las primeras herramientas matemáticas para el análisis de circuitos con excitación de corriente alterna, se presenta el concepto de tensión efectiva y corriente efectiva para ondas periódicas que conjuntamente con el análisis en el dominio de la frecuencia (análisis fasorial), convierten el análisis de corriente alterna en un procedimiento idéntico al aprendido con corriente directa pero ahora tratados con números complejos y el fasor, se insiste por tanto en la veracidad de las leyes básicas en el dominio fasorial, permitiendo a través de este dominio el cálculo de la potencia promedio que se genera y se consume en un proceso, evaluando por intermedio de ésta la energía consumida que es en última instancia la que mueve industrias, pone en movimiento los electrodomésticos del hogar, ilumina ciudades y pone en funcionamiento las gran infraestructura de telecomunicaciones con que hoy se dispone.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nApropiar al estudiante de los conocimientos del análisis de circuitos en corriente alterna en régimen permanente apoyándose en los fasores, tanto en el caso monofásico como trifásico, que logre entender y aplicar lo relacionado a la respuesta en frecuencia donde se analizan circuitos con excitación en diferentes frecuencias.\n\nOBJETIVOS ESPECIFICOS\n\nDefinir y comprender: Valor medio y Valor efectivo, Valor medio y efectivo de diferentes formas de onda\nAplicar y comprender: El Fasor.\nComprender la validez de las leyes de ohm y Kirchhoff en el dominio fasorial\nDefinir la resistencia, la bobina y el condensador en el dominio fasorial.\nComprender y aplicar potencia promedio, potencia reactiva, potencia aparente y potencia compleja.\nComprender el concepto de factor de Potencia.\nAnalizar las implicaciones de corregir el factor de potencia.\nAnalizar las tensiones alternas trifásicas.\nAnalizar circuitos con excitación alterna trifásica.\nAnalizar la potencia y el factor de potencia en sistemas trifásicos.\nAnalizar circuitos acoplados magnéticamente.\nComprender los fundamentos del transformador.\nAnalizar la respuesta en frecuencia de redes de primer y segundo orden (filtros).\n\n",
+    "Competencias":"Generales: Al finalizar el espacio académico el estudiante poseerá habilidades tales como resolución de problemas, diseño y análisis de sistemas eléctricos y trabajo en equipo.\nCognitivas:\n1. Desarrollo de pensamiento crítico.\n2. Capacidad de trasladar el conocimiento.\n3. Capacidad para aprender a aprender.\n4. Capacidad de comunicación y redacción en contexto.\n5. Enuncia y aplica los teoremas básicos de circuitos de corriente alterna (fasores).\n6. Capacidad para diseñar con enfoque para el desarrollo sostenible.\nProcedimentales:\n1. Diseño de experimentos que permita verificar las relaciones teórico – prácticas.\n2. Capacidad de trabajo en equipo.\n3. Capacidad para redactar informes escritos de calidad.\n4. Desarrollo de habilidades para presentar informes orales de calidad y contextualizados.\n5. Desarrollo de actitudes críticas, analíticas y reflexivas.\n6. Desarrollo de habilidades para aprender de manera autónoma.",
+    "Metodologia":"El curso metodológicamente requiere que el estudiante realice la lectura previa de cada tema de clase, realice las tareas y ejercicios que el docente le proponga como trabajo independiente. El docente realizará exposiciones magistrales y se aclarará los temas centrales de la problemática, utilizando como ayuda didáctica el tablero, el texto y las guías de clase. Cada tema estará acompañado de una explicación y la realización de muchos ejercicios de manera que aclaren el porqué de los conceptos teóricos dados. Se incentivará la participación de los estudiantes con la resolución de ejercicios en clase, realización de prácticas de laboratorios y proyectos que incentiven la innovación y el trabajo en grupo.",
+
+    "Semestre": "3",
+    "Malla Renglon": "4",
+    "Código del Espacio": "17",
+    "Espacio Académico": "Análisis de Circuitos II y Laboratorio",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Definición de valor medio y valor efectivo.\n2. Elementos básicos de circuitos: Fuente Ideal de tensión, Fuente Ideal de corriente, resistencias.\n3. Análisis de circuitos en el dominio fasorial: Análisis de malla, análisis de nodos y utilización de los diferentes teoremas.\n4. Definición de potencia compleja, potencia promedio, potencia reactiva y potencia aparente y máxima transferencia de potencia promedio en corriente alterna.\n5. Definición de factor de potencia, su corrección e implicaciones.\n6. Tensiones trifásicas: Análisis de circuitos con excitación trifásica, cál...",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "Las evaluaciones a los estudiantes son diseñadas de manera que permitan evidenciar el nivel de abstracción y conceptualización de cada uno de los temas del curso.\n\nTipo de Evaluación Fecha Porcentaje\n\nNota 1 Evaluaciones escritas o a través del aula virtual (Moodle, Suite Google, etc). 25%\n\nNota 2 Evaluaciones escritas o a través del aula virtual (Moodle, Suite Google, etc). 25 %\n\nNota 3 Evaluaciones de informes de laboratorios entregados por el aula virtual (simulación y mediciones reales). 20%\n\nNota 4 Evaluaciones escritas o través del aula virtual (Moodle, Suite Google, etc). 30 %",
+
+    "Resultados de Aprendizaje1":"Comprender y aplicar el valor medio y efectivo de ondas periódicas.",
+    "Resultados de Aprendizaje2":"Efectuar medidas en circuitos de corriente alterna y contrastar con los cálculos teóricos efectuados por el método fasorial.",
+    "Resultados de Aprendizaje3":"Trasladar el conocimiento realizando mediciones de impedancias",
+    "Resultados de Aprendizaje4":"Utilizar instrumentación básica, como amperímetros voltímetro y osciloscopios.",
+    "Resultados de Aprendizaje5":"Analizar y determinar el triángulo de impedancia a partir de mediciones de potencia promedio, potencia reactiva y potencia aparente.",
+    "Resultados de Aprendizaje6":"Evaluar el factor de potencia de una carga, corregir el factor de potencia y verificar a través de simulación e implementaciones reales.",
+    
+    "Materiales de Estudio": "Textos Principales\n1. Sadiku Mattew N.O. y Charles K. Alexander. Fundamentos de Circuitos Eléctricos. McGraw-Hill. 2003. 3a edición.\n2. Nilson James W. Riedel Susan Circuitos Eléctricos, Pearson Prentice Hall 7a edición.\n3. Dorf,Circuitos eléctricos introducción al Análisis y diseño2a Edición\n4. Hayt William, Kemerly Jack, ANALISIS DE CIRCUITOS EN INGENIERIA, Ed. McGraw Hill\n5. David Johnson, ELECTRIC CIRCUIT ANALYSIS, Prentice Hall International Edition.Ed3aR.\n6. E.DonaldE. Scott, INTRODUCCION AL ANALISIS DE CIRCUITOS: Un enfoque sistémico, Mc Graw Hill \nTextos Complementarios \nJoseph A. Edminister y Nahvi Mahmood, Circuitos eléctricos. 3a Edición Mc Graw Hill.\nRevistas \nI.E.E.E. Sociedad de circuitos. CAS \nDirecciones de Internet\nhttps://ingenieria.udistrital.edu.co/ , IEEE Xplore"
+}

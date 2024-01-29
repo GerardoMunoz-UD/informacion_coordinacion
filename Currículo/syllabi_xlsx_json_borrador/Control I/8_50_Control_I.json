@@ -1,0 +1,108 @@
+{
+    "Semestre": "8",
+    "Malla Renglon": "4",
+    "Código del Espacio": "50",
+    "Espacio Académico": "Control I",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "CAP. 1. INTRODUCCIÓN A LOS SISTEMAS DE CONTROL\n    1.1. Control de lazo abierto vs. Control de lazo cerrado\n    1.2. Aplicaciones\n    CAP. 2. ANALISIS DE ESTABILIDAD DE SISTEMAS DINAMICOS\n    2.1. Estabilidad de acuerdo a la ubicación de los polos\n    2.2. Criterio de Routh Hurwitz\n    2.3. Criterio de estabilidad de Nyquist\n    2.4. Diagramas de Bode\n    CAP. 3. ACCIONES BÁSICAS DE CONTROL\n    3.1. Introducción\n    3.2. Control Todo o Nada: ON - OFF\n    3.3. Control Proporcional: P\n    3.4. Control Proporcional - Integral: PI\n    3.5. Control Proporcional - Derivativo: PD\n    3.6. Control PID: Efectos de comportamiento y arquitecturas\n    3.7. Consideraciones de implementación\n    CAP. 4. ESPECIFICACIONES DE SISTEMAS DE CONTROL\n    4.1. Especificaciones en el dominio del tiempo\n    4.1.1. Sobrepaso máximo\n    4.1.2. Tiempo de establecimiento\n    4.1.3. Error en estado estacionario\n    4.2. Especificaciones en el dominio de la frecuencia\n    4.2.1. Margen de fase\n    4.2.2. Margen de ganancia\n    4.3. Equivalencias entre las especificaciones en el dominio del tiempo y las especificaciones en el dominio de la frecuencia\n    CAP. 5. TÉCNICA DEL LUGAR GEOMÉTRICO DE LAS RAÍCES\n    5.1. Introducción\n    5.2. Diagrama del lugar de las raíces\n    5.3. Propiedades y construcción del lugar de las raíces\n    5.4. Análisis del lugar de las raíces de sistemas de control\n    5.5. Diseño utilizando la región deseada de polos\n    5.6. Ubicación de polos utilizando el lugar geométrico de las raíces\n    5.7. Ejemplos y ejercicios\n    CAP. 6. ANÁLISIS Y SÍNTESIS EN EL DOMINIO DE LA FRECUENCIA\n    6.1. Introducción\n    6.2. Técnicas de compensación: Proporcional, adelanto, atraso, atraso-adelanto\n    6.3. Diseño de controladores PI, PD y PID\n    6.4. Ejemplos y ejercicios\n    CAP. 7. ANÁLISIS Y SÍNTESIS EN EL ESPACIO DE ESTADO\n    7.1. Conceptos básicos para el análisis en el espacio de estado\n    7.2. Controlabilidad y observabilidad de sistemas lineales\n    7.3. Ubicación de polos a través de realimentación de estado\n    7.4. Observadores de estado\n    7.5. Ejemplos y ejercicios\n    CAP. 8. LINEALIZACION DE SISTEMAS NO LINEALES\n    8.1. Linealización de la ecuación diferencial\n    8.2. Linealización de la representación de estado\n    \n    ",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Los sistemas automáticos de control se constituyen como un tema transversal con aplicaciones en diversas áreas de ingeniería, siendo actualmente vitales como parte integral de los procesos industriales de producción y manufactura, así como en las industrias automotriz, nautica, aeronautica, espacial, robótica, en equipos de entretenimiento y electrodomésticos en general. El curso aborda los fundamentos de análisis y diseño de sistemas de control en tiempo continuo en los dominios temporal, frecuencial y de espacio deestado. Se pretende desarrollar competencias en el campo disciplinar aplicadas al control de procesos, así como competencias de análisis, simulación y escritura técnica. Para realizar el  curso con éxito se debe tener los conocimientos impartidos en el curso de Sistemas Dinámicos, y algunos temas de ecuaciones diferenciales ordinarias, álgebra lineal y física, así como applicaciones que utilizan conceptos de circuitos eléctricos y electrónicos.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEl estudiante al final del curso estará en capacidad de analizar y diseñar sistemas de control en tiempo continuo con base en los conceptos desarrollados en el dominio del tiempo, de la frecuencia y del espacio de estado. OBJETIVOS ESPECIFICOS\n\nMedir el desempeño de sistemas de control en términos de estabilidad, respuesta transitoria y error de estado estacionario.\nComprender y aplicar los principios de las acciones básicas de control.\nAplicar el método del Lugar Geométrico de Raíces como técnica de análisis y diseño.\nAnalizar la respuesta frecuencial de sistemas lineales y diseñar compensadores de atraso/adelanto.\nAnalizar sistemas dinámicos en espacio de estado y plantear su control por retroalimentación de estado.\nComprender y aplicar algunas de las estrategias de linealización de sistemas no lineale",
+    "Competencias":"Transversales:\n Capacidad de organización y planificación / Razonamiento crítico / Trabajo en equipo / Aprendizaje autónomo / Comunicación oral y escrita / Motivación por la calidad y mejoramiento continuo.\n\nContexto\nReflexión sobre la influencia de tecnologías de control automático en el contexto industrial y social y el papel del ingeniero electrónico en esta área de conocimiento. \nInvitación al trabajo autónomo y compromiso social del ejercicio de la ingeniería, en especial en el área de automática. \n\nBásicas\nAnálisis matemático de desempeño de sistemas de control continuos en términos de respuesta temporal, error de estado estacionario y estabilidad.\nAplicación del método del lugar de raíces para análisis de comportamiento del sistema \nAnálisis de comportamiento, formulación e implementación de un sistema de control automático en tiempo continuo.\nArgumentación de escogencia de parámetros de desempeño y técnica de diseño de un sistema de control regulatorio para una planta lineal e invariante en el tiempo de una entrada y salida.\n Espacio de estados (observadores).\nAnálisis de sistemas de Control no lineal\nLaborales\nCaracterización básica de proceso mediante función de transferencia experimental.\nDiseño de controladores PID dependiendo de la necesidad del sistema a controlar.\nAnálisis y diseño en los dominios temporal, frecuencial y de espacio de estado de sistemas de control continuos.\nDiseño de observadores de estado de orden completo. Selección de técnicas de linealización de sistemas no lineales.",
+    "Metodologia":"Se presentan los elementos conceptuales y de ingeniería asociados a cada temática. Cada unidad es complementada con ejemplos industriales, casos de estudio, lectura y ejercicios de diseño. El último capítulo está orientado a fortalecer el autoaprendizaje, por lo que aunque el estudiante contará con el apoyo del docente, en su mayoría el desarrollo de la temática será responsabilidad del estudiante. Se incentiva el trabajo en grupo mediante un proyecto aplicado de control regulatorio de dos plantas simples.",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":" Describir las características básicas de un sistema de control y sus objetivos de diseño.",
+    "Resultados de Aprendizaje2":" Analizar la estabilidad de los sistemas de control tanto en el dominio del tiempo como en el dominio de la frecuencia. ",
+    "Resultados de Aprendizaje3":" Analizar los criterios de desempeño de los sistemas de control, tanto en la precisión como en la rapidez de respuesta del sistema, y su relación con las acciones básicas de control.  ",
+    "Resultados de Aprendizaje4":" Trazar de forma aproximada del lugar geométrico de las raíces de la ecuación característica de sistemas de control. ",
+    "Resultados de Aprendizaje5":" Utilizar el lugar geométrico de las raíces para el análisis y diseño de sistemas de control.  ",
+    "Resultados de Aprendizaje6":" Utilizar la respuesta en frecuencia para el análisis y diseño de sistemas de control.",
+    
+    "Materiales de Estudio": "CHI-TSONG CHEN, Analog and Digital Control System Design: Transfer-Function, StateSpace, and Algebraic Methods. Oxford University Press, 1993.\n NORMAN NISE, Control Systems Engineering, Sixth Edition, Wiley, 2010.\n CHARLES PHILLIPS AND ROYCE HARBOR, Feedback Control Systems, Fourth Edition, Prentice Hall, 2000.\n KATSUHIKO OGATA, Ingeniería de Control Moderna. Ed. Prentice Hall Intnal, 1998.\n GENE FRANKLIN AND BENJAMIN POWELL, Feedback Control of Dynamic Systems, Sixth  Edition, Prentice Hall, 2009.\n BENJAMIN C. KUO, Sistemas Automáticos de Control. Ed. Prentice Hall Intnal, 1996.\n RICHARD DORF y ROBERT BISHOP, Sistemas de Control Moderno, Décima Edición, Pearson Educación, 2005. \nSMITH & CORRIPIO, Control Automático de Procesos, Teoría y Práctica. Ed. Limusa, 1997."
+}

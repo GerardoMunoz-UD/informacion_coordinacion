@@ -1,0 +1,108 @@
+{
+    "Semestre": "9",
+    "Malla Renglon": "11",
+    "Código del Espacio": "57",
+    "Espacio Académico": "Bioingeniería II",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "x",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. Sistema óseo y Muscular\n    1.1 Morfofisiología de los Sistemas óseo y muscular\n    1.2 Electromiografía\n    2. Sistema Nervioso\n    2.1 Morfofisiología del Sistema Nervioso y endocrino.\n    2.2 Electroencefalografía EEG\n    2.3 Equipo de potenciales evocados\n    2.4 Electro neurografía\n    2.5 Electroestimulación\n    3. Sistema Respiratorio\n    3.1 Morfofisiología del Sistema Respiratorio\n    3.2 Equipos Respiratorios\n    3.3 Funcionamiento\n    3.4 Diseño\n    4. Sistema Digestivo\n    4.1 Morfofisiología del Sistema Digestivo\n    4.2 Equipos\n    4.3 Funcionamiento\n    4.4 Diseño\n    5. Sistema Urinario\n    5.1 Morfofisiología del Sistema urinario\n    5.2 Equipos\n    5.3 Funcionamiento\n    5.4 Diseño\n    6. Laboratorio Clínico\n    6.1 Equipos de Laboratorio Clínico - Microscopios\n    6.2 Funcionamiento\n    6.3 Condiciones de Seguridad\n    6.4 Diseño\n    7. Unidad de Cuidados Intensivos\n    7.1 Equipos de Laboratorio Clínico\n    7.2 Funcionamiento\n    7.3 Condiciones de Seguridad\n    7.4 Diseño",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El espacio académico de Bioingeniería II dentro de la formación en Bioingeniería, tiene como propósito que los futuros ingenieros electrónicos adquieran la fundamentación necesaria, de los diferentes sistemas que componen al individuo.",
+    "Objetivos":"OBJETIVOS GENERAL\n\n Identificar los sistemas que componen al individuo y los sistemas de medición Biomédica que se efectúan sobre estos. \n\n OBJETIVOS ESPECIFICOS\n\nIdentificar y reconocer las bases anatómicas y fisiológicas del cuerpo humano.\nConocer el principio de operación de los equipos de laboratorio clínico.",
+    "Competencias":"",
+    "Metodologia":"Metodología Pedagógica y Didáctica: El eje temático se desarrollará apoyado fundamentalmente en la pedagogía problémica, el aprendizaje autónomo, colaborativo y el constructivismo. En las estrategias didácticas se emplearán; clases magistrales, desarrollo de talleres, consultas, discusión dirigida, mesa redonda, equipos-taller, tutorías",
+      
+  
+    "Recursos":"Para el desarrollo del curso se contará con: Aula de clase, Video-beam. , Bases de datos de la Biblioteca virtual de la Universidad Distrital, Papers, Fotocopias, Documentos, talleres.",
+  
+    "Resultados de Aprendizaje1":"Comprender las funciones de los sistemas fisiológicos humanos. ",
+    "Resultados de Aprendizaje2":"Demostrar conocimiento de la función celular.",
+    "Resultados de Aprendizaje3":"Demostrar la capacidad de integrar la fisiología desde el nivel celular y molecular hasta el sistema de órganos y el nivel de organización. ",
+    "Resultados de Aprendizaje4":"Demostrar el uso correcto de la terminología utilizada para describir estructuras anatómicas. ",
+    "Resultados de Aprendizaje5":"Describir la organización y el comportamiento de células, tejidos y sistemas de órganos específicos.",
+    "Resultados de Aprendizaje6":"Desarrollar descripciones cuantitativas de propiedades y sistemas fisiológicos.",
+    
+    "Materiales de Estudio": "1. Aston Richard, Principles of biomedical instrumentation and measurement, Ed. Merrill Publishing Company, New York 1990\n 2. Carr Joseph J., Servicing medical and bioelectronic equipment. 1977\n 3. Cromwell L y otros, instrumentación y medidas biomédicas, Marcombo editores, 1980\n4. H.S Wolff, Ingeniería Biomédica, Biblioteca para el hombre actual. Ediciones Guadarrama. S.A, \nLope Rueda, 13 Madrid, 1970 \n5. Varios autores, Introducción a la Bioingeniería, Serie mundo electrónico, Ed Marcombo. 1988"
+}

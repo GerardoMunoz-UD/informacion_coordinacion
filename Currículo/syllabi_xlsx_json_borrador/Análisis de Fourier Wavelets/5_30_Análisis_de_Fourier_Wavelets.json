@@ -1,0 +1,102 @@
+{
+
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "El análisis de Fourier es una disciplina bien establecida en el núcleo del análisis matemático puro y aplicado. No solo son las técnicas en esta materia las de fundamenta importancia en todas las áreas de la ciencia y la tecnología, sino que también la transformada integral de Fourier y las series de Fourier tienen interpretaciones físicas significativas. La interacción entre las series de Fourier y la transformada de Fourier está en el centro de procesamiento de señales, como puede verse en la teoría general de muestreo (incluyendo análisis multiresolución). El curso de analisis de Fourier es de fundamental importancia en la formación del ingeniero ya que proporciona herramientas para el procesamiento de señales e imágenes, teoría de control, procesos estocásticos, y comunicaciones entre otros.\n Este espacio académico y sus aplicaciones han formado parte del currículo de ingeniería electrónica en la Universidad Distrital por muchos años, y su desarrollo ha permitido el estudio simple pero no trivial de tópicos claves como la convolucion y las funciones generalizadas que normalmente se tratan en contextos más avanzados (Maestrías y Doctorados). El análisis de Fourier permea espacios académicos pertenecientes a la categoría de ciencias básicas en ingeniería y a la de ingeniería aplicada. (Página 14 y 15 según publicación Con Acreditación Institucional De Alta Calidad Proyecto Educativo del Programa Proyecto Curricular de Ingeniería Electrónica de septiembre de 2017). Lo anterior contribuye de manera significativa a las distintas líneas de investigación del proyecto curricular y a la formalización matemática de artículos y trabajos de grado.\nEl estudiante debe desarrollar competencias necesarias para comprender el uso de series y transformadas de Fourier utilizadas en la solución de problemas de electrónica analógica - digital",
+    "Objetivos":"OBJETIVOS GENERAL\n\nPresentar a los estudiantes los elementos fundamentales de la teoría matemática de la señal y su correspondiente desarrollo multidimensional permitiendo un acercamiento hacia al análisis de señales e imágenes. Lo anterior obedece a que muchos problemas de ingeniería se plantean en todo el espacio Euclidiano y no necesariamente en un intervalo, donde las técnicas analíticas de Fourier resultan ser extremadamente poderosas para realizar dichos planteamientos. Aplicar los conocimientos adquiridos en paquetes de software matemático tales como - Matlab, Mathematica, Java Labview entre otros para facilitar la comprensión y rápida aplicación de los diferentes temas que se desarrollan a lo largo del curso.\n\nOBJETIVOS ESPECIFICOS\n\n1. Utilizar apropiadamente los conceptos fundamentales del álgebra lineal para llegar al concepto de serie de Fourier.\n2. Utilizar las series de Fourier para aproximar funciones con respecto a un sistema ortonormal completo.\n3. Utilizar la forma compleja de una serie de Fourier y la Integral de Fourier para representar una señal no periódica en función del tiempo.\n4. Manipular e interpretar los aspectos geométricos de la operación de convolución, el teorema de convolución, de modulación y de transformada inversa de Fourier en una y varias dimensiones.\n5. Manejar las técnicas del análisis de Fourier para funciones generalizadas.\n6. Aplicar las técnicas básicas del análisis de Fourier en el estudio de los sistemas lineales invariantes con el tiempo (sistemas LTI).\n7. Implementar algoritmos en el manejo de la Transformada de Fourier Discreta mediante el uso de paquetes matemáticos (Matlab, Maple, Mathematica, Java, etc.).\n\n",
+    "Competencias":"BASICAS:\nSe espera que a través del curso el estudiante domine e interprete el lenguaje matemático y desarrolle competencias que le permitan a futuro diseñar, resolver y expresar situaciones de su entorno profesional para representar una función utilizando técnicas del análisis de Fourier multidimensional.\nQue el estudiante esté en capacidad de determinar la convergencia o divergencia de una serie o integral de Fourier.\nQue el estudiante tenga la capacidad de aplicar la teoría de polos y residuos para el cálculo de la transformada inversa de Fourier.\nQue el estudiante comprenda las aplicaciones que fundamentan las ciencias puras con el diseño y desarrollo de las tecnologías.",
+    "Metodologia":"La metodología del curso requiere que el estudiante realice la lectura previa de cada tema de clase, ya que el conocimiento matemático no se adquiere pasivamente sino a través de una participación activa y continua del estudiante. El docente inicialmente evaluará la lectura previa por medio de quices al iniciar la semana de clases; estos tendrán preguntas referentes a los temas a tratar para después ser desarrollados y aclarados por el docente, utilizando como ayuda didáctica el tablero, el texto y las guías de clase. Cada tema estará acompañado de una exposición teórica y ejemplos de aplicación suficientes de manera que aclaren el porqué de los conceptos teóricos dados. Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso, haciendo uso de la lectura previa y de la tecnología.\nDe igual forma se propone la realización de discusiones grupales en torno a problemas específicos, realizando evaluaciones periódicas con el fin de llevar el seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante. Los estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.",
+    
+
+    "Semestre": "5",
+    "Malla Renglon": "3",
+    "Código del Espacio": "30",
+    "Espacio Académico": "Análisis de Fourier Wavelets",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "2",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Unidad 1: Espacios de funciones. Productos Internos. Funciones Ortogonales.\nUnidad 2: Series complejas de Fourier Multidimensionales (caso n=1, n=2) y Expansiones Ortogonales.\nUnidad 3: Transformada de Fourier Discreta Multidimensional(caso n=1, n=2)\nUnidad 4: Transformada Rápida de Fourier (FFT).\nUnidad 5: Forma compleja o exponencial de la Integral de Fourier.\nUnidad 6: Funciones generalizadas.\nUnidad 7: Aplicaciones a los sistemas LTI.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "ASPECTOS A EVALUAR DEL CURSO:\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n3. Autoevaluación.\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.\n\nTIPO DE EVALUACIÓN FECHA PORCENTAJE\n\nPRIMERA NOTA\nParcial Escrito temático Exposición trabajo científico Hasta semana 6 35%\n\nSEGUNDA NOTA\nParcial Seguimiento proyecto semestral Exposición temática Escrito lecturas científicas Hasta semana 13 35%\n\nEXAMEN FINAL\nParcial. Evaluación escrita y sustentación de trabajo final Semana 17 y 18 30%",
+
+    "Resultados de Aprendizaje1":"Identificar adecuadamente cuando una función es periódica y hallar el periodo",
+    "Resultados de Aprendizaje2":"Utilizar las series de Fourier para aproximar funciones con respecto a un sistema ortonormal completo",
+    "Resultados de Aprendizaje3":"Utilizar la forma compleja de una serie de Fourier y la Integral de Fourier para representar una señal no periódica en función del tiempo.",
+    "Resultados de Aprendizaje4":"Aplicar las técnicas básicas del análisis de Fourier en el estudio de los sistemas lineales invariantes con el tiempo (sistemas LTI).",
+    "Resultados de Aprendizaje5":"Implementar algoritmos en el manejo de la Transformada de Fourier Discreta mediante el uso de paquetes matemáticos (Matlab, Maple, Mathematica, Java, etc.).",
+    "Resultados de Aprendizaje6":"",
+  
+    "Materiales de Estudio": "TEXTOS BASICOS\nPeter V. O‘Neil. Matemáticas Avanzadas para Ingeniería. Thompson 6° edición-2003\nMichael W. Frazier An Introduction to Wavelets Through Linear Algebra. Springer\n\nTEXTOS COMPLEMENTARIOS\nPierre Brémaud. Mathematical Principles of Signal Processing: Fourier and Wavelet Analysis. Springer First Edition-2002\nSamir S. Soliman and Mandyam D. Srinath. Continuous and Discrete Signal and Systems.\nPrentice Hall a 2 edición-1998\nRonald N. Bracewell. The Fourier Transform and Its Applications. McGraw-Hill a 2 edición 1986\nRonald N. Bracewell. Fourier Analysis and Imaging. Springer First Edition-2006 \nGilles Aubert and Pierre Kornprobst. Mathematical Problems in Image Processing. Springer a 2 edición-2006\nAlan V. Oppenheim Alan S. Willsky. Signals & Systems Prentice Hall a 2 edición-1997\nStéphane Mallat. A Wavelet Tour of Signal Processing. Academic Press Third Edition -2009\nGianfranco Cariolaro. Unified Signal Theory. Springer First Edition-2011\nA. H. Zemanian. Distribution Theory and Transform Analysis An Introduction to Generalized functions. Dover First Edition-1987\nL.E. Franks. Teoría de la Señal Reverte S.A First Edition-1975\nJohn W. Woods. Multidimensional Signal, Image, and Video Processing and Coding. Academic Press First Edition-2006\nJames S. Walker. Fourier Analysis. Oxford First Edition-1988\nR. E. Edwards Fourier Series Springer a 2 edición-1979\nGeorgi. P. Tolstov Fourier Series Dover First Edition-1976\nDavid W. Kammler. A First Course in Fourier Analysis. Prentice Hall a 2 edición -2007\nLeon Ehrenpreis. Fourier Analysis in Several Complex Variables. Dover First Edition-2006\nLokenath Debnath and Piotr. Mikusinski. Introduction to Hilbert Spaces with Applications. Academic Press Elsevier Third Edition -2009\nH.Dym and H.P. McKean Fourier Series and Integrals. Academic Press Única -1972\nHarry F. Davis. Fourier and Orthogonal Functions. Dover Única TC\nCharles L. Phillips. John M. Parr. E.A. Riskin. Signals, Systems, Transforms Prentice Hall Third Edition -2003\nT.W. Körner Fourier Analysis. Cambridge University Press First Edition- 1988\n\nMaria Cristina Pereyra and Lesley A. Ward. Harmonic Analysis: From Fourier to Wavelets. American Mathematical Society(AMS) First Edition- 2012.\n\nREVISTAS\nPublicaciones de la IEEE.\nAmerican Mathematical Monthly – AMM.\nRevista de Ingeniería. Universidad Distrital Francisco José de Caldas\nAmerican Mathematical Society.\nVision Systems design.\n\nDIRECCIONES DE INTERNET\nwww.stanford.edu\nocw.mit.edu\nwww.ams.org\nwww.rice.edu\nwww.ieee.com\nwww.libgen.info\nwww.cam.ac.uk"
+}

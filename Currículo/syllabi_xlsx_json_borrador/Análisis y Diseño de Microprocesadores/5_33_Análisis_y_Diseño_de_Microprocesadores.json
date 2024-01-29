@@ -1,0 +1,100 @@
+{
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La minitaturización de la electrónica busca principalmente la reducción del espacio y el consumo de potencia de un circuito (De micheli 1992). Hoy en día las escalas de integración permiten colocar varios millones de transistores en un centimetro cuadrado (Brown 2000). Por tanto, es necesario que un ingeniero electrónico tenga las herramientas necesarias para abordar la miniaturización y enfrentar las posibilidades ofrecidas por las escalas de integración disponibles. \n\nLos sistemas electrónicos modernos en su mayoría están compuestos por dispositivos digitales. Así las cosas, un ingeniero que pretenda hacer desarrollo electrónico hoy en día necesariamente se verá enfrentado con el diseño digital de dispositivos. Por tanto, en el dominio de las técnicas y métodos digitales deberá satisfacer las exigencias de la miniaturización y manejar eficientemente las tecnologías de implementación dadas por las escalas de integración del mercado (Gajski 2000). \n\nEl diseño actual de sistemas digitales apunta en la base al desarrollo de procesadores digitales con prestaciones óptimas (Hensessy 2006). Se habla entonces de soportar este diseño en métodos formales de diseño y especificación. Los métodos de diseño formales incluyen principios de optimización para manejar los objetivos y restricciones impuestos por la miniaturización (Gajski 2000, De Micheli 1992). Como complemento, los métodos de especificación apuntan a abordar la implementación de los sistemas digitales por medio de lenguajes de descripción de hardware buscando que la complejidad sea tratada en altos niveles de abstracción.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nIntroducir al estudiante en el análisis, diseño e implementación de procesadores digitales de propósito específico y general.\n\nOBJETIVOS ESPECIFICOS\n\nIntroducir al estudiante en el modelado de sistemas digitales por medio de lenguajes de descripción de hardware.\nPresentar al estudiante un método formal para el diseño y síntesis de procesadores digitales de propósito específico.\nIntroducir al estudiante en el análisis y aplicación de los microprocesadores de propósito general.\n\n",
+    "Competencias":"Generales:\nDiseñar y construir herramientas para la solución de problemas.\nEmplear métodos formales de diseño.\nFormular, desarrollar y documentar proyectos de ingeniería \n\nEspecificas:\nProveer soluciones basadas en lenguajes de descripción de hardware y lógica programable.\nDiseñar sistemas digitales de media complejidad.\nIdentificar arquitecturas de microprocesadores según especificaciones aplicativas.",
+    "Metodologia":"Lección magistral en la cual se presentarán los elementos teóricos y conceptuales de la unidad temática que se encuentre bajo estudio de acuerdo con la programación. \nSesión de laboratorio donde los estudiantes tendrán la oportunidad de aplicar los conceptos vistos en la lección magistral particularmente por medio de herramientas software y sistemas de desarrollo basados en lógica programable.\nSesión de ejercicios en la cual estudiante y profesor revisarán los conceptos introducidos en la lección magistral por medio del desarrollo de problemas básicos en herramientas computacionales.\nTrabajo autónomo enfocado al desarrollo de pequeños proyectos orientados a fortalecer los conceptos revisados en la lección magistral, la sesión de ejercicios y el laboratorio.",
+    
+    "Semestre": "5",
+    "Malla Renglon": "6",
+    "Código del Espacio": "33",
+    "Espacio Académico": "Análisis y Diseño de Microprocesadores",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Lenguajes de descripción de hardware\nDiseño, síntesis y optimización de máquinas de estado algorítmicas.\nAnálisis y programación de procesadores CISC y RISC.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "Es importante tener en cuenta las diferencias entre evaluar y calificar. El primero es un proceso cualitativo y el segundo un estado terminal cuantitativo que se obtiene producto de la evaluación. Para la obtención de la información necesaria para los procesos de evaluación se requiere diseñar distintos formatos específicos de autoevaluación coevaluación y heteroevaluación.\n 1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n3. Autoevaluación:\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.",
+
+    "Resultados de Aprendizaje1":"Construir en HDL circuitos digitales combinacionales y sincrónicos",
+    "Resultados de Aprendizaje2":"Construir circuitos digitales sobre lógica programable (FPGA).",
+    "Resultados de Aprendizaje3":"Diseñar soluciones digitales utilizando máquinas de estado algorítmicas.",
+    "Resultados de Aprendizaje4":"Construir máquinas de estado algorítmicas de prestaciones óptimas sobre FPGA.",
+    "Resultados de Aprendizaje5":"Distinguir las arquitecturas microprocesadores básicos.",
+    "Resultados de Aprendizaje6":"Usar las instrucciones del ensamblador de un procesador básico.",
+    
+    "Materiales de Estudio": "TEXTOS GUÍA\nPrincipios de diseño Digital, Daniel Gajski, Prentice Hall, 2000. \nFundamentos de lógica digital con diseño VHDL, Stephen Brown, McGraw Gill, 2000. Computer Architecture : a quantitative approach, John Henessey , Morgan Kauffman, 2006\n\nTEXTOS COMPLEMENTARIOS\nComputer Architecture : a quantitative approach, John Henessey , Morgan Kauffman, 2006. The design warrior’s guide to FPGAs ( Devices, tools and flows), Clive Maxfield, Elsevier,2000. \nSynthesis and optimization of digital circuits, Giovanni de Micheli, Prentice-hall, 1992. \nDigital Arithmetic, Milos Ercegovac, Morgan Kaufmann, 2004."
+}

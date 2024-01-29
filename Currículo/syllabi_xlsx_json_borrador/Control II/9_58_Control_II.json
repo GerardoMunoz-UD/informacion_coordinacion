@@ -1,0 +1,108 @@
+{
+    "Semestre": "9",
+    "Malla Renglon": "12",
+    "Código del Espacio": "58",
+    "Espacio Académico": "Control II",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "1. INTRODUCCION Y TRANSFORMADA Z\n2. MUESTREO Y RECONSTRUCCIÓN\n3. SISTEMAS DE CONTROL DE TIEMPO DISCRETO\n4. DISCRETIZACION DE CONTROLADORES ANALOGOS\n5. ANÁLISIS DE ESTABILIDAD DE LOS SITEMAS DE CONTROL DE TIEMPO DISCRETO\n6. DISEÑO DE CONTROLADORES DE TIEMPO DISCRETO – METODOS CLÁSICOS\n7. REALIMENTACIÓN DE ESTADO Y DISEÑO DE OBSERVADORES\n8. IDENTIFICACION PARAMETRICA DE SISTEMAS DINAMICOS",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": " Ingenieria electronica ",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La relevancia de los sistemas de control automático en el mundo moderno es absolutamente incuestionable, no solo en el ámbito industrial sino que también en el cotidiano estamos interactuando constantemente con sistemas automáticos y de control en donde las exigencias de los mismos son cada día más elevadas. Todo esto ha llevado al control a ciertos niveles en los cuales las implementaciones desde el punto de vista continuo no podrán de ninguna manera brindar soluciones por completo satisfactorias. Esto ha trasladado de manera inevitable al control hasta el ámbito de los sistemas digitales, los cuales tienen la versatilidad suficiente para satisfacer todo tipo de condiciones impuestas por las diversas necesidades, no solo al nivel del desempeño sino que también desde el punto de vista de la adaptabilidad y escalabilidad. \n Tener la posibilidad de modificar sobre la marcha la ley de control y en algunos casos hasta la estrategia misma de control, así como la creciente necesidad de monitorear, supervisar y controlar de manera remota los procesos, es algo solo realizable con controladores digitales, y ha sido posible, de forma masiva, principalmente por la alta disponibilidad actual de procesadores digitales de bajo costo.\n Los últimos avances en los sistemas embebidos, han permitido dar pasos enormes en el camino del control automático, ofreciendo soluciones de muy altas prestaciones a costos realmente muy bajos. Gracias a estos desarrollos se ha logrado el control inteligente de robots en líneas de producción, el manejo completamente automatizado de hogares y hasta un aumento significativo en las prestaciones y economía de los vehículos, sin hablar de otro sin fin de aplicaciones actuales del control digital. \n Es por esto que el control digital es una rama de la ingeniería electrónica de gran relevancia y actualidad, y en este curso se pretende dar una visión global de todas sus posibles aplicaciones, sus fundamentos teóricos y las formas en las que se lleva a cabo sobre plataformas embebidas. \n Para realizar el curso con éxito se debe tener conocimientos en cálculo integral (convergencia de sumatorias), ecuaciones en diferencias, álgebra lineal, matemáticas especiales, sistemas digitales y control continuo.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nConocer los elementos teóricos y los aspectos prácticos de mayor relevancia en el diseño e implementación de sistemas de control en tiempo discreto, mediante la utilización de computadoras digitales.\n\n OBJETIVOS ESPECIFICOS\n\nDefinir y estudiar la transformada Z y sus propiedades como herramienta de análisis de las señales y los sistemas de tiempo discreto.\n Estudiar el muestreo como herramienta de conversión de señales de tiempo continuo a señales de tiempo discreto y sus implicaciones en su recuperación.\n Comprender y conocer los distintos métodos de discretización de señales involucrando error e incertidumbre.\n Manejar las diferentes técnicas para evaluar la estabilidad de un sistema en tiempo discreto.\n Comprender y estudiar la forma de implementar de manera digital controladores.\nEstudiar las estrategias de diseño convencional de sistemas de control en tiempo discreto.\nComprender y estudiar el análisis de sistemas y diseño de controladores en el espacio de estado.\nEstudiar y aplicar herramientas de software aplicadas al control (Matlab, LabView y Cassy Lab, C++, etc)",
+    "Competencias":"Al finalizar el curso se espera que el estudiante haya desarrollado las siguientes competencias: \n \nCognitivas:\n Reconocer las propiedades de las señales y los sistemas en los planos complejos s y z, transformar señales/sistemas de tiempo continuo en señales/sistemas de tiempo discreto. Comprender los componenetes básicos de un sistema de tiempo discreto. Tener criterio para la selección del periodo de muestreo en un sistema de control de tiempo discreto. Comprender y manejar el diseño de controladores discretos por diferentes técnicas, así como su implementación en computadores y en sistemas embebidos. \n\nInvestigativas:\n     Desarrollar formalmente el diseño de controladores digitales de tiempo discreto, desarrollar las simulaciones de los procesos y sistemas controlados utilizando las herramientas de MatLab. \n\nLaborales: Reconocer las características especificas de los sistemas, aplicar las herramientas de análisis para la manipulación y control de los sistemas, aplicar las herramientas matemáticas estudiadas para la implementación de sistemas de control digital, especificar y diseñar sistemas de control digital, utilizar de manera apropiada las herramientas de Matlab, Labview y al menos un entorno de programación de microcontroladores con fines de automatización y control empleando los conceptos de control estudiados",
+    "Metodologia":"Dado que la secuencia del curso se desarrolla a través de las clases magistrales, los temas cubiertos en cada sesión se hacen de manera general. Es necesario que el estudiante, en forma individual o en grupo, lea y estudie los detalles de cada tema en los textos escogidos. Por otro lado, tanto en las sesiones de clase como en las tareas, el estudiante tendrá la posibilidad de incorporar el uso del computador y de programas matemáticos especializados para el análisis y la resolución de problemas. En las clases magistrales se mostrará el uso del programa Matlab® como ayuda didáctica y como herramienta de cálculo. Adicionalmente, se cuenta con el laboratorio de la asignatura, espacio en el cual los estudiantes podrán profundizar los conceptos y aplicaciones vistas.",
+      
+  
+    "Recursos":" Para el desarrollo de los ejercicios a resolver en casa, se requiere el uso de computador y un programa especializado como Matlab®. El laboratorio de la Universidad cuenta con los dos  recursos. Adicionalmente, en las sesiones en el aula se requiere del uso de un computador, el programa Matlab® y un proyector de video (video beam), con los cuales también se cuenta en la Universidad. \n En los laboratorios se cuenta con los instrumentos necesarios para desarrollar las practicas y será responsabilidad de cada grupo de trabajo orientado a caracterizar y posteriormente controlar las plantas",
+  
+    "Resultados de Aprendizaje1":" Comprender los sistemas de muestreo y retención como herramientas de conversión de señales de tiempo continuo a discreto y viceversa, y sus implicaciones en el lazo de control. ",
+    "Resultados de Aprendizaje2":" Seleccionar periodos de muestreo adecuados para diferentes sistemas teniendo en cuenta sus implicaciones en el comportamiento del sistema ",
+    "Resultados de Aprendizaje3":" Aplicar los distintos métodos de discretización de controladores de tiempo continuo para su implementación digital. ",
+    "Resultados de Aprendizaje4":"Utilizar la transformada Z como herramienta para el análisis, diseño e implementación de controladores digitales. ",
+    "Resultados de Aprendizaje5":"Determinar la estabilidad de sistemas en tiempo discreto por diferentes técnicas. ",
+    "Resultados de Aprendizaje6":"Aplicar las estrategias de diseño de sistemas de control digital, tanto en el dominio del tiempo como en el dominio de la frecuencia y en el espacio de estados. ",
+    
+    "Materiales de Estudio": "Charles L. Phillips– Troy Nagle H., DIGITAL CONTROL SYSTEMS ANALYSIS AND  DESING, Editorial prentice Hall, Third Edition, 1995.\nKatsuhiko Ogata, DISCRETE TIME CONTROL SYSTEMS, Segunda Edición, Prentice-Hall Hispanoamericana, S.A., México, 1996. \n Kuo Benjamin, DIGITAL CONTROL SYSTEMS, Segunda Edición, Sanders college publishing.1992.\n Gene Franklin – David Powel, DIGITAL CONTROL OF DYNAMIC SYSTEMS, Second Edition, 1992.\nChen Chi-Tsong, ANALOG AND DIGITAL CONTROL SYSTEM DESIGN , Sanders college publishing.1993. \n Karl J. Aström – Bjorn Wittenmark, COMPUTER – CONTROLLED SYSTEMS: THEORY AND DESIGN, Editorial Prentice Hall, Third Edition, 1197."
+}

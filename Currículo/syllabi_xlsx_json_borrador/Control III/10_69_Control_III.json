@@ -1,0 +1,103 @@
+{
+    "Semestre": "10",
+    "Malla Renglon": "12",
+    "Código del Espacio": "69",
+    "Espacio Académico": "Control III",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Modelamiento de sistemas dinámicos no lineales: Mecánicos (Leyes de Newton, Balance de fuerzas y/o torques, Principio de D’Alembert). Eléctricos (Leyes de Kirchoff, Sistemas combinados mecano-eléctricos). Hidráulicos (Balance de masa y energía, Sistemas combinados hidráulico mecanico-eléctricos). Térmicos (Leyes de la termodinámica, trasferencia de calor por conducción, convección, Sistemas combinados). Especies naturales (competencia, ecología, predador presa).\n Estabilidad de los sistemas dinámicos (Ubicación de polos, plano de fase, Criterios de Lyapunov para sistemas lineales y no lineales)\n Análisis de sistemas con ciclos límite. Sistemas de segundo orden o de orden superior no lineales con ciclo límite. \nAnálisis de sistemas caóticos. Análisis de sistemas dinámicos que generan caos natural o inducido.  \n Modelamiento de sistemas discretos no-lineales. Análisis mediante función descriptiva \n No linealidad e incertidumbre en el mundo real. Matemáticas difusas. Lógica y representación. \n Fusificación y defusificación. Aplicaciones en control, series de tiempo, Aproximación universal.\nFundamentos de optimización. Criterios de optimización de sistemas retroalimentados, Sistemas de mínima energía, ecuaciones generalizadas de optimización de sistemas retroalimentados",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+  
+    "Materiales de Estudio": " Boyce Di Prima Ecuaciones Diferenciales y problemas en la frontera, Limusa Wiley 2002 TG\n     Strogatz Nonlinear dynamic systems, Perseus Publishing 1994- TG\n     Katzuiko Ogata Ingeniería de control moderno Prentice Hall 2005 TG\n     D’Azzo-Houpis Linear control systems… Mc Graw Hill 1988 TC\n     Li Xin Wang A course on fuzzy systems and control Prentice Hall 1997 TG\n     Jerry Mendel Rule-Based Fuzzy Logic Systems Prentice Hall 2001 TA\n     Khalil Hassam Nonlinear Systems Prentice Hall 1996 TG\n     Zak Stanislaw Systems and control, Oxford university press 2003 TG",
+    "Proyecto curricular": " Ingenieria Electronica ",
+  "Plan de Estudios": "",
+  "Nombre del docente": "",
+  "Justificacion Del Espacio": "",
+  "Objetivos":"OBJETIVOS GENERAL\n\nDar las herramientas de fundamentación matemática y pragmática al estudiante para analizar y conceptuar un sistema dinámico no lineal con miras a diseñar estrategias que permitan su manipulación y control mediante las herramientas propuestas hasta el momento para estos sistemas. OBJETIVOS ESPECIFICOS\n\n1. Analizar diferentes modelos de sistemas dinámicos no lineales.n 2. Determinar la respuesta temporal de los sistemas dinámicos no lineales.\n3. Determinar la estabilidad de los sistemas dinámicos no lineales. n4. Evaluar los efectos dinámicos por la introducción de diferentes factores que influyen en un sistema\n 5. Evaluar la retroalimentación en sistemas dinámicos no lineales y analizar el efecto de agregar componentes en un lazo de control.\n6. Analizar sistemas dinámicos con elementos con características no lineales mediante la función descriptiva\n7. Evaluar los sistemas que tienen ciclo(s) límite(s)\n8. Realizar análisis de sistemas con características no lineales utilizando la función descriptiva.\n9. Dar los elementos necesarios para la conceptualización y aplicación de herramientas no lineales como lógica difusa, redes neuronales, y {algebras modernas aplicadas}.\n10. Dar los elementos necesarios para la optimización de sistemas dinámicos de control lineal y no lineal.n11. Estudio de sistemas caóticos",
+  "Competencias":"Transversales:\n  Capacidad de organización y planificación / Razonamiento crítico / Trabajo en equipo /Aprendizaje autónomo / Comunicación oral y escrita / Motivación por la calidad y mejoramiento continuo.\n  Contexto\n Reflexión sobre la influencia de tecnologías de control automático en el contexto industrial y social y el papel del ingeniero electrónico en esta área de conocimiento. Invitación al trabajo autónomo y compromiso social del ejercicio de la ingeniería, en especial en el área de automática. \nBásicas\n Análisis matemático de sistema no lineales.\n Argumentación de escogencia de controladores lineales o no lineales para una planta no linealen función de los requerimientos de diseño. \nPensamiento crítico y reflexivo.\nLaborales\nCaracterización de procesos que incluyen elementos no lineales.\nDiseño de controladores no lineales.\nUtilización de técnicas de optimización para el diseño de controladores basados en técnicas de inteligencia computacional..\nDiseño de aplicaciones computacionales que permiten realizar sistemas de control de tiempo discreto empleando sistemas neuro-difusos",
+  "Metodologia":"",
+    
+    "Recursos":"Medios y Ayudas: El curso requiere de espacio físico (aula de clase), recurso docente,recursos informáticos (software de simulación y programación), recursos bibliográficos (revistasespecializadas), retroproyector, videobeam computadores (salas).\n Prácticas específicas: Prácticas en MATLAB sobre simulación de sistemas dinámicos no lineales así como la implementación de estrategias de control empleando reguladores no lineales, lógica difusa y sistemas neuro-difusos. También se realizan prácticas de sintonía de controladores empleando técnicas de optimización bioinspiradas.",
+
+
+  "Resultados de Aprendizaje1":"   Diseñar estrategias de control para sistemas dinámicos no lineales.",
+  "Resultados de Aprendizaje2":"  Utilizar la función descriptiva para determinar el comportamiento dinámico de sistemas que contienen un elemento con una característica no lineal estática. ",
+  "Resultados de Aprendizaje3":"  Implementar estrategias de control para sistemas dinámicos empleando lógica difusa. ",
+  "Resultados de Aprendizaje4":" Analizar sistemas caóticos. ",
+  "Resultados de Aprendizaje5":" Presentar de forma adecuada los resultados de la solución de problemas de ingeniería ",
+  "Resultados de Aprendizaje6":" Diseñar aplicaciones computacionales que permitan realizar sistemas de control de tiempo discreto empleando sistemas neuro-difusos. "
+  
+}

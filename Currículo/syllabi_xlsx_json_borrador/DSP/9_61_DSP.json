@@ -1,0 +1,108 @@
+{
+    "Semestre": "9",
+    "Malla Renglon": "15",
+    "Código del Espacio": "61",
+    "Espacio Académico": "DSP",
+    "Teórico": "",
+    "Teórico-práctico": "X",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "",
+    "Básico": "",
+    "Complementario": "",
+    "Electivo": "X",
+    "Intríseco": "X",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "● Análisis de Señales y Sistemas.",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "En el curso de análisis de señales y sistemas no consideramos la aleatoriedad de las señales, con la única excepción del ruido aditivo. Sin embargo, si las señales se caracterizan por la información que conllevan, debe haber un componente de aleatoriedad en ellas: la mayoría de señales de interés evolucionan en el tiempo de manera impredecible. A pesar de esto, sus propiedades estadísticas exhiben una alta regularidad, lo que permite modelar la dependencia que pueda existir entre muestras de uno o más señales en tiempo discreto,  aplicar estos modelos a problemas teóricos y prácticos. Para esto se usa la teoría de las probabilidades, las variables aleatorias y los procesos estocásticos, los cuales conducen a los temas generales de la estimación espectral, el modelamiento lineal de señales y el filtrado adaptativo, que son los temas de este curso. El profundo conocimiento de estos temas resulta fundamental en problemas de comunicaciones, control de sistemas dinámicos, bioingeniería, procesamiento de imágenes, etc., en donde se requiere generar representaciones capaces de capturar las características más importantes de la manera más eficiente posible. En este curso se estudiarán mecanismos óptimos para seleccionar los parámetros de diferentes modelos tanto en problemas generales de modelamiento como en problemas de estimación espectral. Igualmente, veremos algoritmos para lograr la adaptabilidad de estos parámetros en ambientes no estacionarios.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nSe espera que al finalizar el curso el estudiante comprenda profundamente los aspectos teóricos y prácticos del procesamiento estadístico de señales en tiempo discreto y sea capaz de aplicar estos conceptos en problemas reales.\n\n OBJETIVOS ESPECIFICOS\n\n1. Describir matemática y conceptualmente los conceptos teóricos necesarios para la cabal comprensión de las técnicas de diseño de filtros digitales.\n2. Analizar, evaluar y diseñar filtros digitales a partir de especificaciones de respuesta en frecuencia.\n3. Entender las señales como realizaciones de procesos estocásticos, incluyendo conceptos como correlación, estacionariedad, ergodicidad y densidad espectral de potencia.\n4. Comprender los modelos autoregresivos y de promedios móviles como representación lineal de señales aleatorias.\n5. Conocer y aplicar tanto los fundamentos teóricos como los métodos prácticos de la predicción lineal.\n6. Entender los algoritmos LMS y RLS para diseño de filtros adaptables, así como los principios básicos del filtro de Kalman\n7. Conocer y aplicar las principales técnicas de estimación espectral, tanto paramétricas como no-paramétricas.\n8. Aplicar los conceptos aprendidos en el desarrollo de proyectos prácticos de procesamiento de señales.",
+    "Competencias":"BASICAS\nn● Pensamiento crítico e independiente, comprensión de modelos matemáticos para interpretación de la realidad, aplicación de conceptos teóricos en solución de problemas prácticos. \n● Formulación y especificación cuantitativa de problemas, diseño de soluciones creativas",
+    "Metodologia":"Aunque las clases son de tipo magistral, en ellas sólo se alcanzará a enumerar e introducir los conceptos que el estudiante debe adquirir mediante su esfuerzo individual. Para el logro de los objetivos es fundamental que el estudiante dedique, por lo menos, dos horas de estudio y ejercicio individual por cada hora de clase. Para ayudar en este esfuerzo, se asignarán tareas para hacer en casa y pruebas para responder en clase. Se espera que la frecuencia de las pruebas y las tareas sea, por lo menos, semanal, de manera que se consiga una amplia base para la evaluación del aprovechamiento del curso (70%). También habrá un proyecto final práctico (30%). Tanto las tareas como los proyectos requieren el uso de un computador con software adecuado para el procesamiento de señales, con Matlab como primera opción.",
+      
+    "Recursos":"Para el desarrollo de los ejercicios a resolver en casa, se requiere el uso de computador y un programa especializado en procesamiento de señales como Matlab®. El laboratorio de la Facultad cuenta con los dos recursos.",
+  
+  
+    "Resultados de Aprendizaje1":" Comprender un problema de ingeniería asociado con tratamiento de señales mediante el análisis formal de la ingeniería. ",
+    "Resultados de Aprendizaje2":" Crear un modelo conceptual del problema usando las abstracciones matemáticas de la teoría de señales ",
+    "Resultados de Aprendizaje3":" Formular posibles soluciones como un sistema de tratamiento de señales con base en el modelo formal creado. ",
+    "Resultados de Aprendizaje4":" Analizar y especificar las características de los componentes del sistema en su modelo de solución usando rigurosamente la teoría de señales ",
+    "Resultados de Aprendizaje5":"Aplicar el resultado de su análisis construyendo la solución mediante hardware, software o una combinación de ellos. ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "● Jonh G. Proakis and Dimitris G. Manolakis, Digital Signal Processing: Principles, Algorithms, And Applications, Fourth Edition, Prentice-Hall Inc., 2006.\n● Manolakis, Ingle and Kogon, Statistical and Adaptive Signal Processing.\n● Hayes, Statistical Signal Processing and Modeling"
+}

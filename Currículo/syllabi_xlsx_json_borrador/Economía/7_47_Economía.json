@@ -1,0 +1,108 @@
+{
+    "Semestre": "7",
+    "Malla Renglon": "10",
+    "Código del Espacio": "47",
+    "Espacio Académico": "Economía",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "2",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "● Unidad 1: Fundamentos básicos.\n    ● Unidad 2: Teoría de precios.\n    ● Unidad 3: Asignación de recursos.\n    ● Unidad 4: Agregados económicos.\n    ● Unidad 5: Relaciones internacionales.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La comprensión de los fundamentos y criterios que intervienen en la comprensión de los diversos fenómenos económicos, son vitales en toda sociedad, trátese de consumidores, hombres de negocios y funcionarios públicos. Los problemas de la economía relacionados con la escasez, distribución, uso óptimo de bienes y servicios, manejo dinero, decisiones monetarias o fiscales afectan la vida social. El ingeniero electrónico debe comprender y entender las diferentes decisiones que afectan la vida económica de toda sociedad o que inciden sobre las diferentes organizaciones. Esta información afecta su caso particular. Conlleva consideraciones de importancia en cuanto al uso de tecnología, por la incidencia de externalidades internas o externas sobre decisiones d carácter técnico. El curso persigue fundamentar al ingenieroelectrónico acerca de la importancia de las decisiones económicas y darle una perspectiva integral de su entorno.\n Además, de las propias competencias de su carrera, el curso de economía le servirá para lograr una visión integradora de conocimientos que le permitirá en su vida profesional interactuar con otras disciplinas con análisis serios acerca de las repercusiones económicas. Participará activamente en equipos multidisciplinarios y será capaz de trabajar como ingeniero portando soluciones acordes con el contexto internacional. El estudiante deberá ser capaz de preguntarse el porqué y el para qué de la realidad cotidiana, identificando problemas, proponiendo soluciones y planes de acción. Los principios básicos de su formación le permitirán comprender e interpretar los distintos fenómenos sociales y el aporte de soluciones.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nInterpretar, analizar y operacionalizar los instrumentos básicos de economía en el contexto nacional e internacional de las variables económicas y su aplicación en el desarrollo del quehacer profesional.\n\n OBJETIVOS ESPECIFICOS\n\n1. Entender el funcionamiento del Sistema Económico y como este orienta el desarrollo de la Actividad económica tanto a nivel Micro (empresarial) como Macro (Nacional e Internacional), así como de los instrumentos básicos de la medición económica y su aplicación posterior en la Gestión empresarial, Elaboración y evaluación de Proyectos.\n2. Explicar detalladamente los presupuestos cognoscitivos de la ciencia económica.\n3. Ofrecer una explicación razonada del ambiente económico y relacionarla con el medio de la ingeniería y el laboral.\n4. Facilitar la comprensión de los ingenieros electrónicos acerca de la forma como las diferentes variables económicas afectan su entorno productivo e inciden sobre la vida económica y social.",
+    "Competencias":"BASICAS\n● Generación de conocimiento socialmente útil para entender el entorno micro y  macroeconómico, desarrollando soluciones lógicas y estructuradas acerca de problemas económicos esenciales, en especial en momentos de crisis.\n● Reconocer el significado e importancia de los conceptos económicos que inciden sobre su formación como ingenieros electrónicos. Fortalecer su valor como persona y comprender su relación con el entorno internacional.\n● Tendrá capacidad para identificar y analizar los problemas técnicos de la ingeniería en\nsu contexto económico y social. Analizará críticamente los diversos métodos propuestas en materia de problemas cruciales de la economía en el actual momento y en especial la naturaleza de decisiones que afectan la sociedad en conjunto.LABORALES\n● Adquirir una formación útil en la toma de decisiones.\n● Análisis del funcionamiento del sistema económico articulando el sector real y el sector monetario en un contexto nacional e internacional.\n● Podrá comunicarse efectiva y asertivamente a través de un discurso económico tejido sobre argumentos convincentes, racionales y concisos, además desarrollara la competencia y actuación lingüística -lengua y habla – como instrumentos de pensamiento. Tendrá capacidad para argumentar y debatir problemas propios de su reflexión como ingeniero, respetando la libertad de expresión y las opiniones ajenas.",
+    "Metodologia":"Exposición oral ilustrada con participación activa del estudiante en la disertación de los temas tratados para lo cual este debe desarrollar un componente de lectura dirigida por el docente. Desarrollo de talleres y casos. Lecturas de actualidad sobre economía y finanzas de los diferentes medios escritos (prensa, revistas especializadas etc.).",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":" Conocer la historia del pensamiento económico. ",
+    "Resultados de Aprendizaje2":"Distinguir las diversas herramientas del análisis económico. ",
+    "Resultados de Aprendizaje3":"  Comprender la teoría de la oferta y la demanda.",
+    "Resultados de Aprendizaje4":" Conocer cómo funcionan las estructuras de mercado. ",
+    "Resultados de Aprendizaje5":"Tomar decisiones con base en el conocimiento de las diferentes estructuras de mercado. ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "● Fundamentos de Microeconomía y Macroeconomía - Michael Parkin. Pearson\n● Fundamentos de Microeconomía - Pindyck – Pearson Fundamentos de Macroeconomía - Dorbush y Fisher - Mc Graw Hill\n● Introducción a la Economía Colombiana - Mauricio Cárdenas – Alfaomega Introducción a la Macroeconómica - Lora y Ocampo - Tercer Mundo Editores Microeconomía- Pindyck- Rubinfeld.. -Limusa. Noriega Editores. México. D. F. México. 1997.\n ● Economía Moderna-Kelvin Lancaster. Tomos I-II. Alianza Universidad. Madrid. España. 1977."
+}

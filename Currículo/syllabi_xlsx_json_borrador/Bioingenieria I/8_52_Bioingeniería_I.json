@@ -1,0 +1,108 @@
+{
+    "Semestre": "8",
+    "Malla Renglon": "7",
+    "Código del Espacio": "52",
+    "Espacio Académico": "Bioingeniería I",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "3",
+    "Horas Trabajo Colaborativo": "1",
+    "Horas Trabajo Autónomo": "2",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Conceptos Básicos de la Bioinstrumentación.\n    Seguridad Eléctrica.\n    Sensores y Transductores de uso en Biomedicina.\n    Sistemas de Acondicionamiento y Adquisición de Señales Bioeléctricas.\n    Biopotenciales.\n    Amplificadores de Bioinstrumentación.\n    Electrocardiografía.\n    Instrumentación Electrónica para Electrocardiografía.\n    Electroencefalografía.\n    Instrumentación Electrónica para Electroencefalografía.\n    Electromiografía.\n    Instrumentación Electrónica para Electromiografía.\n    Presión Arterial.\n    Instrumentación Electrónica para Presión Arterial y Cuidados Intensivos.\n    Instrumentación Electrónica para Cirugía.",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje": [
+        "Resultado 1",
+        "Resultado 2",
+        "...",
+        "Resultado n"
+    ],
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "La asignatura de Bioingeniería 1, desarrolla habilidades teóricas y prácticas que le permiten al estudiante aplicar los principios eléctricos, electrónicos para entender, modificar, diseñar e implementar bio-instrumentos que puedan registrar funciones fisiológicas y asistir en el tratamiento y diagnóstico de pacientes. La bioinstrumentación trata sobre los instrumentos empleados para obtener información al aplicar energía a los seres vivos, y también a aquellos dispositivos destinados a ofrecer una ayuda funcional o a la sustitución de funciones fisiológicas o de órganos. Los bio-instrumentos se emplean para diagnóstico, monitorización, terapia, electrocirugía y rehabilitación.\n Los equipos de medida y registro de bioseñales tales como electrocardiógrafos, electroencefalógrafos, electromiógrafos, tensiómetros, cardiotacómetros, pulsioxímetros, termómetros, etc., se encuentran ampliamente en el ambiente hospitalario y son el soporte tecnológico para que a través de sus medidas, el médico pueda emitir el diagnóstico del funcionamiento de un sistema o de un órgano del cuerpo humano, para entrar a implementar un determinado tratamiento o terapia.",
+    "Objetivos":"OBJETIVOS GENERAL\n\nEstudiar los principios básicos de la bioinstrumentación empleada en medicina en los cuales se utilizan dispositivos electrónicos de tal manera que el estudiante adquiera destrezas para el diseño de sistemas y/o equipos de instrumentación electrónica que permitan adquirir, registrar, medir, analizar y hacer procesamiento análogo o digital a cualquier bioseñal procedente del cuerpo humano.\n\n OBJETIVOS ESPECIFICOS\n\nUtilizar amplificadores de instrumentación y filtros activos de circuitos integrados para el procesamiento análogo de los bioseñales.\nAdquirir los conocimientos sobre la clasificación de la bioinstrumentación\n Adquirir conocimientos sobre los mecanismos, normas y criterios sobre seguridad eléctrica\nEstudiar los sensores y transductores empleados en la bioinstrumentación\nEstudiar y comprender el origen de los biopotenciales\nDiseñar instrumentos análogos\nAplicar los conceptos de instrumentación para hacer medición, registro, análisis y procesamiento de bioseñales procedentes del sistema cardiovascular: ECG (Electrocardiografía), FCG (Fonocardiografía), RC (Ritmo cardiaco).\nEstudiar los bioamplificadores aplicados al diseño la bioinstrumentación.",
+    "Competencias":"",
+    "Metodologia":"Debido a que el curso se desarrolla a través de las clases magistrales, los temas tratados en cada sesión se hacen de manera general. Es necesario que el estudiante, en forma individual o en grupo, lea y estudie los detalles de cada tema en los textos escogidos y en especial del libro guía Notas de Clase. Los textos relacionados en la bibliografía son suficientes para todo el curso. Para los temas novedosos, se escogen textos complementarios que permitan estudiar más detalladamente los temas que corresponden al desarrollo de diseños, adicionalmente se desarrollarán ejemplos de ejercicios y se propondrán ejercicios para ser desarrollados en actividades extra-clase por parte de los estudiantes.\n  Para ayudar a resolver las tareas o las dudas surgidas en clase, el estudiante cuenta con la asesoría del profesor en los horarios definidos para tal fin. Como una ayuda al estudio autónomo del estudiante, se asignarán tareas en cada sesión que permitirán profundizar en los conceptos planteados en las sesiones de clase y que serán evaluados a los estudiantes escogidos al azar en clase. Algunas de las sesiones se desarrollarán utilizando videos y diapositivas para facilitar el proceso de enseñanza aprendizaje",
+      
+  
+  
+  
+    "Resultados de Aprendizaje1":"Interpretar señales biomédicas y relacionarlas con los fenómenos fisiológicos subyacentes.  ",
+    "Resultados de Aprendizaje2":"Acondicionar señales biomédicas con criterios de sensibilidad, confiabilidad, repetibilidad, ausencia de interferencias, filtrado y con las restricciones que impone no distorsionar la información útil. ",
+    "Resultados de Aprendizaje3":"Conocer las técnicas de análisis y estimación espectral de señales biomédicas.  ",
+    "Resultados de Aprendizaje4":"Reconocer y evaluar los parámetros clínicos de interés.  ",
+    "Resultados de Aprendizaje5":"Conocer el funcionamiento físico y electrónico básico de sensores de instrumentación médica. ",
+    "Resultados de Aprendizaje6":" ",
+    
+    "Materiales de Estudio": "Aidley, DJ. The physiology of excitable cells. London: Cambridge University Press, 1983.\n Conway, EJ. Nature and significance of concentration relations of potassium and sodium ions in skeletal  muscle. Physiol Rev. 1957.\n Beebe D. Signal Conversion. Biomedical Digital Signal Processing. Editorial Prentice Hall. University of  Wisconsin. Madison, Wisconsin E.U.A. 1993.\n Booch, G. Análisis y Diseño Orientado a Objetos con Aplicaciones. Segunda edición, Adisson Wesley /  Díaz de Santos, 1995.\n D. Jennings, A. Flint, B.C.H. Firton and L.D.M. Nokes. Introduction to Medical Electronics Applications.  School of Engineering University of Wales, College of Cardiff. London, 1995.\n Edman, A, Grampp, W. Ion permeation through hyperpolarization-activated membrane channels (Qchannels) in the lobster stretch receptor. Pjlugers Arch 1989.\n Enderle, J., Blanchard, S.,Bronzino, J. Introduction to Biomedical Engineering. Academy Press, New York, 2000"
+}

@@ -1,0 +1,102 @@
+{
+    "Proyecto curricular": "",
+    "Plan de Estudios": "",
+    "Nombre del docente": "",
+    "Justificacion Del Espacio": "Las competencias del perfil a las que contribuye la asignatura son:\nGeométricamente es evidente el cálculo de áreas de figuras tales como rectángulos, triángulos y regiones poligonales que puedan descomponerse en un número finito de triángulos ya que en este caso su área corresponde a la suma de las áreas de estos triángulos. Se plantea entonces la necesidad de un método más general que permita calcular áreas de figuras no limitadas por rectas, sino por curvas; por ejemplo, determinar el área de una región semicircular o de un segmento de parábola. Esta necesidad crucial fue el punto de partida del cálculo integral. El concepto de integral se interpreta como un proceso que antecede a la obtención del límite, es decir, el paso al límite de vital importancia para la interpretación geométrica y física de la integral. Por ejemplo, la descripción rigurosa de la obtención del área de una región acotada en el plano requiere del concepto de Integral.\n La importancia de este espacio radica en el estudio y formalización de la conexión entre integración y diferenciación a través de los Teoremas Fundamentales del Cálculo y sus diversas aplicaciones tales como: áreas,volúmenes, longitud de arco, integración numérica, integrales impropias, y otras aplicaciones a la física. El estudiante debe desarrollar competencias necesarias para comprender el concepto de integral, teorema fundamental del cálculo y aplicarlo en diferentes contextos de los espacios académicos de las ciencias básicas.\n (Página 14 y 15 según publicación Con Acreditación Institucional De Alta Calidad Proyecto Educativo del Programa Proyecto Curricular de Ingeniería Electrónica de septiembre de 2017).",
+    "Objetivos":"OBJETIVO GENERAL\nPresentar al estudiante los conceptos del cálculo integral: integral de Riemann y sus propiedades, los fundamentos teóricos y aplicaciones, para que pueda modelar los diferentes problemas que surgen en sus cursos superiores y en su vida profesional.\n\nOBJETIVOS ESPECÍFICOS\n1. Comprender el concepto de integral, y establecer las similitudes y diferencias que existe entre integral indefinida o antiderivada e integral definida.\n2. Adquirir habilidad para aplicar los diferentes métodos de integración para resolver integrales definidas, integrales indefinidas e integrales impropias.\n3. Conocer el Teorema Fundamental del Cálculo de tal manera que logre identificar la relación entre derivación e integración y la importancia de las funciones primitivas.\n4. Fundamentar e implementar el concepto de serie convergente para hacer uso de ella en el análisis de las series de funciones que son de gran aplicación en modelos Físicos complejos.\n5. Identificar otras clases de funciones que no son funciones algebraicas, ya que la antiderivada de una función o la solución de un problema de aplicación, no siempre se puede expresar en términos de funciones algebraicas. Desarrollar interés en los estudiantes para que se motiven a adquirir habilidades para solucionar los diferentes problemas de aplicación de la integral y asuman una actitud investigativa que les permita hacer descripciones e interpretaciones de los modelos matemáticos expresados con integrales.",
+    "Competencias":"Se espera que a través del curso el estudiante adquiera un sentido de utilidad del cálculo, esto es, domine e interprete el lenguaje matemático, desarrolle competencias genéricas instrumentales que le permitan identificar, plantear y resolver problemas que se presentan en su vida cotidiana y en el entorno profesional. Identifica patrones fundamentales para saber cuándo una función es integrable y encontrar su solución.\nConoce las aplicaciones de la integral para resolver problemas concretos que se presentan en el área propia de la ingeniería.\nAsume que la información matemática y el análisis de funciones es relevante para la optimización de los recursos y la toma de decisiones en su ámbito laboral.\nManeja correctamente las técnicas de integración, haciendo uso del teorema fundamental del cálculo para aplicar en situaciones relacionadas con la ingeniería.\nRelaciona el concepto de serie convergente para aplicarlo en la representación de funciones en series de potencias, dada la variedad de aplicaciones que existen en las diferentes áreas de su profesión.\nUtiliza la tecnología en la solución de problemas de aplicación del cálculo integral.",
+    "Metodologia":"Metodología Pedagógica y Didáctica: La metodología del curso requiere que el estudiante realice la lectura previa de cada tema de clase. El docente, al iniciar la semana de clases evaluará la lectura previa mediante un quiz, o preguntas orales, sobre los temas a tratar para después ser desarrollados y aclarados por el docente utilizando como ayuda didáctica el tablero, el texto y las guías de clase. Cada tema estará acompañado de una exposición teórica y suficientes ejemplos de aplicación de manera que aclaren el porqué de los conceptos teóricos leídos y explicados. Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso, haciendo uso de la lectura previa y de la tecnología. De igual forma se propone la realización de discusiones grupales en torno a problemas específicos realizando evaluaciones periódicas con el fin de llevar el seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante. \n Los estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.",
+
+
+    "Semestre": "2",
+    "Malla Renglon": "2",
+    "Código del Espacio": "7",
+    "Espacio Académico": "Cálculo Integral",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "3",
+    "Horas Trabajo Directo": "4",
+    "Horas Trabajo Colaborativo": "2",
+    "Horas Trabajo Autónomo": "3",
+    "Obligatorio": "X",
+    "Básico": "X",
+    "Complementario": "",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Unidad 1: La Integral.\nUnidad 2: Técnicas de Integración e Integrales Impropias.\nUnidad 3: Aplicaciones de la integral.\nUnidad 4: Series y Sucesiones.",
+    "Enfoque de Aprendizaje y Enseñanza": "Al completar con éxito el curso de Cálculo Integral, los estudiantes deberán ser capaces de:\n1. Identificar cuándo una función es integrable.\n2. Identificar cuándo una sucesión converge\n3. Comparar integrales impropias para saber su convergencia\n4. Relacionar el concepto de serie convergente para aplicarlo en la representación de funciones en series de potencias.\n5. Aplicar el teorema fundamental del cálculo en la solución de problemas\n6. Resolver y argumentar correctamente la solución de problemas rutinarios y no rutinarios en la aplicación de integrales.\n7. Aplicar la tecnología adecuadamente en la solución de problemas que involucran superficies y sólidos en revolución.",
+    "Plan de Evaluaciones": "Es importante tener en cuenta las diferencias entre evaluar y calificar. El primero es un proceso cualitativo y el segundo un estado terminal cuantitativo que se obtiene producto de la evaluación. Para la obtención de la información necesaria para los procesos de evaluación se requiere diseñar distintos formatos específicos de autoevaluación, coevaluación y heteroevaluación.\nPRIMERA NOTA, TIPO DE EVALUACIÓN FECHA PORCENTAJE\nTalleres, Trabajos, Quiz, Parcial Hasta semana 6 35%\n\nSEGUNDA NOTA\nTalleres, Trabajos, Quiz, Parcial Hasta semana 13 35%\n\nEXAM. FINAL\nParcial. Evaluación escrita y sustentación de trabajo final Semana 17 y 18 30%\n\nASPECTOS A EVALUAR DEL CURSO\n1. Evaluación del desempeño docente\n2. Evaluación de los aprendizajes de los estudiantes en sus dimensiones: individual/grupo, teórica/práctica, oral/escrita.\n3. Autoevaluación:\n4. Coevaluación del curso: de forma oral entre estudiantes y docente.",
+    
+
+  "Resultados de Aprendizaje1":"Identificar cuándo una función es integrable.",
+  "Resultados de Aprendizaje2":"Identificar cuándo una sucesión converge",
+  "Resultados de Aprendizaje3":"Comparar integrables impropias para saber su convergencia",
+  "Resultados de Aprendizaje4":"Relacionar el concepto de serie convergente para aplicarlo en la representación de funciones en series de potencias.",
+  "Resultados de Aprendizaje5":"Aplicar el teorema fundamental del cálculo en la solución de problemas",
+  "Resultados de Aprendizaje6":"Resolver y argumentar correctamente la solución de problemas rutinarios y no rutinarios en la aplicación de integrales.",
+  
+  "Materiales de Estudio": "FINNEY, THOMAS. Cálculo una variable. Editorial Addison-Wesley. Undécima edición.\nTEXTOS COMPLEMENTARIOS\nLARSON, RON. Cálculo I. Editorial Mc Graw Hill, octava edición.\nPURCELL VARBERY RIGDON. Cálculo. Editorial Pearson, 2000.\nSTEWART, JAMES. Calculo una variable. Editorial Thomson.\nLEITHOLD, LOUIS. El Cálculo con geometría analítica. Editorial Harla.\nSWOKOWSKI, EARL. Cálculo con geometría analítica. Editorial Iberoamericana.\nAPOSTOL, TOM. Cálculo. Editorial Reverté.\n\nDIRECCIONES DE INTERNET\nwww.stewartcalculus.com\nwww.matematicas.net\nwww.dudasmatematicas.com.ar"
+}
